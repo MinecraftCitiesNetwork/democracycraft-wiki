@@ -122,7 +122,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/MinecraftCitiesNetwork/democracycraft-wiki/'',
+                href: 'https://github.com/MinecraftCitiesNetwork/democracycraft-wiki/',
               },
             ],
           },
