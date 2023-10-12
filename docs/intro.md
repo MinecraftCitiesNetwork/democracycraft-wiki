@@ -23,7 +23,7 @@ The Discord server and our Forums are the two main places where announcements ar
 
 A lot of our server interacts and relies on Discord and Forums. All our platforms are moderated by our Staff team - we recommend you sign up right now on our forums [here](https://www.democracycraft.net) and join our Discord server [here](https://discord.gg/democracy).
 
-![Reveille Police Station](./static/img/intro/reveillepolicestation.png)
+![Reveille Police Station](/img/intro/reveillepolicestation.png)
 
 :::
 
@@ -81,7 +81,7 @@ Most of your health expenses will be covered by Medicare - a free universal heal
 
 :::
 
-![Reveille Hospital](./static/img/intro/deadwax_and_derpy_at_hospital.png)
+![Reveille Hospital](/img/intro/deadwax_and_derpy_at_hospital.png)
 
 ## Government 
 Our government consists of three branches: Legislative, Executive, and Judiciary.
@@ -94,7 +94,7 @@ The Judiciary branch runs the court system. Citizens have the right to bring leg
 
 Apart from Judges and Cabinet members, who require Presidential nomination and Senate approval, anyone can run for a Government position. To participate in an election, simply join the race in our [Elections and Referendums forum](https://www.democracycraft.net/forums/elections-referendums.27/).
 
-![Will you be our next President?](./static/img/intro/will_you_be_our_next_president.png)
+![Will you be our next President?](/img/intro/will_you_be_our_next_president.png)
 
 ## Land
 We still have the classic Minecraft wilderness along with our city to compliment. Read below to see how the two work together.
@@ -115,12 +115,12 @@ Players have the opportunity to rent and own various properties both in the city
 
 To find a plot, just wonder around the city until a message pops up in chat. We recommend instead that you wonder inside large skyscrapers/apartment buildings for an apartment instead. You can right click signs that say "[For Rent]" to rent your first apartment!
 
-![Reveille City](./static/img/intro/reveille_city.png)
+![Reveille City](/img/intro/reveille_city.png)
 
 ## Businesses
 You will often see ChestShops and plots that are branded or owned by businesses. ChestShops will often have ``b:<company name>`` and plots will have company logos on them. You are able to start your own business by getting an Entrepreneur license from our University.
 
-![Sausage Sizzle Stands!](./static/img/intro/sausage_sizzle_stands.png)
+![Sausage Sizzle Stands!](/img/intro/sausage_sizzle_stands.png)
 
 ## That's all!
 Great job on making it this far! Be sure to join our [Discord server](https://discord.gg/democracy) if you haven't already, and feel free to ask questions in-game. We're excited to have you!
