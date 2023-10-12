@@ -23,9 +23,10 @@ The Discord server and our Forums are the two main places where announcements ar
 
 A lot of our server interacts and relies on Discord and Forums. All our platforms are moderated by our Staff team - we recommend you sign up right now on our forums [here](https://www.democracycraft.net) and join our Discord server [here](https://discord.gg/democracy).
 
+:::
+
 ![Reveille Police Station](/img/intro/reveillepolicestation.png)
 
-:::
 
 :::tip Good job on making it this far!
 
