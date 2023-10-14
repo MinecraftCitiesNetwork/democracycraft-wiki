@@ -20,6 +20,21 @@ ChestShop is a plugin that enables players to set up shops in Minecraft, allowin
 - **LINE 3:** Price. Specify the price per transaction. Use 'B' for BUY and 'S' for SELL.
 - **LINE 4:** Item. Identify the item to buy/sell. Use /iteminfo if unsure. Use '?' for autofill based on the chest contents. If the chest is empty, click the sign displaying '?' with the item in hand.
 
+:::note Example 1
+This sign indicates that 1 diamond can be purchased for $25
+![ChestShop Example 1](/img/general-guides/chestshop_step_one.png)
+:::
+
+:::note Example 2
+This sign indicates that 10 diamonds can be purchased for $250 or sold to the shop for $200.
+![ChestShop Example 2](/img/general-guides/chestshop_step_two.png)
+:::
+
+:::note Example 3
+This sign can be clicked with an item to apply it to the sign.
+![ChestShop Example 3](/img/general-guides/chestshop_step_three.png)
+:::
+
 :::tip Company Chestshop Setup
 To connect your chestshop to a company account, write the following on LINE 1: ``b:companyname``
 :::
