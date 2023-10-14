@@ -4,7 +4,6 @@ sidebar_position: 2
 
 # Government Pay
 
-## Introduction
 Welcome to our guide on government pay. Whether you're an aspiring civil servant, a government worker, or a curious citizen, we simplify the complexities of public sector compensation. Join us to understand the principles, classifications, and transparency of government pay.
 
 ## Level 0: Commission
