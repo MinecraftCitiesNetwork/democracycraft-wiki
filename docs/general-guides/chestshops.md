@@ -38,7 +38,7 @@ ChestShop is a plugin that enables players to set up shops in Minecraft, allowin
 
 :::
 
-### Read the Sign:
+### Read the Sign
 - Check quantity and price.
 - Check the stock
 
@@ -49,12 +49,12 @@ ChestShop is a plugin that enables players to set up shops in Minecraft, allowin
 ## View Your Sales
 You'll receive a notification when someone interacts with your store if you are online.
 
-:::tip To view your company ChestShop sales history, run the command: /firm sales yourcompany
-
+:::tip Company ChestShop Sales 
+You can view your business' ChestShop sales by running ``/firm sales <business>``
 :::
 
-:::tip To view your personal ChestShop sales history, run the command: /csn history
-
+:::tip Player ChestShop Sales 
+You can view your business' ChestShop sales by running ``/csn history``
 :::
 
 ## Conclusion
