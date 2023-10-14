@@ -19,10 +19,10 @@ Welcome to the commands guide! Whether you're a seasoned player or new to the se
 ``/ad <message>`` - to send an ad in chat, please note you need to complete the entrepreneur exam to use. Note that there is a small fee to use this command.
 
 :::tip Other Channels
-If you are a member of a government department or institution, chances are you may have additional channels to talk in. For example:
+If you are a member of a government department or institution, chances are you may have additional channels to talk in. For example --
 - Members of the Department of Justice can speak in the ``/doj`` channel.
 - - Members of the Senate can speak in the ``/sen`` channel.
-  - - Members of the courts can speak in the ``/jud`` channel.
+- - Members of the courts can speak in the ``/jud`` channel.
 :::
 
 ## Economy Commands
