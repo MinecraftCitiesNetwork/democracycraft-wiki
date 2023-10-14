@@ -57,5 +57,5 @@ You'll receive a notification when someone interacts with your store if you are 
 
 :::
 
-##Conclusion
+## Conclusion
 With ChestShop, create and manage your virtual store effortlessly, participating in a dynamic player-driven economy in Minecraft.
