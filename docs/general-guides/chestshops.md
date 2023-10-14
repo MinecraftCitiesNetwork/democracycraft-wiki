@@ -20,7 +20,9 @@ ChestShop is a plugin that enables players to set up shops in Minecraft, allowin
 - **LINE 3:** Price. Specify the price per transaction. Use 'B' for BUY and 'S' for SELL.
 - **LINE 4:** Item. Identify the item to buy/sell. Use /iteminfo if unsure. Use '?' for autofill based on the chest contents. If the chest is empty, click the sign displaying '?' with the item in hand.
 
-:::tip To connect your chestshop to a company account, write the following on LINE 1: b:companyname
+:::tip To connect your chestshop to a company account, write the following on LINE 1: b:companyname 
+
+:::
 
 ## Buying/Selling with ChestShop:
 
@@ -34,6 +36,8 @@ ChestShop is a plugin that enables players to set up shops in Minecraft, allowin
 
 :::tip You may choose to partially fill the chest with another item such as dirt to limit the amount of items that your store can buy off players.
 
+:::
+
 ### Read the Sign:
 - Check quantity and price.
 - Check the stock
@@ -46,7 +50,12 @@ ChestShop is a plugin that enables players to set up shops in Minecraft, allowin
 You'll receive a notification when someone interacts with your store if you are online.
 
 :::tip To view your company ChestShop sales history, run the command: /firm sales yourcompany
+
+:::
+
 :::tip To view your personal ChestShop sales history, run the command: /csn history
+
+:::
 
 ##Conclusion
 With ChestShop, create and manage your virtual store effortlessly, participating in a dynamic player-driven economy in Minecraft.
