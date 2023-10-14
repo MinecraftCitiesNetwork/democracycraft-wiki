@@ -73,7 +73,8 @@ This level within the pay structure consists of Members of peak bodies within th
 - Senator
 - Justice
 
-:::info Individuals found witin levels 1 & 2 are normally **elected** or **appointed** positions within the government. 
+:::info Did you know?
+Individuals found witin levels 1 & 2 are normally **elected** or **appointed** positions within the government. 
 
 :::
 
