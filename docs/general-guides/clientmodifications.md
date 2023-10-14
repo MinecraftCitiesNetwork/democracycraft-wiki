@@ -4,7 +4,6 @@ sidebar_position: 4
 
 # Client Modifications
 
-## Introduction
 While most enjoy the Vanilla Minecraft experience, some of us prefer to make some changes. Below is a guide to the resourcepacks and client-side mods that have been approved by our staff team. 
 This is not an exhaustive list, rather just a list of mods that we have already approved. Mods **can be used** outside of this list **in accordance with the client modifications rule.**
 
