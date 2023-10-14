@@ -9,7 +9,7 @@ Welcome to our guide on government pay. Whether you're an aspiring civil servant
 
 ## Level 0: Commission
 
-This level within the pay structure consists of all entry level government employees. These indiiviudals get paid based off of work completed determined by a higher level of management.
+This level within the pay structure consists of all entry level government employees. These individuals get paid based off of work completed determined by a higher level of management.
 
 ### Cabinet
 - President
@@ -69,12 +69,12 @@ This level within the pay structure consists of leaders and upper management of 
 
 This level within the pay structure consists of Members of peak bodies within the Government branches; A great amount of responsibility, management, and governance.
 
-- Represenative
+- Representative
 - Senator
 - Justice
 
 :::info Did you know?
-Individuals found witin levels 1 & 2 are normally **elected** or **appointed** positions within the government. 
+Individuals found within levels 1 & 2 are normally **elected** or **appointed** positions within the government. 
 
 :::
 
@@ -83,7 +83,7 @@ Individuals found witin levels 1 & 2 are normally **elected** or **appointed** p
 This level within the pay structure consists of Middle management of departments. A large amount of responsibility, management, and governance.
 
 - Captain
-- Lietenant
+- Lieutenant
 - Medical Specialist
 - Judge
 - Magistrate
