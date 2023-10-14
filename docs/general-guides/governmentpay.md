@@ -6,103 +6,14 @@ sidebar_position: 2
 
 Welcome to our guide on government pay. Whether you're an aspiring civil servant, a government worker, or a curious citizen, we simplify the complexities of public sector compensation. Join us to understand the principles, classifications, and transparency of government pay.
 
-## Level 0: Commission
+## Government Pay Levels
 
-This level within the pay structure consists of all entry level government employees. These individuals get paid based off of work completed determined by a higher level of management.
-
-### Cabinet
-- President
-- Vice President
-- Secretary
-- Deputy Secretary
-- Chief of Staff
-- Special Advisors
-- Press Advisor
-
-### Department of State
-- Electoral Officer
-- Auditor
-- Ambassador
-- Foreign Officer
-
-### Department of Interior
-- Ranger
-- Environment Manager
-- Supply Manager
-
-### Department of Legal Affairs
-- State Prosecutor
-
-### Department of Public Affairs
-- Media Advisor
-- Event Coordinator
-- Media Manager
-- Event Manager
-- Tour Manager
-
-### Department of Construction and Transportation
-- Construction Manager
-- Inspection Manager
-- Constructor
-- Building Inspector
-
-### Department of Education
-- Education Manager
-- Archivist
-- Guide
-- Archive Manager
-
-### Department of Commerce
-- Economist
-
-## Level 1: $45/15 minutes
-
-This level within the pay structure consists of leaders and upper management of government branches.
-
-- President
-- Speaker
-- President of the Senate
-- Chief Justice
-
-## Level 2: $35/15 minutes
-
-This level within the pay structure consists of Members of peak bodies within the Government branches; A great amount of responsibility, management, and governance.
-
-- Representative
-- Senator
-- Justice
-
-:::info Did you know?
-Individuals found within levels 1 & 2 are normally **elected** or **appointed** positions within the government. 
-
-:::
-
-## Level 3: $30/15 minutes
-
-This level within the pay structure consists of Middle management of departments. A large amount of responsibility, management, and governance.
-
-- Captain
-- Lieutenant
-- Medical Specialist
-- Judge
-- Magistrate
-
-## Level 5: $25/15 minutes
-
-This level within the pay structure consists of base rate of government employees. A small amount of responsibility, no management, and no governance.
-
-- Police Officer
-- Recruit
-- Paramedic
-
-## Level 6: $20/15 minutes
-
-This level within the pay structure consists of a lesser rate where commissions are also present.
-
-- Doctor
-- Clerk
-
-## Universal Basic Income (UBI): $5/15 minutes
-
-- Professions
-- Trade Jobs
+| Commission Level | Description | Jobs |
+|---|---|---|
+| Level 0 | This level within the pay structure consists of all entry level government employees. These individuals get paid based off of work completed determined by a higher level of management. | **Cabinet**<br>- President<br>- Vice President<br>- Secretary<br>- Deputy Secretary<br>- Chief of Staff<br>- Special Advisors<br>- Press Advisor<br><br>**Department of State**<br>- Electoral Officer<br>- Auditor<br>- Ambassador<br>- Foreign Officer<br><br>**Department of Interior**<br>- Ranger<br>- Environment Manager<br>- Supply Manager<br><br>**Department of Legal Affairs**<br>- State Prosecutor<br><br>**Department of Public Affairs**<br>- Media Advisor<br>- Event Coordinator<br>- Media Manager<br>- Event Manager<br>- Tour Manager<br><br>**Department of Construction and Transportation**<br>- Construction Manager<br>- Inspection Manager<br>- Constructor<br>- Building Inspector<br><br>**Department of Education**<br>- Education Manager<br>- Archivist<br>- Guide<br>- Archive Manager<br><br>**Department of Commerce**<br>- Economist |
+| Level 1 | This level within the pay structure consists of leaders and upper management of government branches. | - President<br>- Speaker<br>- President of the Senate<br>- Chief Justice |
+| Level 2 | This level within the pay structure consists of Members of peak bodies within the Government branches; A great amount of responsibility, management, and governance. | - Representative<br>- Senator<br>- Justice |
+| Level 3 | This level within the pay structure consists of Middle management of departments. A large amount of responsibility, management, and governance. | - Police Captain<br>- Police Lieutenant<br>- Medical Specialist<br>- Judge<br>- Magistrate |
+| Level 4 | This level within the pay structure consists of base rate of government employees. A small amount of responsibility, no management, and no governance. | - Police Officer<br>- Recruit<br>- Paramedic |
+| Level 5 | This level within the pay structure consists of a lesser rate where commissions are also present. | - Doctor<br>- Clerk |
+| Universal Basic Income (UBI) | This level within the pay structure consists of a lesser rate where commissions are also present. | - Professions<br>- Trades |
