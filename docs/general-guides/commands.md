@@ -4,7 +4,6 @@ sidebar_position: 5
 
 # Commands
 
-##  Introduction
 Welcome to the commands guide! Whether you're a seasoned player or new to the server, this resource provides quick references for essential player commands. For commands that are specific to certain plugins, review the specific guide! Let's dive in! 
 
 ## Chat Commands
