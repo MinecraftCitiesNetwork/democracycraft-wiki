@@ -12,17 +12,15 @@ This is not an exhaustive list, rather just a list of mods that we have already 
 Resource packs (aka texture packs) are used to change the appearance of the game.
 
 ### Prohibited Resourcepacks
-- X-Ray packs (gives a player the ability to see through non-transparent blocks)
+- X-Ray packs (gives a player the ability to see through non-transparent blocks).
 - Fullbright packs.
 - Any other pack which may give a player an **unfair advantage.**
 
-### Democracycarft Resourcepack
-The Official DemocracyCraft Resourcepack (full texture overhaul with custom homescreen)
-/getrp or /getresourcepack in-game and select it from the GUI
+### Democracycraft Resourcepack
+The Official DemocracyCraft Resourcepack (full texture overhaul with custom homescreen) /getrp or /getresourcepack in-game and select it from the GUI.
 
 ### Guns Resourcepack
-Guns & Ammo Resourcepack (see custom textures for guns and ammo)
-``/getrp`` or ``/getresourcepack`` in-game and select it from the GUI
+Guns & Ammo Resourcepack (see custom textures for guns and ammo) ``/getrp`` or ``/getresourcepack`` in-game and select it from the GUI
 
 :::tip It never hurts to ask!
 If you have a mod you are thinking of playing with but don't see it here. You can always ask a staff member for approval within a Support Ticket on discord!
