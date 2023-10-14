@@ -21,12 +21,12 @@ Welcome to the commands guide! Whether you're a seasoned player or new to the se
 :::tip Other Channels
 If you are a member of a government department or institution, chances are you may have additional channels to talk in. For example --
 - Members of the Department of Justice can speak in the ``/doj`` channel.
-- - Members of the Senate can speak in the ``/sen`` channel.
-- - Members of the courts can speak in the ``/jud`` channel.
+- Members of the Senate can speak in the ``/sen`` channel.
+- Members of the courts can speak in the ``/jud`` channel.
 :::
 
 ## Economy Commands
-``/pay`` <user> - send an user money.
+``/pay <user>`` - send an user money.
 ``/vote`` - earn money by voting on serverlist sites.
 ``/firm deposit <company> <amount>`` - send a company money.
 ``/firm sales <company>`` - view your company chestshop sales.
