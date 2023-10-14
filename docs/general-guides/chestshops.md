@@ -22,16 +22,19 @@ ChestShop is a plugin that enables players to set up shops in Minecraft, allowin
 
 :::note Example 1
 This sign indicates that 1 diamond can be purchased for $25.
+
 ![ChestShop Example 1](/img/general-guides/chestshops/chestshop_step_one.png)
 :::
 
 :::note Example 2
 This sign indicates that 10 diamonds can be purchased for $250 or sold to the shop for $200.
+
 ![ChestShop Example 2](/img/general-guides/chestshops/chestshop_step_two.png)
 :::
 
 :::note Example 3
 This sign can be clicked with an item to apply it to the sign.
+
 ![ChestShop Example 3](/img/general-guides/chestshops/chestshop_step_three.png)
 :::
 
