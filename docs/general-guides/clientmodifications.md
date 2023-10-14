@@ -69,5 +69,5 @@ Here are some modpacks that you can use on our server. All mods within these mod
 There are currently **no** approved forge modpacks.
 
 :::info Have a suggestion?
-Open a Support Ticket on the DemocracryCraft discord to give us a recommendation!
+Open a Support Ticket on the DemocracyCraft discord to give us a recommendation!
 :::
