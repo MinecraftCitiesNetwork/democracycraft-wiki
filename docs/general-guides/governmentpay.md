@@ -5,8 +5,7 @@ sidebar_position: 2
 # Government Pay
 
 ## Introduction
-Welcome to our guide on the Government Pay Structure our concise roadmap through the complexities of how public sector employees are compensated. Whether you're an aspiring civil servant, a current government worker, or a curious citizen, this guide provides clear insights into the principles, classifications, and nuances of government pay. 
-Join us as we unravel the essentials, demystifying the mechanisms that ensure fairness and transparency in public sector remuneration.
+Welcome to our guide on government pay. Whether you're an aspiring civil servant, a government worker, or a curious citizen, we simplify the complexities of public sector compensation. Join us to understand the principles, classifications, and transparency of government pay.
 
 ## Level 0: Commission
 
@@ -59,7 +58,7 @@ This level within the pay structure consists of all entry level government emplo
 
 ## Level 1: $45/15 minutes
 
-This level within the pay structure consists of *Leaders of Government Branches; Significant Responsibility, management, and governance*.
+This level within the pay structure consists of leaders and upper management of government branches.
 
 - President
 - Speaker
@@ -68,15 +67,19 @@ This level within the pay structure consists of *Leaders of Government Branches;
 
 ## Level 2: $35/15 minutes
 
-This level within the pay structure consists of *Members of peak bodies within the Government branches; A great amount of responsibility, management, and governance. Additionally, a lot of work off the server*.
+This level within the pay structure consists of Members of peak bodies within the Government branches; A great amount of responsibility, management, and governance.
 
 - Represenative
 - Senator
 - Justice
 
+:::info Individuals found witin levels 1 & 2 are normally **elected** or **appointed** positions within the government. 
+
+:::
+
 ## Level 3: $30/15 minutes
 
-This level within the pay structure consists of *Middle management of departments. A large amount of responsibility, management, and governance. Little work required off the server*.
+This level within the pay structure consists of Middle management of departments. A large amount of responsibility, management, and governance.
 
 - Captain
 - Lietenant
@@ -86,7 +89,7 @@ This level within the pay structure consists of *Middle management of department
 
 ## Level 5: $25/15 minutes
 
-This level within the pay structure consists of *Base rate of Government employees. A small amount of responsibility, no management, and no governance. Little-to-no work required off the server*.
+This level within the pay structure consists of base rate of government employees. A small amount of responsibility, no management, and no governance.
 
 - Police Officer
 - Recruit
@@ -94,7 +97,7 @@ This level within the pay structure consists of *Base rate of Government employe
 
 ## Level 6: $20/15 minutes
 
-This level within the pay structure consists of *A lesser rate where commissions are also present*.
+This level within the pay structure consists of a lesser rate where commissions are also present.
 
 - Doctor
 - Clerk
