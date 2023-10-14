@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 4
 ---
 
 # Client Modifications
@@ -22,7 +22,7 @@ The Official DemocracyCraft Resourcepack (full texture overhaul with custom home
 
 ### Guns Resource Pack
 Guns & Ammo Resourcepack (see custom textures for guns and ammo)
-/getrp or /getresourcepack in-game and select it from the GUI
+``/getrp`` or ``/getresourcepack`` in-game and select it from the GUI
 
 :::tip It never hurts to ask!
 If you have a mod you are thinking of playing with but don't see it here. You can always ask a staff member for approval within a ``Support Ticket`` on discord!
@@ -56,7 +56,7 @@ Before downloading a mod, make sure it supports Minecraft version 1.18.2 and is 
 - Xaero's Minimap (Fair-Play Edition) - https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap-fair-play-edition
 - Xaero's World Map - https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map
 
-::danger Getting caught
+:::danger Getting caught
 Staff are consistently monitoring gameplay to ensure 100% compliance with the rules. Violating the rules could result in **deportation**!
 
 :::
@@ -72,7 +72,7 @@ Here are some modpacks that you can use on our server. All mods within these mod
 **Forge**
 There are currently **no** approved forge modpacks.
 
-::info Have a suggestions?
+:::info Have a suggestions?
 Open a ``Support Ticket`` on the DemocracryCraft discord to give us a recomendation!
 
 :::
