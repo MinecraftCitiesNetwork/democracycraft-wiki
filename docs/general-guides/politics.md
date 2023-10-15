@@ -8,21 +8,21 @@ DemocracyCraft is the server where players make and amend the rules and laws tha
 
 ## Getting Started
 
-# 1. Choose you path
+### 1. Choose you path
 - **Local Government.** Start your career in the town councils. Work your way to Mayorship and make a big impact in a small place!
 - **Federal Government.** Start your career in the Federal arena. Run for Congress, work your way up through Departments, or run for the Presidency! 
 - **Political Powerbroker.** Join a political party or lobby group and change the nation through persuasion and compromise.
 
-# 2. Understand the Government
+### 2. Understand the Government
 Explore the existing political structure. Understand the roles of elected officials, the legislative process, and the power dynamics within the government. Seek first to understand, then seek to be understood.
 
-# 3. Elections and Campaigning
+### 3. Elections and Campaigning
 - **Running for Office.** Declare your candidacy for various positions. Craft a compelling platform and engage with voters to secure their support.
 - **Vote Wisely.** As a citizen, make informed decisions during elections. Evaluate candidates based on their platforms and past performance.
 - **Joining a Political Party.** To jumpstart your political journey in Redmont, consider joining an existing party. Visit the DemocracyCraft discord and research political parties in the parties forum channel to assist you with campaigning! 
 - **Create a Political Party.** Can't find a political party that best represents your values? Create one yourself or run independent!
  
-# 4. Legislation and Governance
+### 4. Legislation and Governance
 - **Propose Laws.** As a politician, actively contribute by proposing legislation. Address the needs of the community and strive for positive change.
 - **Participate in Debates.** Engage in debates to discuss policies, share your vision, and influence public opinion.
 
