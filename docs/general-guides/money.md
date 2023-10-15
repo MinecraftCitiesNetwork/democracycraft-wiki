@@ -33,21 +33,21 @@ This guide is your roadmap to making money, from landing a job to starting your 
 - Purchase a plot or rent space within existing buildings for your business.
 - Government-assigned shop spaces near spawn are available for new players.
 
-### ChestShops
+## ChestShops
 
-## Independent Selling
+### Independent Selling
 - Use the ChestShop plugin to sell items without registering a business.
 - Manage your funds independently and set up small shops on your plot or rented space.
 
-## Stock Your Shop
+### Stock Your Shop
 - Gather materials through farming, crafting, or exploring the wilderness.
 - Set up your chestshop using the guide provided.
 - Whether you choose a stable job, start a business, or dive into independent selling, Redmont offers diverse opportunities to grow your wealth. Explore your options, make strategic decisions, and watch your bank account flourish!
 
-## Selling to ChestShops
+### Selling to ChestShops
 - Utilize the chestshop plugin to sell items independently.
 - Set up small shops on your plot or rented space without registering a business.
 - Manage your funds effectively and contribute to the bustling Redmont market.
 
-##Conclusion
+## Conclusion
 Whether you choose a stable job, start a business, or dive into independent selling, Redmont offers diverse opportunities to grow your wealth. Explore your options, make strategic decisions, and watch your bank account flourish!
