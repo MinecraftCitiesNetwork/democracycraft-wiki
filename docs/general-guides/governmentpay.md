@@ -10,7 +10,7 @@ Join us as we unravel the essentials, demystifying the mechanisms that ensure fa
 
 ## Level 0: Commission
 
-This level within the pay structure consists of all entry level government employees. These indiiviudals get paid based off of work completed determined by a higher level of management.
+This level within the pay structure consists of all entry level government employees. These indiviudals get paid based off of work completed determined by a higher level of management.
 
 ### Cabinet
 - President
@@ -70,7 +70,7 @@ This level within the pay structure consists of *Leaders of Government Branches;
 
 This level within the pay structure consists of *Members of peak bodies within the Government branches; A great amount of responsibility, management, and governance. Additionally, a lot of work off the server*.
 
-- Represenative
+- Representative
 - Senator
 - Justice
 
@@ -78,8 +78,8 @@ This level within the pay structure consists of *Members of peak bodies within t
 
 This level within the pay structure consists of *Middle management of departments. A large amount of responsibility, management, and governance. Little work required off the server*.
 
-- Captain
-- Lietenant
+- Police Captain
+- Police Lieutenant
 - Medical Specialist
 - Judge
 - Magistrate
