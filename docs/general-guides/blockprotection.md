@@ -6,7 +6,7 @@ sidebar_position: 7
 
 DemocracyCraft features a simple block protection plugin to protect all your valuable goods. Take a few minutes to read this guide so you know how to best protect your loot!
 
-## COMMANDS
+## Commands
 
 ### Lock
 Usage: ``/bolt lock [type] (alias: /lock [type])``
@@ -58,7 +58,7 @@ Description: Displays help.
 Usage: ``/bolt info``
 Description: Display protection information.
 
-## What can I protect?
+## What Can I Protect?
 You can protect the following:
 
 - Chests
