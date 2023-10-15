@@ -4,7 +4,6 @@ sidebar_position: 2
 
 # Government Pay
 
-## Introduction
 Welcome to our guide on the Government Pay Structure our concise roadmap through the complexities of how public sector employees are compensated. Whether you're an aspiring civil servant, a current government worker, or a curious citizen, this guide provides clear insights into the principles, classifications, and nuances of government pay. 
 Join us as we unravel the essentials, demystifying the mechanisms that ensure fairness and transparency in public sector remuneration.
 
