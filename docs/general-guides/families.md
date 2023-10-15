@@ -21,5 +21,6 @@ You can find lawyers through the businesses forum channel on the DemocracyCraft 
 Want to expand your family? Bring players into your family via adoption. You can adopt players by visiting the Department of Public Affairs on Democracycraft Forums.
 
 ## Relevant Legislation:
+Read more about our family laws at the following links:
 
 1. [Adoption Act](https://www.democracycraft.net/threads/adoption-act.9833/)
