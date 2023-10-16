@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # Driver's License
 
 Let's delve into the essential laws, acquiring a vehicle, and mastering car management.
