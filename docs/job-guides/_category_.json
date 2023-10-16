@@ -1,0 +1,8 @@
+{
+  "label": "Job Guides",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Learn more about server jobs here."
+  }
+}
