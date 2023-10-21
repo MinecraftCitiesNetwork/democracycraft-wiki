@@ -6,7 +6,7 @@ sidebar_position: 1
 PUT SOMETHING WHITTY HERE
 
 ## Introduction
-Chefs are essential to the wellbeing of the Commonwealth as the producers of our food and the source of many farmers' and companies' income. As a Chef, you are tasked with taking crop items and converting them into new foods for players to consume.
+Chefs are essential to the wellbeing of the Commonwealth as the producers of our food and the source of many farmers and companies income. As a Chef, you are tasked with taking crop items and converting them into new foods for players to consume.
 
 ## Information
 While your job is to convert crop items into new foods for players to consume, you may do much more with this job in practice! For example, a chef may pair up with a brewer to create a restaurant which offers other beverage options alongside their meals, or may even supply their foods to another player's restaurant! If it isn't exactly your thing to get into the commercial sector, you may even set up a rental agreement to open up a food stand on someone's property! Get creative! The world is your oyster and it's your job to figure out how to cook it!
