@@ -4,12 +4,9 @@ sidebar_position: 1
 
 # Fisherman
 
-
-## Introduction
-
 As a Fisherman, your job is to catch fish in exchange for money. Upon catching a fish, you will automatically be rewarded based on the rarity of your catch, everything from the most common Raw Cod to the rarest Tropical Fish!
 
-##Information
+## Information
 
 You can fish in any body of water, whether it be natural or man-made. The only restriction is that you **CAN NOT** use an automatic or afk fishing machine.
 
