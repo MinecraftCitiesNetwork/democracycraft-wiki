@@ -19,7 +19,7 @@ In order to open up your own business, however, you must have passed the entrepr
 ## How it works
 To see all of the available items/recipes, do **/ia** in game.
 
-<img src="https://i.imgur.com/wGbjfyJ.png" width="375" height="300">
+![](https://i.imgur.com/wGbjfyJ.png)
 
 There are ingredients you will need for each recipe, and sometimes you will need containers as well.
 
@@ -27,7 +27,7 @@ To see what you will need, pick a category: cooked food, deserts, beverages. If 
 
 Select the item you'd like to make to see what the recipe is for that item. If there are non-vanilla items in the recipe, you can click the item to see how to make it. To go back, click the red x. You can go on to more pages by clicking the blue arrows. You can search for an item using the magnifying glass on the home screen.
 
-<img src="https://i.imgur.com/8h5ONyN.gif" width="475" height="425">
+![](https://i.imgur.com/8h5ONyN.gif)
 
 
 
