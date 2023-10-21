@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Lumberjack Guide
+# Lumberjack
 
 The Lumberjack job requires you to log trees, this job is essential to the logging industry and can be used to better advantage yourself in gathering and selling wood etc.
 
