@@ -20,8 +20,8 @@ Lawyers in Redmont have several important roles:
 In order to marry two players, they both need to consent. Abuse of this permission to marry players will be monitored by staff. You may charge for your services in both marriage and divorce.
 
 Commands:
-- /marry <playername> <playername> - Marries two players.
-- /marry divorce <playername> - Divorces two players.
+- /marry ``playername`` ``playername`` - Marries two players.
+- /marry divorce ``playername`` - Divorces two players.
 
 ## General Links
 
