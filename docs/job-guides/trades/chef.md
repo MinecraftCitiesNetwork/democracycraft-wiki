@@ -6,11 +6,11 @@ sidebar_position: 1
 
 Are you ready to become the next master chef of Reveille? Chefs play a crucial role in the wellbeing of the Commonwealth as they are responsible for producing our food and supporting many farmers and companies' income. As a Chef, your primary task is to take crop items and transform them into delicious new foods for players to enjoy.
 
-## Making a Living
+## What Chefs Do
 
 While your official job is to convert crop items into delectable dishes for players, the world of culinary arts is full of possibilities. In practice, chefs can do much more! For instance, you might collaborate with a brewer to establish a restaurant offering a variety of beverages alongside your meals. You could also supply your culinary creations to other players' restaurants. If you're not keen on venturing into the commercial sector, you can set up a rental agreement to operate a food stand on someone else's property. Get creative and explore the vast culinary landscape!
 
-## After Passing the Exam
+## Passed the Exam? What now?
 
 Once you've successfully passed your chef's exam, it's recommended that you either purchase or rent your own plot of land to establish your very own food-related business. If this option doesn't pique your interest or you lack the necessary funds or land, you can seek employment opportunities through DC Jobs. Join the DC Jobs Discord Server to explore potential culinary careers.
 
