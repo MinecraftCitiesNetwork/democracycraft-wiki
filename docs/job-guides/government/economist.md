@@ -2,6 +2,8 @@
 
 Economists are subject matter experts in economic systems and strategies. They undertake various roles within the department, including maintaining exams, proposing new jobs, reviewing business applications, tracking economic data, enforcing commerce laws, and contributing to other department duties.
 
+![Image](https://media.discordapp.net/attachments/838356841217916989/1165657271733329980/2023-03-12_17.33.28.png?ex=6547a5ee&is=653530ee&hm=fa33d3222d577adda4fe453bdc6723627cebd43bf3baed91e5ea63540af5e4bf&=&width=1266&height=671)
+
 ## Duties
 
 Upon acceptance, Economists may choose between two teams, each with specific duties:
@@ -33,6 +35,8 @@ The Department of Commerce has the following structure:
 - **Economist - DC Jobs**: Oversees exclusively the day-to-day operations of the DC Jobs Discord channel, enforcing both DEC policy and law within it.
 
 - **Economist - Career Coach**: Works within DC Jobs to aid new players in the job finding process based on their specific needs and skillsets.
+
+![Image](https://media.discordapp.net/attachments/838356841217916989/1165656781675040768/2022-06-18_18.39.04.png?ex=6547a579&is=65353079&hm=9516f2ffedd3739e77d6ba08c36d6e66243971e927e6c251ea19d34ff4ab89f1&=&width=1266&height=671)
 
 ## Application Process
 
