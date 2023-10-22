@@ -2,10 +2,7 @@
 sidebar_position: 1
 ---
 
-# Hunter Guide
-
-
-## Introduction
+# Hunter
 
 As a Hunter, your job is to kill mobs--preferably in the wilderness--in exchange for money. Whether that be for casual food sources, such as farming cows, or killing zombies to defend yourself is up to you. However, you are still subject to the law and may not kill other players unless in the wilderness (even in this case, you will not get paid for the kill). You may also capture hostile mobs by throwing chicken eggs at them in order to obtain that mob's spawn egg for a price of $50!
 
