@@ -1,6 +1,8 @@
 # Medical Specialist
 
-Medical Specialists (MS) are experienced individuals in the health system that assist in the administration of the hospital, training of new doctors, and evaluation of trainees. Medical Specialists are wage-based and receive a wage of $25 per 15 minutes. They also receive monthly bonuses at the end of each month. Applications for this role are currently: [![OPEN](https://img.shields.io/badge/Application-OPEN-brightgreen)](https://www.democracycraft.net/threads/medical-specialist-application-information.525/)
+Medical Specialists (MS) are experienced individuals in the health system that assist in the administration of the hospital, training of new doctors, and evaluation of trainees. 
+
+![Image](https://media.discordapp.net/attachments/838356841217916989/1165656617635811428/2023-10-21_13.37.14.png?ex=6547a552&is=65353052&hm=26f2e4a1ad46337b8b2fc7f975714bcdd45d591841eecb7787ba2f94e278ff61&=&width=1276&height=671)
 
 ## Duties
 
@@ -38,6 +40,8 @@ Medical Specialists (MS) are experienced individuals in the health system that a
 **Doctor:** The backbone of the department. Has had a successful evaluation. Attends patients.
 
 **Trainee Doctor:** A doctor who has not completed their evaluation. Attends patients to gain experience.
+
+![Image](https://media.discordapp.net/attachments/838356841217916989/1165658733905461288/2022-09-27_15.57.15.png?ex=6547a74b&is=6535324b&hm=66b8a7a4f989a6ff39ef8710c5afd071b91f4f68136a48dc4c6f1e0442aeaab7&=&width=1266&height=671)
 
 ## Protocols
 
