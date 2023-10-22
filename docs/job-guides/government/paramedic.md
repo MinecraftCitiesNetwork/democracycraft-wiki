@@ -18,10 +18,15 @@ Paramedics are experienced doctors who are able to operate ambulances to pick up
 ## Structure
 
 **Secretary of Health:** Manages the department operations, creates and amends department policy. Works in determining Doctor of the Month.
+
 **Deputy Secretary of Health:** Assists in the leadership of the department. Works in determining Doctor of the Month.
+
 **Medical Specialist:** Responsible for general administration. Reports training records and evaluation records to Discord. Administers vaccines (currently unavailable), and attends patients.
+
 **Paramedic:** Access to government-issued ambulance. Responds to EMT calls and transports patients to hospital. Is a doctor as well.
+
 **Doctor:** The backbone of the department. Has had a successful evaluation. Attends patients.
+
 **Trainee Doctor:** A doctor who has not completed their evaluation. Attends patients to gain experience.
 
 ## Protocols
