@@ -4,19 +4,17 @@ sidebar_position: 1
 
 # Hunter
 
-As a Hunter, your job is to kill mobs--preferably in the wilderness--in exchange for money. Whether that be for casual food sources, such as farming cows, or killing zombies to defend yourself is up to you. However, you are still subject to the law and may not kill other players unless in the wilderness (even in this case, you will not get paid for the kill). You may also capture hostile mobs by throwing chicken eggs at them in order to obtain that mob's spawn egg for a price of $50!
+As a Hunter, your main responsibility is to eliminate mobs, preferably in the wilderness, in exchange for payment. You can choose to hunt for food, like cows, or defend yourself against zombies. But remember, you must follow the law and avoid harming other players, unless you're in the wilderness (and even then, you won't get paid for player kills). Hunters also have the unique ability to capture hostile mobs using chicken eggs, allowing them to obtain spawn eggs for a fee of $50!
 
-## Information
+## What Hunters Do
 
-Aside from simply walking around and killing things in the wild like Mojang intended, there are several other ways a Hunter may earn cash. Players with this job may maximize the amount of cash they receive by making manually operated or semi-automatic mob farms which allows that they both receive a steady income through kills and a consistent supply of that mob's drops which they may sell to any given business or even craft into other things to sell for a higher price point!
+Beyond simply wandering the wilderness and hunting mobs as intended by Mojang, Hunters have various ways to earn money. They can create manual or semi-automatic mob farms to secure a steady income from kills and a constant supply of mob drops, which they can sell to businesses or craft into valuable items to fetch higher prices.
 
-If you have the mindset to grind and the hunger for cold, hard cash then this is the job for you.
+If you're determined, willing to grind, and motivated by a desire for substantial earnings, this job might be an excellent fit for you.
 
-## Passed the Exam? Now What?
+## Passed the Exam? What Now?
 
-It is recommend that Hunters construct farms to bring in cash and sell those items either out of their own storefront or to a business owner! Below are a few guides to help you get started!
-
-_Make sure to modify your build such that it does not break server rules by operating automatically._
+After passing the exam, it's recommended that Hunters set up farms to generate income and sell the resulting items either in their own stores or to business owners. Here are some guides to help you get started:
 
 - [Creeper Farm](https://www.youtube.com/watch?v=nTzqITaNEUg&t=0s)
 - [Enderman Farm](https://www.youtube.com/watch?v=tMgBbvH7AhY)
@@ -24,8 +22,9 @@ _Make sure to modify your build such that it does not break server rules by oper
 - [Skeleton/Zombie Farm](https://www.youtube.com/watch?v=dQUwA2AikHo)
 - [Slime Farm](https://www.youtube.com/watch?v=X1mRLDpoiOk)
 
-For more information, read the [Making Money Guide](https://democracycraft.net/threads/making-money.1410/) or the [Mob Egg Capturing Guide](https://www.democracycraft.net/threads/mob-egg-capturing.9644/).
+For more information, you can refer to the [Making Money Guide](https://democracycraft.net/threads/making-money.1410/) or the [Mob Egg Capturing Guide](https://www.democracycraft.net/threads/mob-egg-capturing.9644/).
 
 ## Hunter Recipes
+
 - 1 white wool -> 2 string
 - 9 rotten flesh -> 1 leather
