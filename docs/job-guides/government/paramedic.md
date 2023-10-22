@@ -2,6 +2,8 @@
 
 Paramedics are experienced doctors who are able to operate ambulances to pick up patients who may have difficulties traveling to the hospital. 
 
+![Image](https://media.discordapp.net/attachments/838356841217916989/1165658733905461288/2022-09-27_15.57.15.png?ex=6547a74b&is=6535324b&hm=66b8a7a4f989a6ff39ef8710c5afd071b91f4f68136a48dc4c6f1e0442aeaab7&=&width=1266&height=671)
+
 ## Duties
 
 **Answer EMT Calls**
