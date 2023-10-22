@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Fisherman Guide
+# Fisherman
 
 As a Fisherman, your job is to catch fish in exchange for money. Upon catching a fish, you will automatically be rewarded based on the rarity of your catch, everything from the most common Raw Cod to the rarest Tropical Fish!
 
