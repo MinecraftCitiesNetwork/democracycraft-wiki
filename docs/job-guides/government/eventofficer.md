@@ -49,7 +49,7 @@ The Department of Public Affairs' events pathway is structured as follows:
 
 - **Event Coordinator (and Subteam Member)**: Plans, hosts, organizes, and participates in server events.
 
-![Image](https://media.discordapp.net/attachments/838356841217916989/1165665154004963460/2021-02-28_04.44.11.png?ex=6547ad45&is=65353845&hm=d40b6d5dc0589ccc23ef4c15b064efea9f32053979c86bf67b9b5cc27448ecd4&=&width=1266&height=671)
+![Image](https://media.discordapp.net/attachments/838356841217916989/1165665151899414579/2021-02-15_12.12.01.png?ex=6547ad45&is=65353845&hm=ab7dc2073db2330b3ea1670be41ae8cc40ebdfe7a94293ee3179af67c1d11c46&=&width=1266&height=671)
 
 ## Protocols
 
