@@ -2,6 +2,8 @@
 
 Event Coordinators assist in organizing and hosting community events.
 
+![Image](https://media.discordapp.net/attachments/838356841217916989/1165664189528944650/2021-04-25_01.27.56.png?ex=6547ac5f&is=6535375f&hm=eb83bed1d39532d03522eeffa2d53f935d6527b561f1a92e7e5d4f3e50d41515&=&width=1266&height=671)
+
 ## Duties
 
 As an Event Coordinator, you are responsible for planning, organizing, hosting, and participating in server events. This includes tasks such as organizing personnel, securing locations, procuring items, and selecting event dates and times. It is recommended to have voice chat capabilities for hosting events.
@@ -46,6 +48,8 @@ The Department of Public Affairs' events pathway is structured as follows:
 - **Event Manager (and Subteam Leader)**: Assists in leading Event Coordinators, adjusts department policy, votes on applications, and manages an assigned subteam.
 
 - **Event Coordinator (and Subteam Member)**: Plans, hosts, organizes, and participates in server events.
+
+![Image](https://media.discordapp.net/attachments/838356841217916989/1165665154004963460/2021-02-28_04.44.11.png?ex=6547ad45&is=65353845&hm=d40b6d5dc0589ccc23ef4c15b064efea9f32053979c86bf67b9b5cc27448ecd4&=&width=1266&height=671)
 
 ## Protocols
 
