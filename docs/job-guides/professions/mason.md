@@ -24,8 +24,8 @@ Whether you are into building, demolishing, or simply want to make crafting fast
 
 It is recommended that you get your entrepreneur license, purchase or rent a plot or store to set up a storefront, then register a business with the DoC! In order to see which properties are available, just run `/as info reselling`, `/as info forsale`, or `/as info forrent` in-game.
 
-<details>
-<summary>Mason Recipes</summary>
+## Mason Recipes
+
 | Recipe                        | Output                                |
 |-------------------------------|---------------------------------------|
 | 1 andesite wall               | 1 andesite                            |
