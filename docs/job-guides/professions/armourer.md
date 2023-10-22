@@ -1,4 +1,4 @@
-# Armourers Guide
+# Armourers
 
 As an Armourer, you are responsible for contributing to the server’s arms-based industry. This is achieved by crafting weapons to sell to the community. If crafting weaponry is your forte, while of course staying legal, then we recommend this job for you!
 
