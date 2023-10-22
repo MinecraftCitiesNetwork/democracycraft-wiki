@@ -8,6 +8,8 @@ Every Citizen is taxed a certain amount of money from their balance on a daily b
 
 Taxes are subjected to change at any time.
 
+![Image](https://cdn.discordapp.com/attachments/838356841217916989/1165664192347521074/2022-06-11_03.45.46.png?ex=6547ac60&is=65353760&hm=e9b594edca02f55e844dc80c930dc4d075e73abbe5967fa6fe759df00e5a5d7f&)
+
 ## Tax Brackets
 
 ### Personal Balance
