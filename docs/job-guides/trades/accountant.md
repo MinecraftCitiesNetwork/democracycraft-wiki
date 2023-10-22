@@ -2,9 +2,7 @@
 sidebar_position: 1
 ---
 
-# Accountant Guide
-
-## Introduction
+# Accountant
 
 Accounting is the systematic process of identifying, measuring, recording, classifying, summarizing, analyzing, and interpreting financial transactions and information. It serves as the backbone of effective financial management and provides critical data for various purposes, including decision-making, performance evaluation, and regulatory compliance.
 
