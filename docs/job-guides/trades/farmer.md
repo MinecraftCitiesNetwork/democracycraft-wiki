@@ -45,6 +45,8 @@ If you've passed your Farmer exam, here are your next steps:
 - **Find Available Plots**: Discover plots for sale or lease under #realty-adverts on our Discord or look for in-game advertisements.
 - **Gather Resources**: To collect resources, you can either buy them from player shops or obtain them yourself in the wild. To access the wild, type /warp airport and choose one of the six starting locations.
 
+![airport](https://cdn.discordapp.com/attachments/838356841217916989/1165590303378509895/capture-png.png?ex=6547678f&is=6534f28f&hm=7b74fe49b1a9cd4044228fbb6ba8e703933aca1a0c485fa5778c889f6e0a4769&)
+
 For more detailed information on making money, you can refer to the [Guide - Making Money](https://democracycraft.net/threads/making-money.1410/).
 
 Additionally, you can find job opportunities and connect with potential employers through DC Jobs: [Join the DC Jobs Discord here](https://discord.gg/Q8rNjddjjh).
