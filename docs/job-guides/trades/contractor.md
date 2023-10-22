@@ -4,30 +4,38 @@ sidebar_position: 1
 
 # Contractor
 
-As a contractor in Redmont, your job is to take on contracts to provide materials or labor for various tasks, from building structures to collecting resources and more. Here's what you need to know:
+As a contractor in Redmont, your role revolves around accepting contracts to provide either materials or labor for a variety of tasks. These tasks can range from building structures to collecting resources and much more. Here's everything you need to know about this profession.
 
-## Contractor Tasks
+## What Contractors Do
 
-In general, contractors perform four main types of tasks:
+Contractors typically perform four main types of tasks:
 
-1. **Build:** You might be constructing buildings, redstone contraptions, farms, or infrastructure for businesses. Your work depends on the client's needs.
+### 1. Build
 
-2. **Destroy:** This involves more than just demolishing structures; it can include tasks like digging trenches, clearing space, or removing parts of a building.
+Your skills in construction might be put to use in various ways, including constructing buildings, redstone contraptions, farms, or essential infrastructure for businesses. Your work will be determined by the specific needs of your clients.
 
-3. **Collect:** You may gather resources like crops, ores, or other materials for clients who lack the time or ability to do it themselves.
+### 2. Destroy
 
-4. **Kill:** This task is about defeating mobs for their drops. You might be collecting materials from creatures like creepers.
+The "destroy" task entails more than just demolishing structures. It can include activities like digging trenches, clearing land, or removing sections of a building to prepare it for a new purpose.
+
+### 3. Collect
+
+As a contractor, you might find yourself gathering resources such as crops, ores, or other materials for clients who lack the time or expertise to do so themselves. Your resource-gathering capabilities can be invaluable.
+
+### 4. Kill
+
+The "kill" task involves hunting and defeating mobs to obtain valuable drops. You may be tasked with collecting materials from creatures like creepers or other hostile mobs.
 
 ## Getting Paid
 
-Payment for your work is negotiated between you (or your company) and the client. It's a private industry, so you can take on multiple jobs simultaneously. To find clients and jobs, consider advertising on Discord in #business-adverts and in-game.
+The compensation for your work as a contractor is typically negotiated directly between you (or your company) and the client. This industry is private, allowing you to take on multiple jobs simultaneously. To discover potential clients and job opportunities, consider promoting your services on the official Discord server in the #business-adverts channel and within the game.
 
-**DC Jobs** is a great resource for advertising and finding employees for your company. Consider creating a Discord server for your company to facilitate communication and work orders, ensuring a steady income.
+Utilizing **DC Jobs** can be a valuable resource for both advertising your services and finding potential employees for your company. Creating a dedicated Discord server for your company can streamline communication and work orders, ensuring a steady flow of income.
 
 ## After Passing the Exam
 
-If you've passed the exam, you may want to explore the Entrepreneur guide and consider registering a business on the Business Portal subforum. Alternatively, look for a company that needs your contractor skills.
+If you've successfully passed the exam to become a certified contractor, you might want to explore the Entrepreneur guide. This guide can help you navigate the process of registering a business on the Business Portal subforum. Alternatively, you can seek out existing companies that require your contractor skills.
 
-For more information, read the [Making Money Guide](https://democracycraft.net/threads/making-money.1410/).
+For more detailed information, consider reading the [Making Money Guide](https://democracycraft.net/threads/making-money.1410/).
 
-To find job opportunities, check out DC Jobs on [Discord](https://discord.gg/Q8rNjddjjh).
+To discover job opportunities and connect with potential clients and employees, be sure to check out DC Jobs on [Discord](https://discord.gg/Q8rNjddjjh).
