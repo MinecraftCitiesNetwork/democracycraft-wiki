@@ -2,7 +2,7 @@
 
 As a designer, you can unleash your inner artist with the ArtMap plugin.
 
-# Dyes
+## Dyes
 
 Explore a wide range of colors for your paintings by clicking the Dyes slot (Rose Red) in the ArtMap GUI (/artmap).
 
@@ -14,49 +14,49 @@ Clicking this will show a page of items, each with its own color. There are mult
 
 While sitting at the easel and canvas, you can view the colors in your inventory. You can choose and scroll through them using the same arrows as mentioned above.
 
-# Tools
+## Tools
 
 View your tools in the ArtMap GUI by clicking the Book and Quill. A menu will open with several tools, including Bucket, Coal, Feather, and Compass. You can use these tools when you sit down at the easel to paint.
 
-## Paint Bucket
+### Paint Bucket
 
 The paint bucket is a filler tool. To fill large areas of a painting, left-click to fill an area of the canvas with the dye in your offhand. To undo your last fill, right-click while still holding the bucket.
 
-## Coal
+### Coal
 
 The coal tool lets you adjust the brightness of pixels, giving you more shades of colors. You can usually darken a color once or twice. Hold the coal and right-click on a color to make it darker than the original color.
 
 ![Coal](https://cdn.discordapp.com/attachments/838356841217916989/1165580047621558272/1690550147817-png.png?ex=65475e02&is=6534e902&hm=22b2a8d5bf6a5921a0980055975d49240f69a28ea38cea88417687fdc1792dd3&)
 
-## Feather
+### Feather
 
 The feather does the opposite of what the coal's function is. Instead of making a color darker, it will make a color lighter.
 
 ![Feather](https://cdn.discordapp.com/attachments/838356841217916989/1165580062742024202/1690550158034-png.png?ex=65475e06&is=6534e906&hm=b0b68ea3355c6e94447a5dfbe35cd693fb3629070dd645e8a454fb2461de71e3&)
 
-## Compass
+### Compass
 
 The compass allows you to flip your art vertically/horizontally.
 
-### Original
+**Original**
 
 ![Original](https://cdn.discordapp.com/attachments/838356841217916989/1165580078307098655/1690550189821-png.png?ex=65475e0a&is=6534e90a&hm=64784e840e5be61e25d4512887d01578e9372db0fe47a34ebab7b7b47fc59e46&)
 
-### After Left Click
+**After Left Click**
 
 ![After Left Click](https://cdn.discordapp.com/attachments/838356841217916989/1165580092378976296/1690550195537-png.png?ex=65475e0d&is=6534e90d&hm=26b365dc8a61868047949e713c30f5614ef563b2d3c5aad9442212eadda2d8dc&)
 
 Left-click while holding the compass to flip your art horizontally.
 
-### Original
+**Original**
 
 ![Original](https://cdn.discordapp.com/attachments/838356841217916989/1165580104538263582/1690550251293-png.png?ex=65475e10&is=6534e910&hm=a71333fb96c7e2fb23e0bacf2074f70ed5f1eb3283c081db78bcea427f15a402&)
 
-### After Right Click
+**After Right Click**
 
 ![After Right Click](https://cdn.discordapp.com/attachments/838356841217916989/1165580117955858442/1690550255631-png.png?ex=65475e13&is=6534e913&hm=8add280de90d47668cad1224abe19c6843ade5447402089183dd70cbfa4eadee&)
 
-# Crafting
+## Crafting
 
 Before you can start making art, you need to do the following:
 1. Craft an easel.
@@ -73,7 +73,7 @@ There are five categories in the GUI, listed as the following:
 - Tools
 - Artworks
 
-# Recipes
+## Recipes
 
 This category is crucial for making art maps, as it contains all the necessary recipes. There are four possible recipes listed: Easel, Canvas, Paint Bucket, and Paint Brush. The easel and canvas recipes are the most important ones.
 
@@ -81,7 +81,7 @@ To view a recipe, click on the category, and a crafting table menu will open wit
 
 ![Recipe](https://cdn.discordapp.com/attachments/838356841217916989/1165580151367671908/1690550425536-png.png?ex=65475e1b&is=6534e91b&hm=f918dd27b9d463a582132057fb8b94e94a7d045f19ad499d07d93438115a2e1b&) ![Recipe](https://cdn.discordapp.com/attachments/838356841217916989/1165580166009991188/1690550431653-png.png?ex=65475e1f&is=6534e91f&hm=fcc3483106170cfd2df87f05f1bcd3d5c68e12311e1e1ffdf2d1a340f152fa79&)
 
-# Painting
+## Painting
 
 Once you've crafted both your canvas and easel, you're ready to paint!
 
@@ -95,7 +95,7 @@ To paint, select a color and left-click or right-click while holding the color. 
 
 If you want to take a break from painting, press the shift key to exit the easel. Your art will be saved, and it will remain on the easel for you to return to at a later time.
 
-# Saving Artwork
+## Saving Artwork
 
 After creating your masterpiece, you can save it in two ways:
 
@@ -104,7 +104,7 @@ After creating your masterpiece, you can save it in two ways:
 
 If you choose the second method, a GUI will appear, similar to an anvil interface. Enter your desired artwork title and then click it out of the finishing slot, just like when enchanting a tool.
 
-# Display your Art
+## Display your Art
 
 To display your art, place an item frame, and right-click it while holding your art. It will be displayed like a picture!
 
