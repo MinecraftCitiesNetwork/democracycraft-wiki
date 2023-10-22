@@ -1,20 +1,6 @@
 # Paramedic
 
-Paramedics are experienced doctors who are able to operate ambulances to pick up patients who may have difficulties traveling to the hospital. Paramedics are wage-based and receive a wage of $20 per 15 minutes. Applications for this role are currently: [![OPEN](https://img.shields.io/badge/Application-OPEN-brightgreen)](https://www.democracycraft.net/threads/medical-specialist-application-information.525/)
-
-## Application Process
-
-In order to apply for Paramedic, you will have to fill out an application and meet the appropriate requirements outlined [here](https://www.democracycraft.net/threads/medical-specialist-application-information.525/).
-
-### Application Steps
-
-1. Go to the Forums -> Department of Health -> Applications.
-   ![Forum Application](https://i.imgur.com/KvOWKfc.png)
-2. Click on 'Applications' & 'Apply'.
-   ![Click Apply](https://i.imgur.com/ZdkFgU2.png)
-3. Fill in your details and submit the application.
-
-Should you have any questions about the application, be sure to go to #government-support on the main Discord and open a ticket in relation to the department you are applying under.
+Paramedics are experienced doctors who are able to operate ambulances to pick up patients who may have difficulties traveling to the hospital. 
 
 ## Duties
 
@@ -31,6 +17,12 @@ Should you have any questions about the application, be sure to go to #governmen
 
 ## Structure
 
+**Secretary of Health:** Manages the department operations, creates and amends department policy. Works in determining Doctor of the Month.
+**Deputy Secretary of Health:** Assists in the leadership of the department. Works in determining Doctor of the Month.
+**Medical Specialist:** Responsible for general administration. Reports training records and evaluation records to Discord. Administers vaccines (currently unavailable), and attends patients.
+**Paramedic:** Access to government-issued ambulance. Responds to EMT calls and transports patients to hospital. Is a doctor as well.
+**Doctor:** The backbone of the department. Has had a successful evaluation. Attends patients.
+**Trainee Doctor:** A doctor who has not completed their evaluation. Attends patients to gain experience.
 
 ## Protocols
 
@@ -46,3 +38,18 @@ Should you have any questions about the application, be sure to go to #governmen
 - The Secretary reserves the right to dismiss poorly performing members of the department.
 
 Doctor protocols and rules apply. Please check out the [Doctor Guide](https://www.democracycraft.net/threads/doctor-guide.1450/).
+
+## Application Process
+
+In order to apply for Paramedic, you will have to fill out an application and meet the appropriate requirements outlined [here](https://www.democracycraft.net/threads/medical-specialist-application-information.525/).
+
+### Application Steps
+
+1. Go to the Forums -> Department of Health -> Applications.
+   ![Forum Application](https://i.imgur.com/KvOWKfc.png)
+2. Click on 'Applications' & 'Apply'.
+   ![Click Apply](https://i.imgur.com/ZdkFgU2.png)
+3. Fill in your details and submit the application.
+
+Should you have any questions about the application, be sure to go to #government-support on the main Discord and open a ticket in relation to the department you are applying under.
+
