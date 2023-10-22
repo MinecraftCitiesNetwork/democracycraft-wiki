@@ -4,52 +4,50 @@ sidebar_position: 1
 
 # Lumberjack
 
-The Lumberjack job requires you to log trees, this job is essential to the logging industry and can be used to better advantage yourself in gathering and selling wood etc.
+As a Lumberjack, your primary task is to chop down trees. This job plays a crucial role in the logging industry and allows you to gather and sell wood efficiently.
 
-## Information
+## What Lumberjacks Do
 
-This job wouldn’t be made if you simply can destroy trees like a regular player! As a Lumberjack, you are given exclusive access to use the tree feller ability by using the left click to chop trees in one go! This is a Lumberjack only ability. This tree felling ability aiming to assist players by giving an advantage over possible competition by making trees easier to log.
+Being a Lumberjack isn't just about cutting trees like any other player. You have an exclusive ability known as the "Tree Feller." With a simple left-click, you can bring down entire trees at once. This special skill sets you apart from regular players and makes wood harvesting easier and more efficient.
 
-While everyone can sell logs, only you have access to the tree feller ability, which gives a competitive advantage.
+While anyone can sell logs, only Lumberjacks have the advantage of the Tree Feller ability, giving them a competitive edge in the industry.
 
-If you enjoy gathering wood and would like a boost in doing so, then this job could be suited for you! We hope you are able to obtain this job and we hope this job assists you in your tree related endeavours!
+If you enjoy collecting wood and want to excel at it, this job might be perfect for you. We hope you can obtain this role and that it enhances your tree-related endeavors.
 
-## Passed the exam? What now?
+## Passed the Exam? What Now?
 
-It's recommended that you purchase a plot and build a store, or rent a shop to sell your products in! Find available plots for sale/lease under #realty-adverts on our discord. You can also sell to businesses using /find {item name} and find a shop with either a minecart or enderchest. 
+After passing the exam, it's recommended to purchase a plot or rent a shop to sell your wood products. You can find available plots in the #realty-adverts section on our Discord. Additionally, you can sell your wood to businesses using the /find {item name} command to locate shops with minecarts or enderchests.
 
-To gather resources, you can either buy them from player shops or obtain them yourself in the wild. To get to the wild, type /warp airport. Right click a monitor in the airport and choose out of 7 wild starting locations (pictured below).
+To gather resources, you can either buy them from player shops or obtain them in the wild. Access the wild by typing /warp airport and select one of the seven starting locations. (See the picture below).
 
 ![](https://i.imgur.com/tzWfNL8.png)
 
-(Check /map if you're looking for a specific biome).
+(Use /map to find specific biomes).
 
-For more info - read the [Making Money Guide](https://democracycraft.net/threads/making-money.1410/)
+For more information, read the [Making Money Guide](https://democracycraft.net/threads/making-money.1410/).
 
-You can find a company to work for with DC Jobs: [Join the DC Jobs Discord Server!](https://discord.gg/Q8rNjddjjh)
+You can also explore job opportunities with DC Jobs: [Join the DC Jobs Discord Server](https://discord.gg/Q8rNjddjjh).
 
-## Recipes
+## Crafting Recipes
 
-Lumberjacks also have the ability to change wood items (fences, doors, etc.) back into wood planks!
-
-All of the recipes available to the Lumberjack are done within a crafting table except for the specified blast furnace recipes.
+Lumberjacks have the unique ability to convert wood items (like fences and doors) back into wood planks. All these recipes are done within a crafting table, except for specified blast furnace recipes.
 
 <details>
-  <summary>Lumberjack Recipes</summary>
+  <summary>Available Recipes</summary>
   
-- slab -> 1 plank
+- Slab -> 1 plank
   
-- fence -> 1 plank
+- Fence -> 1 plank
   
-- stair -> 1 plank
+- Stair -> 1 plank
   
-- door -> 1 plank
+- Door -> 1 plank
   
-- trapdoor -> 1 plank
+- Trapdoor -> 1 plank
   
-- fence gate -> 1 plank
+- Fence Gate -> 1 plank
   
-- boat -> 2 planks
+- Boat -> 2 planks
   
-- sign -> 1 plank
+- Sign -> 1 plank
 </details>
