@@ -46,3 +46,534 @@ To craft elixirs in DemocracyCraft, you need to set up the following:
 
 ## Elixir Recipes
 Here are some popular elixir recipes for you to explore and craft. Each recipe provides a list of ingredients, brewing time, distillation runs, and aging requirements:
+
+<details>
+<summary>Skunky Elixir</summary>
+Ingredients: 5 Wheat
+Boil Time: 7 Minutes
+Distill Runs: 0
+Age: 3 Years
+Barrel Wood: Any
+In-Game Name: Skunky Elixir
+If Didn't Work, What did it Turn Into: N/A
+</details>
+<details>
+<summary>Fine Dark Elixir</summary>
+Ingredients: 6 Wheat
+Boil Time: 7 Minutes
+Distill Runs: 0
+Age: 7 Years
+Barrel Wood: Dark Oak
+In-Game Name: Fine Dark Elixir
+If Didn't Work, What did it Turn Into: N/A
+</details>
+<details>
+<summary>Cascade Kriek Elixir</summary>
+Ingredients: 6 Wheat, 6 Sweet Berries, 3 Blaze Powder
+Boil Time: 7 Minutes
+Distill Runs: 0
+Age: 7 Years
+Barrel Wood: Dark Oak
+In-Game Name: Cascade Kriek Elixir
+If Didn't Work, What did it Turn Into: N/A
+</details>
+<details>
+<summary>Steel Reserve 211 Elixir</summary>
+Ingredients: 10 Wheat
+Boil Time: 12 Minutes
+Distill Runs: 0
+Age: 4 Years
+Barrel Wood: Any
+In-Game Name: Steel Reserve 211 Elixir
+If Didn't Work, What did it Turn Into: N/A
+</details>
+<details>
+<summary>Duvel</summary>
+Ingredients: 9 Wheat
+Boil Time: 161 Minutes
+Distill Runs: 0
+Age: 5 Years
+Barrel Wood: Any
+In-Game Name: Duvel
+If Didn't Work, What did it Turn Into: N/A
+</details>
+<details>
+<summary>Victoria Bitter</summary>
+Ingredients: 3 Wheat, 2 Sugar
+Boil Time: 7 Minutes
+Distill Runs: 0
+Age: 5 Years
+Barrel Wood: Any
+In-Game Name: Victoria Bitter
+If Didn't Work, What did it Turn Into: N/A
+</details>
+<details>
+<summary>Redds Apple Elixir</summary>
+Ingredients: 2 Wheat, 2 Apple, 1 Sugar
+Boil Time: 2 Minutes
+Distill Runs: 0
+Age: 2 Years
+Barrel Wood: Any
+In-Game Name: Redds Apple Elixir
+If Didn't Work, What did it Turn Into: N/A
+</details>
+<details>
+<summary>Rhinegeist Zango</summary>
+Ingredients: 2 Wheat, 1 Apple, 1 Glow Berry, 1 Sugar
+Boil Time: 2 Minutes
+Distill Runs: 0
+Age: 1 Year
+Barrel Wood: Any
+In-Game Name: Rhinegeist Zango
+If Didn't Work, What did it Turn Into: N/A
+</details>
+<details>
+<summary>Breitenbach Dandelion Elixir</summary>
+Ingredients: 8 Dandelion, 2 Glow Berries
+Boil Time: 6 Minutes
+Distill Runs: 0
+Age: 3 Years
+Barrel Wood: Any
+In-Game Name: Breitenbach Dandelion Elixir
+If Didn't Work, What did it Turn Into: N/A
+</details>
+<details>
+<summary>Wolffer Estate Rose</summary>
+Ingredients: 7 Sweet Berries, 2 Sugar, 1 Peony
+Boil Time: 6 Minutes
+Distill Runs: 0
+Age: 2 Years
+Barrel Wood: Oak
+In-Game Name: Wolffer Estate Rose
+If Didn't Work, What did it Turn Into: N/A
+</details>
+<details>
+<summary>Zombie Zin Zinfandel</summary>
+Ingredients: 5 Sweet Berries, 4 Sugar Cane, 1 Rotten Flesh
+Boil Time: 6 Minutes
+Distill Runs: 0
+Age: 2 Years
+Barrel Wood: Oak
+In-Game Name: Zombie Zin Zinfandel
+If Didn't Work, What did it Turn Into: N/A
+</details>
+<details>
+<summary>Golden Elixir</summary>
+Ingredients: 8 Sugar Cane
+Boil Time: 4 Minutes
+Distill Runs: 0
+Age: 3 Years
+Barrel Wood: Oak
+In-Game Name: Golden Elixir
+If Didn't Work, What did it Turn Into: N/A
+</details>
+<details>
+<summary>Sweet Golden Apple Elixir</summary>
+Ingredients: 6 Sugar Cane, 2 Apples
+Boil Time: 4 Minutes
+Distill Runs: 0
+Age: 4 Years
+Barrel Wood: Oak
+In-Game Name: Sweet Golden Apple Elixir
+If Didn't Work, What did it Turn Into: N/A
+</details>
+<details>
+<summary>Great Apple Cider</summary>
+Ingredients: 14 Apples
+Boil Time: 7 Minutes
+Distill Runs: 0
+Age: 3 Years
+Barrel Wood: Any
+In-Game Name: Great Apple Cider
+If Didn't Work, What did it Turn Into: N/A
+</details>
+<details>
+<summary>FTG Legal Cider</summary>
+Ingredients: 4 Golden Apples, 6 Golden Carrots, 4 Ghast Tears
+Boil Time: 6 Minutes
+Distill Runs: 0
+Age: 8 Years
+Barrel Wood: Acacia
+In-Game Name: FTG Legal Cider
+If Didn't Work, What did it Turn Into: N/A
+</details>
+<details>
+<summary>Sour Apple Elixir</summary>
+Ingredients: 24 Apples
+Boil Time: 30 Minutes
+Distill Runs: 1
+Age: 8 Years
+Barrel Wood: Oak
+In-Game Name: Sour Apple Elixir
+If Didn't Work, What did it Turn Into: N/A
+</details>
+<details>
+<summary>Vocna rakija</summary>
+Ingredients: 5 Apples, 5 Sweet Berries, 5 Glow Berries, 2 Sugar
+Boil Time: 15 Minutes
+Distill Runs: 2
+Age: 12 Years
+Barrel Wood: Oak
+In-Game Name: Vocna rakija
+If Didn't Work, What did it Turn Into: N/A
+</details>
+<details>
+<summary>Cognac</summary>
+Ingredients: 15 Sweet Berries, 5 Glow Berries, 5 Sugar
+Boil Time: 16 Minutes
+Distill Runs: 2
+Age: 8 Years
+Barrel Wood: Oak
+In-Game Name: Cognac
+If Didn't Work, What did it Turn Into: N/A
+</details>
+<details>
+<summary>Laird 12 Years Apple Elixir</summary>
+Ingredients: 23 Apples, 2 Golden Apples
+Boil Time: 18 Minutes
+Distill Runs: 2
+Age: 12 Years
+Barrel Wood: Oak
+In-Game Name: Laird 12 Years Apple Elixir
+If Didn't Work, What did it Turn Into: N/A
+</details>
+<details>
+<summary>Blazing Elixir</summary>
+Ingredients: 12 Wheat, 2 Blaze Powder
+Boil Time: 14 Minutes
+Distill Runs: 1 (55 Minutes)
+Age: 21 Years
+Barrel Wood: Oak
+In-Game Name: Blazing Elixir
+If Didn't Work, What did it Turn Into: N/A
+</details>
+<details>
+<summary>Tullamore Dew</summary>
+Ingredients: 12 Wheat
+Boil Time: 12 Minutes
+Distill Runs: 3
+Age: 15 Years
+Barrel Wood: Oak
+In-Game Name: Tullamore Dew
+If Didn't Work, What did it Turn Into: N/A
+</details>
+<details>
+<summary>Crown Royal Regal Apple</summary>
+Ingredients: 15 Wheat, 5 Apples
+Boil Time: 14 Minutes
+Distill Runs: 1
+Age: 3 Years
+Barrel Wood: Oak
+In-Game Name: Crown Royal Regal Apple
+If Didn't Work, What did it Turn Into: N/A
+</details>
+<details>
+<summary>Fireball Elixir</summary>
+Ingredients: 15 Wheat, 5 Blaze Powder
+Boil Time: 14 Minutes
+Distill Runs: 3
+Age: 3 Years
+Barrel Wood: Oak
+In-Game Name: Fireball Elixir
+If Didn't Work, What did it Turn Into: N/A
+</details>
+<details>
+<summary>Batavia Arrack</summary>
+Ingredients: 10 Sugar Cane, 15 Sugar
+Boil Time: 20 Minutes
+Distill Runs: 1
+Age: 8 Years
+Barrel Wood: Oak
+In-Game Name: Batavia Arrack
+If Didn't Work, What did it Turn Into: N/A
+</details>
+<details>
+<summary>Mekhong</summary>
+Ingredients: 10 Sugar Cane, 3 Dried Kelp, 3 Grass, 2 Blaze Powder, 2 Honey Bottles
+Boil Time: 14 Minutes
+Distill Runs: 2
+Age: 0 Years
+Barrel Wood: N/A
+In-Game Name: Mekhong
+If Didn't Work, What did it Turn Into: N/A
+</details>
+<details>
+<summary>Pirassununga 51 Cachaca</summary>
+Ingredients: 25 Sugar Cane
+Boil Time: 16 Minutes
+Distill Runs: 3
+Age: 0 Years
+Barrel Wood: N/A
+In-Game Name: Pirassununga 51 Cachaca
+If Didn't Work, What did it Turn Into: N/A
+</details>
+<details>
+<summary>Reyka</summary>
+Ingredients: 10 Beetroot, 8 Sugar
+Boil Time: 25 Minutes
+Distill Runs: 3
+Age: 0 Years
+Barrel Wood: N/A
+In-Game Name: Reyka
+If Didn't Work, What did it Turn Into: N/A
+</details>
+<details>
+<summary>Melon Elixir</summary>
+Ingredients: 10 Potatoes, 6 Melon Slices
+Boil Time: 25 Minutes
+Distill Runs: 3
+Age: 0 Years
+Barrel Wood: N/A
+In-Game Name: Melon Elixir
+If Didn't Work, What did it Turn Into: N/A
+</details>
+<details>
+<summary>Absolut Mandrin</summary>
+Ingredients: 15 Wheat, 10 Glow Berries
+Boil Time: 16 Minutes
+Distill Runs: 10
+Age: 0 Years
+Barrel Wood: N/A
+In-Game Name: Absolut Mandrin
+If Didn't Work, What did it Turn Into: N/A
+</details>
+<details>
+<summary>Strong Slime Elixir</summary>
+Ingredients: 15 Grass
+Boil Time: 3 Minutes
+Distill Runs: 6 (80 Minutes)
+Age: 0 Years
+Barrel Wood: N/A
+In-Game Name: Strong Slime Elixir
+If Didn't Work, What did it Turn Into: N/A
+</details>
+<details>
+<summary>Aalborg Jubilaums Akavit</summary>
+Ingredients: 15 Wheat, 5 Glow Berries, 5 Grass
+Boil Time: 16 Minutes
+Distill Runs: 1
+Age: 0 Years
+Barrel Wood: N/A
+In-Game Name: Aalborg Jubilaums Akavit
+If Didn't Work, What did it Turn Into: N/A
+</details>
+<details>
+<summary>Arak</summary>
+Ingredients: 15 Sweet Berries, 15 Grass
+Boil Time: 22 Minutes
+Distill Runs: 3
+Age: 1 Year
+Barrel Wood: Any
+In-Game Name: Arak
+If Didn't Work, What did it Turn Into: N/A
+</details>
+<details>
+<summary>Cointreau</summary>
+Ingredients: 15 Glow Berries, 2 Sugar
+Boil Time: 10 Minutes
+Distill Runs: 2
+Age: 0 Years
+Barrel Wood: N/A
+In-Game Name: Cointreau
+If Didn't Work, What did it Turn Into: N/A
+</details>
+<details>
+<summary>Salmiakki Koskenkorva</summary>
+Ingredients: 10 Wheat, 10 Sugar
+Boil Time: 14 Minutes
+Distill Runs: 5
+Age: 0 Years
+Barrel Wood: N/A
+In-Game Name: Salmiakki Koskenkorva
+If Didn't Work, What did it Turn Into: N/A
+</details>
+<details>
+<summary>Amarula Cream Elixir</summary>
+Ingredients: 5 Glow Berries, 4 Sugar, 1 Milk
+Boil Time: 8 Minutes
+Distill Runs: 1
+Age: 2 Years
+Barrel Wood: Oak
+In-Game Name: Amarula Cream Elixir
+If Didn't Work, What did it Turn Into: N/A
+</details>
+<details>
+<summary>Antiqueno Tapa Rojo</summary>
+Ingredients: 10 Sugar Cane, 5 Grass
+Boil Time: 12 Minutes
+Distill Runs: 7
+Age: 0 Years
+Barrel Wood: N/A
+In-Game Name: Antiqueno Tapa Rojo
+If Didn't Work, What did it Turn Into: N/A
+</details>
+<details>
+<summary>Warm Irish Cream</summary>
+Ingredients: 5 Wheat, 2 Milk, 2 Cocoa Beans, 1 Snowball
+Boil Time: 8 Minutes
+Distill Runs: 3
+Age: 3 Years
+Barrel Wood: Any
+In-Game Name: Warm Irish Cream
+If Didn't Work, What did it Turn Into: N/A
+</details>
+<details>
+<summary>DeKuyper Blue Curacao</summary>
+Ingredients: 5 Glow Berries, 5 Sugar, 1 Blue Dye
+Boil Time: 6 Minutes
+Distill Runs: 1
+Age: 0 Years
+Barrel Wood: N/A
+In-Game Name: DeKuyper Blue Curacao
+If Didn't Work, What did it Turn Into: N/A
+</details>
+<details>
+<summary>Mudslide</summary>
+Ingredients: 4 Cocoa Beans, 4 Sugar, 2 Snowballs
+Boil Time: 6 Minutes
+Distill Runs: 0
+Age: 1 Year
+Barrel Wood: Oak
+In-Game Name: Mudslide
+If Didn't Work, What did it Turn Into: N/A
+</details>
+<details>
+<summary>Xin Li He Zhu</summary>
+Ingredients: 12 Wheat, 8 Bamboo, 5 Sugar
+Boil Time: 25 Minutes
+Distill Runs: 3
+Age: 0 Years
+Barrel Wood: N/A
+In-Game Name: Xin Li He Zhu
+If Didn't Work, What did it Turn Into: N/A
+</details>
+<details>
+<summary>Xifengjiu</summary>
+Ingredients: 11 Nether Wart, 7 Wheat, 4 Grass
+Boil Time: 30 Minutes
+Distill Runs: 6
+Age: 15 Years
+Barrel Wood: Dark Oak
+In-Game Name: Xifengjiu
+If Didn't Work, What did it Turn Into: N/A
+</details>
+<details>
+<summary>Red Star Erguotou</summary>
+Ingredients: 20 Nether Wart, 10 Sugar
+Boil Time: 22 Minutes
+Distill Runs: 2
+Age: 8 Years
+Barrel Wood: Any
+In-Game Name: Red Star Erguotou
+If Didn't Work, What did it Turn Into: N/A
+</details>
+<details>
+<summary>Wu Liang Ye Baiju</summary>
+Ingredients: 10 Nether Wart, 10 Wheat, 5 Wheat Seeds, 5 Sugar Cane
+Boil Time: 22 Minutes
+Distill Runs: 7
+Age: 10 Years
+Barrel Wood: Any
+In-Game Name: Wu Liang Ye Baiju
+If Didn't Work, What did it Turn Into: N/A
+</details>
+<details>
+<summary>Old Time Elixir</summary>
+Ingredients: 10 Wheat, 7 Cornflowers, 3 Apples
+Boil Time: 10 Minutes
+Distill Runs: 2
+Age: 0 Years
+Barrel Wood: N/A
+In-Game Name: Old Time Elixir
+If Didn't Work, What did it Turn Into: N/A
+</details>
+<details>
+<summary>Hirezake</summary>
+Ingredients: 4 Kelp, 3 Pufferfish
+Boil Time: 4 Minutes
+Distill Runs: 0
+Age: 0 Years
+Barrel Wood: N/A
+In-Game Name: Hirezake
+If Didn't Work, What did it Turn Into: N/A
+</details>
+<details>
+<summary>Advocaat</summary>
+Ingredients: 5 Eggs, 2 Sugar, 1 Milk
+Boil Time: 2 Minutes
+Distill Runs: 0
+Age: 3 Years
+Barrel Wood: Any
+In-Game Name: Advocaat
+If Didn't Work, What did it Turn Into: N/A
+</details>
+<details>
+<summary>Pulque</summary>
+Ingredients: 5 Cactus
+Boil Time: 4 Minutes
+Distill Runs: 0
+Age: 0 Years
+Barrel Wood: N/A
+In-Game Name: Pulque
+If Didn't Work, What did it Turn Into: N/A
+</details>
+<details>
+<summary>Comiteco 9 Guardianes</summary>
+Ingredients: 25 Cactus
+Boil Time: 18 Minutes
+Distill Runs: 2
+Age: 1 Year
+Barrel Wood: Any
+In-Game Name: Comiteco 9 Guardianes
+If Didn't Work, What did it Turn Into: N/A
+</details>
+<details>
+<summary>Vesper Martini</summary>
+Ingredients: 10 Sweet Berries, 5 Potatoes, 5 Glow Berries
+Boil Time: 10 Minutes
+Distill Runs: 4
+Age: 5 Years
+Barrel Wood: Birch
+In-Game Name: Vesper Martini
+If Didn't Work, What did it Turn Into: N/A
+</details>
+<details>
+<summary>Strong Coffee</summary>
+Ingredients: 12 Cocoa Beans, 2 Milk
+Boil Time: 2 Minutes
+Distill Runs: 0
+Age: 0 Years
+Barrel Wood: N/A
+In-Game Name: Strong Coffee
+If Didn't Work, What did it Turn Into: N/A
+</details>
+<details>
+<summary>British Tea</summary>
+Ingredients: 5 Kelp, 4 Sugar, 2 Milk
+Boil Time: 2 Minutes
+Distill Runs: 0
+Age: 0 Years
+Barrel Wood: N/A
+In-Game Name: British Tea
+If Didn't Work, What did it Turn Into: N/A
+</details>
+<details>
+<summary>Moo Moo Juice</summary>
+Ingredients: 6 Cooked Beef, 4 Gunpowder, 1 Milk, 1 Ghast Tear
+Boil Time: 2 Minutes
+Distill Runs: 0
+Age: 0 Years
+Barrel Wood: N/A
+In-Game Name: Moo Moo Juice
+If Didn't Work, What did it Turn Into: N/A
+</details>
+<details>
+<summary>Seedy Soup</summary>
+Ingredients: 20 Wheat Seeds, 20 Beetroot Seeds, 10 Melon Seeds, 10 Pumpkin
+Boil Time: 2 Minutes
+Distill Runs: 0
+Age: 0 Years
+Barrel Wood: N/A
+In-Game Name: Seedy Soup
+If Didn't Work, What did it Turn Into: N/A
+</details>
