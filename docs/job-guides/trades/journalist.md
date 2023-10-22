@@ -42,9 +42,9 @@ As a Journalist, your role is to contribute to the server's news industry. There
 
 ## Making Money as a Journalist
 
-As a journalist, you can make money through chest shops and Discord servers. After obtaining the Entrepreneur license from the University and registering with the DEC, you can create an in-game company for selling newspapers. You can also run your business on Discord. If you want to copyright your work or any related aspects, you can do so through the Department of Education and Commerce Copyrights and Trademarks subforum.
+As a journalist, you can make money through selling through ChestShops and Discord servers. After obtaining the Entrepreneur license from the University and registering with the DOC, you can create an in-game company for selling newspapers. You can also run your business on Discord.
 
-If you enjoy writing and publishing, this job is tailored for you. Best of luck from the Department of Education and Commerce!
+If you enjoy writing and publishing, this job is tailored for you.
 
 ## Passed the Exam? Now What?
 
