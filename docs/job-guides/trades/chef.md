@@ -4,30 +4,26 @@ sidebar_position: 1
 
 # Chef
 
-Are you ready to be the next master chef of Reveille? Chefs are essential to the wellbeing of the Commonwealth as the producers of our food and the source of many farmers and companies income. As a Chef, you are tasked with taking crop items and converting them into new foods for players to consume.
+Are you ready to become the next master chef of Reveille? Chefs play a crucial role in the wellbeing of the Commonwealth as they are responsible for producing our food and supporting many farmers and companies' income. As a Chef, your primary task is to take crop items and transform them into delicious new foods for players to enjoy.
 
-## Make a living!
-While your job is to convert crop items into new foods for players to consume, you may do much more with this job in practice! For example, a chef may pair up with a brewer to create a restaurant which offers other beverage options alongside their meals, or may even supply their foods to another player's restaurant! If it isn't exactly your thing to get into the commercial sector, you may even set up a rental agreement to open up a food stand on someone's property! Get creative! The world is your oyster and it's your job to figure out how to cook it!
+## Making a Living
 
-## Passed the exam? What now?
-It is recommended, now that you have passed your exam, that you purchase or rent your own plot of land to open up your own business on. If this does not seem like something of interest to you, or if you cannot get land or cash, you may seek employment through DC Jobs using this link: [Join the DC Jobs Discord Server!](https://discord.com/invite/KBsatGF45q)
+While your official job is to convert crop items into delectable dishes for players, the world of culinary arts is full of possibilities. In practice, chefs can do much more! For instance, you might collaborate with a brewer to establish a restaurant offering a variety of beverages alongside your meals. You could also supply your culinary creations to other players' restaurants. If you're not keen on venturing into the commercial sector, you can set up a rental agreement to operate a food stand on someone else's property. Get creative and explore the vast culinary landscape!
 
-In order to open up your own business, however, you must have passed the entrepreneur exam in the University and must register your business with the DEC at [this link](https://discord.com/invite/KBsatGF45q)!
+## After Passing the Exam
 
-## How it works
-To see all of the available items/recipes, do **/ia** in game.
+Once you've successfully passed your chef's exam, it's recommended that you either purchase or rent your own plot of land to establish your very own food-related business. If this option doesn't pique your interest or you lack the necessary funds or land, you can seek employment opportunities through DC Jobs. Join the DC Jobs Discord Server to explore potential culinary careers.
 
-![](https://i.imgur.com/wGbjfyJ.png)
+However, to open your own business, you'll need to have passed the entrepreneur exam at the University and register your business with the DEC. Follow this link to register your business with the DEC.
 
-There are ingredients you will need for each recipe, and sometimes you will need containers as well.
+## How It Works
 
-To see what you will need, pick a category: cooked food, deserts, beverages. If there is more than 1 page, you can click the arrow in the bottom right of the box.
+To view all available items and recipes, simply type **/ia** in-game.
 
-Select the item you'd like to make to see what the recipe is for that item. If there are non-vanilla items in the recipe, you can click the item to see how to make it. To go back, click the red x. You can go on to more pages by clicking the blue arrows. You can search for an item using the magnifying glass on the home screen.
+![Chef Recipes](https://i.imgur.com/wGbjfyJ.png)
 
-![](https://i.imgur.com/8h5ONyN.gif)
+Each recipe comes with its specific ingredients, and sometimes you might require containers as well. You can explore the ingredients needed for different recipes, sorted into categories like cooked food, desserts, and beverages. If there's more than one page, you can navigate by clicking the arrow in the bottom right of the box.
 
+To see the recipe for a specific item, select it from the list. If the recipe contains non-vanilla items, you can click on those items to learn how to craft them. To go back, click the red 'x.' You can explore more pages by clicking the blue arrows and search for a specific item using the magnifying glass icon on the home screen.
 
-
-
-
+![Chef Recipe Guide](https://i.imgur.com/8h5ONyN.gif)
