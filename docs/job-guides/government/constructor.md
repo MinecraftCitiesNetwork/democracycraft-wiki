@@ -4,6 +4,8 @@ Constructors are experts on building and play a key role in the infrastructural 
 
 Constructors are commission based. The pay for Constructors will vary depending on the building project.
 
+![Image](https://media.discordapp.net/attachments/838356841217916989/1165658732093522091/2022-09-17_19.13.23.png?ex=6547a74a&is=6535324a&hm=5d33772337e2ab8e766c7d90732de37eb5572195f11b38e386e1be4fffe51797&=&width=1266&height=671)
+
 ## Duties
 
 As a Constructor, your main duty is construction. Your responsibilities include:
@@ -18,32 +20,7 @@ As a Constructor, your main duty is construction. Your responsibilities include:
 
 The Department of Construction and Transport (DCT) has a structured hierarchy. It includes the following roles:
 
-[TABLE]
-[TR]
-[TD][B]Role[/B][/TD]
-[TD][B]Purpose[/B][/TD]
-[/TR]
-[TR]
-[TD]Secretary[/TD]
-[TD]Manages the department's operations.[/TD]
-[/TR]
-[TR]
-[TD]Construction Manager[/TD]
-[TD]Assists in the leadership of the department.[/TD]
-[/TR]
-[TR]
-[TD]Inspection Manager[/TD]
-[TD]Assists in the leadership of the department.[/TD]
-[/TR]
-[TR]
-[TD][![Constructor](https://img.shields.io/badge/Constructor-Constructor-brightgreen)](https://www.democracycraft.net/threads/application-information.8/)[/TD]
-[TD]Constructs buildings for the government.[/TD]
-[/TR]
-[TR]
-[TD]Building Inspector[/TD]
-[TD]Files eviction reports for plots that violate building regulations or laws.[/TD]
-[/TR]
-[/TABLE]
+![Image](https://media.discordapp.net/attachments/838356841217916989/1165660537615564840/2023-03-12_18.16.14.png?ex=6547a8f9&is=653533f9&hm=477610f9e2470b0d884fe8e6f3dc27cc1ea2aa6ef2a4c9f46753e859a9bc25b8&=&width=1266&height=671)
 
 ## Protocols
 
@@ -54,6 +31,7 @@ The expectation for this department is to ensure everyone is contributing to eit
 ### Activity
 
 Constructors and Building Inspectors must meet basic standards of in-game activity and job commitment. The full protocols and policies of the DCT are linked [here](https://www.democracycraft.net/forums/information-policy.43/).
+
 
 ## Application Process
 
