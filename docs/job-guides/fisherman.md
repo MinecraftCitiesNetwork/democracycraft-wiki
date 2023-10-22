@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Fisherman
+# Fisherman Guide
 
 
 ## Introduction
