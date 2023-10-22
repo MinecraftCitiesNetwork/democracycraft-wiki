@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Journalist Guide
+# Journalist
 
 As a Journalist, you are responsible for contributing to the server’s news industry. There are a variety of different kinds of journalism, and each one has its own niche audience and charm.
 
