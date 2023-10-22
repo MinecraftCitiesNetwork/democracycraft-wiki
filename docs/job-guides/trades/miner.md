@@ -2,9 +2,7 @@
 sidebar_position: 1
 ---
 
-# Miner Guide
-
-## Introduction
+# Miner
 
 As a Miner, you are completely responsible for contributing to DemocracyCraft’s mining industry by mining, and somehow selling, ores. With these ores you can either create a business in the industry or supply the playerbase will all things ore related.
 
