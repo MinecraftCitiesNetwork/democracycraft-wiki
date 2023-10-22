@@ -2,7 +2,7 @@
 
 As a Jeweller, you will be able to sell unique versions of precious metals and decorations for special occasions. You can then sell these goods to players.
 
-# What Jewellers Do
+## What Jewellers Do
 Jewellers are skilled crafters when it comes to additional and decorative use for diamonds, gold, iron, and other ores. The following recipes can be exclusively crafted by a Jeweller:
 
 | Item                       | Recipe                                                |
@@ -16,7 +16,7 @@ Jewellers are skilled crafters when it comes to additional and decorative use fo
 | Jewelry Box (Decorative Head) | ![Jewelry Box (Decorative Head)](https://cdn.discordapp.com/attachments/838356841217916989/1165599800578801754/1637157671548-png.png?ex=65477068&is=6534fb68&hm=a2367579df1523add7c3eb01ca7a9937594258edaab533b8c8a410cd8f08454c&) nb: 14 Carat Diamond Ring in Center, Tinted Glass across top |
 | Snow Globe (Decorative Head)   | ![Snow Globe (Decorative Head)](https://cdn.discordapp.com/attachments/838356841217916989/1165599819717410897/1637157719197-png.png?ex=6547706c&is=6534fb6c&hm=0be9abddb0c16d9fc578c8e0f961695ab0ea9472b1b9a2b5d20c7a1a631a2d89&) nb: Tinted Glass across top |
 
-# Passed the Exam? Now What?
+## Passed the Exam? Now What?
 It is recommended that you purchase a plot and build a store, or rent a shop to sell your products in! Find available plots for sale/lease under #realty-adverts on our discord. As a Jeweller, you can also advertise your expertise in vehicles under #business-adverts.
 
 To gather resources, you can either buy them from player shops or obtain them yourself in the wild. To get to the wild, type `/warp airport`. Right-click a monitor in the airport and choose out of 6 wild starting locations (pictured below).
