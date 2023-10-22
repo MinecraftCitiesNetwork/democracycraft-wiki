@@ -29,10 +29,6 @@ _Make sure to modify your build such that it does not break server rules by oper
 
 For more information, read the [Making Money Guide](https://democracycraft.net/threads/making-money.1410/) or the [Mob Egg Capturing Guide](https://www.democracycraft.net/threads/mob-egg-capturing.9644/).
 
-<details>
-  <summary>Hunter Recipes</summary>
-  
+## Hunter Recipes
 - 1 white wool -> 2 string
-
 - 9 rotten flesh -> 1 leather
-</details>
