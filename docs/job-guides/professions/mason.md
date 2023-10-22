@@ -98,4 +98,4 @@ It is recommended that you get your entrepreneur license, purchase or rent a plo
 | 1 cut sandstone              | 2 sand                               |
 | 1 cut sandstone slab          | 1 sand                                |
 | 1 smooth sandstone           | 2 sand                               |
-| 1 smooth sandstone stair     | 3
+| 1 smooth sandstone stair     | 3 sand
