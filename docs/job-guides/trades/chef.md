@@ -3,6 +3,7 @@ sidebar_position: 1
 ---
 
 # Chef
+
 Are you ready to be the next master chef of Reveille? Chefs are essential to the wellbeing of the Commonwealth as the producers of our food and the source of many farmers and companies income. As a Chef, you are tasked with taking crop items and converting them into new foods for players to consume.
 
 ## Make a living!
