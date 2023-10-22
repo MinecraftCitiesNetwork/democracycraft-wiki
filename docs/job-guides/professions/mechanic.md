@@ -1,4 +1,4 @@
-# Introduction
+# Mechanic
 
 As a mechanic, your job is to craft vehicles that drive the city for sale to citizens. These vehicles can be crafted using various recipes at crafting tables.
 
