@@ -2,9 +2,7 @@
 sidebar_position: 1
 ---
 
-# Contractor Guide
-
-## Introduction
+# Contractor
 
 What is a contractor? Simply put, a contractor is a person or company that undertakes a contract to provide materials or labor to perform a service or do a job. That means your job as a contractor in Redmont will be to take upon contracts to complete commercial buildings both small- and large-scale, redstone contraptions, mob farms, or to do anything in between that would require the labor of an individual other than the person paying for it.
 
