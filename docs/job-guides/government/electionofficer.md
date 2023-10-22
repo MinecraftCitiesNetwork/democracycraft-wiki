@@ -2,6 +2,8 @@
 
 Welcome to this comprehensive guide, which offers an insight into the significant role of Electoral Officers in our democratic institutions. As an Electoral Officer, you play a crucial part in administering elections and upholding the principles of democracy.
 
+![Image](https://media.discordapp.net/attachments/838356841217916989/1165658730113806388/2022-06-17_00.38.35.png?ex=6547a74a&is=6535324a&hm=aa292b8ccf7c44ded6f058cbe6034676ec06ec0307d913dcb8d7d2385b2114d1&=&width=1266&height=671)
+
 ## Duties
 
 - Facilitate the electoral process as mandated by the constitution.
@@ -35,6 +37,8 @@ To apply for the role of Electoral Officer, follow these steps:
 4. Fill in the required details in the application form and submit.
 
 If you have any questions regarding the application process, feel free to reach out to #government-support on the main Discord and open a ticket related to the department you are applying under.
+
+![Image](https://media.discordapp.net/attachments/838356841217916989/1165664194079764590/2022-06-17_00.41.18.png?ex=6547ac60&is=65353760&hm=8299a033ee86e0aa9922d198468116ee4057f681ad708d230d53aee22c600001&=&width=1266&height=671)
 
 ## Protocols
 
