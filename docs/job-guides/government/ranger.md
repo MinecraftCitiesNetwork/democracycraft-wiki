@@ -1,6 +1,8 @@
 # Ranger
 
-Rangers are responsible for maintaining the natural environment and administering operations related to the department, such as the zoo, animal shelter, and farming practices. Rangers are both wage and commission-based. Rangers receive a wage of $20 per 15 minutes and may earn commissions on landscaping jobs. Applications for this role are currently: [![OPEN](https://img.shields.io/badge/Application-OPEN-brightgreen)](https://www.democracycraft.net/threads/application-information.12/)
+Rangers are responsible for maintaining the natural environment and administering operations related to the department, such as the zoo, animal shelter, and farming practices.
+
+![Image](https://media.discordapp.net/attachments/838356841217916989/1165664188547469313/2021-04-25_01.25.15.png?ex=6547ac5f&is=6535375f&hm=3469ed698b8edc7923e9e047a2d5a22bf10d26a6135f50ba04a4048a151b7613&=&width=1266&height=671)
 
 ## Duties
 
@@ -19,6 +21,7 @@ Rangers are charged with several duties, including:
 ## Structure
 
 
+![Image](https://media.discordapp.net/attachments/838356841217916989/1165664195036070028/2022-09-23_20.54.01.png?ex=6547ac61&is=65353761&hm=cef761b5d1688e01d420ee49352719882ea3a312e01af9852b68b277f5bdb50e&=&width=1266&height=671)
 
 ## Protocols
 
