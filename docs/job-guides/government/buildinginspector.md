@@ -4,6 +4,8 @@ Building Inspectors are charged with maintaining the general aesthetic and activ
 
 Building Inspectors are commission-based pay.
 
+![Image](https://media.discordapp.net/attachments/838356841217916989/1165656779523379260/2022-06-18_18.36.26.png?ex=6547a579&is=65353079&hm=b2a5ca44964a928909fff483e3e9f7a772148de32e87d5896b26bb8342b850c1&=&width=1266&height=671)
+
 ## Duties
 
 As a building inspector, your primary duty is to ensure that people are following the building regulations and laws in place. Your responsibilities include:
@@ -31,6 +33,8 @@ The Department of Construction and Transportation is led by the Secretary who ov
 Building Inspectors must meet basic standards of in-game activity and job commitment.
 
 The full protocols and policies of the DCT are linked [here](https://www.democracycraft.net/forums/information-policy.43/).
+
+![Image](https://media.discordapp.net/attachments/838356841217916989/1165658731212709899/2022-06-17_00.53.55.png?ex=6547a74a&is=6535324a&hm=6b8be51ae184d8bc8d26f1718869144f2c09e98675d8930ff5657810a893aa5d&=&width=1266&height=671)
 
 ## Application Process
 
