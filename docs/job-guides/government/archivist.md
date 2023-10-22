@@ -2,6 +2,8 @@
 
 This guide is designed to help archivists navigate their role within the server community. It covers the general role of an archivist, the expectations and requirements, and suggested methodologies for research and article creation.
 
+![Image](https://media.discordapp.net/attachments/838356841217916989/1165660528987885578/2022-10-28_22.23.30.png?ex=6547a8f7&is=653533f7&hm=2c8a3459f564a8ce64ec42e63033a1eca851a7376363340d81c20a0805f0eb91&=&width=1266&height=671)
+
 ## Duties
 
 - Serve as the server's historians.
@@ -46,6 +48,8 @@ To ensure comprehensive and accurate information in articles, archivists should:
 - Interview key individuals mentioned by the primary source.
 
 For example, when writing an article on Onyx Industries, an archivist might direct message ElainaThomas29 for information, interview key individuals mentioned by ElainaThomas29 for additional or corroborating information, and formulate an article based on the collected data.
+
+![Image](https://media.discordapp.net/attachments/838356841217916989/1165662199121977366/2022-10-28_02.56.44.png?ex=6547aa85&is=65353585&hm=8f7a812cf31374ee8f7055a90fe37cf460db34cddbedd203e4170f252ba689ea&=&width=1266&height=671)
 
 ## Conclusion
 
