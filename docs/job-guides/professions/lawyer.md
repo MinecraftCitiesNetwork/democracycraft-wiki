@@ -1,4 +1,4 @@
-# Lawyer Guide
+# Lawyer
 
 As a Lawyer, your primary job is to consult players seeking legal advice, represent players in court, and marry couples.
 
