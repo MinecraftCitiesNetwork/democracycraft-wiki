@@ -2,7 +2,7 @@
 
 As a mechanic, your job is to craft vehicles that drive the city for sale to citizens. These vehicles can be crafted using various recipes at crafting tables.
 
-# What Mechanics Do
+## What Mechanics Do
 
 Mechanics are skilled crafters responsible for building vehicles. Below are the recipes for different types of vehicles, which can be sold through various means that comply with server rules and regulations. Note that the numbers listed below each vehicle part indicate how many of that part/vehicle it creates, not the number you need (the required quantities are displayed at the top of each recipe spoiler).
 
