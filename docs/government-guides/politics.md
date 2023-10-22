@@ -6,6 +6,8 @@ sidebar_position: 6
 
 DemocracyCraft is the server where players make and amend the rules and laws that govern them. Whether you're a seasoned politician or a budding statesperson, this guide is designed to help those who want to change our nation.
 
+![Image](https://media.discordapp.net/attachments/838356841217916989/1165665152746668114/2021-02-15_12.15.42.png?ex=6547ad45&is=65353845&hm=9d342ff6cb0539e3dee200be52bf5de24c4ed85d10a9d9799906f216e9d959dc&=&width=1266&height=671)
+
 ## Getting Started
 
 ### 1. Choose you path
@@ -37,6 +39,8 @@ In Redmont, various elected positions are available for individuals to pursue, i
 - **Representative.** The House of Representatives, the second legislative branch, is where bills originate and are crafted. Representatives serve two-month terms, and candidates must have at least 24 hours of playtime.
 
 - **Local Councils.** Town positions are managed independently. Reach out to town mayors or check Discord channels for details. Local roles offer a great entry point for aspiring public servants.
+
+![Image](https://media.discordapp.net/attachments/838356841217916989/1165665151068946482/2021-02-14_15.04.32.png?ex=6547ad45&is=65353845&hm=a9726dbbe290b5bd1cc3018d391dacb03df853004de56218af3963cf5429c7c4&=&width=1266&height=671)
 
 ## Relevant Legislation
 
