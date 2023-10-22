@@ -20,7 +20,7 @@ In general, there are four sets of tasks a contractor may take upon based on who
 
 Pay for contractors is up for negotiation between the contractor, or their company, and the client with it being recommended that a lawyer oversee the involved work contract to ensure legal soundness on all ends.
 
-# How to Make Money
+## How to Make Money
 
 Contractors make money, as mentioned above, based on an agreement between the client and the contractor, or their company. There is no limitation to the amount of jobs a contractor may take on at once due to it being private industry work, as well. Accordingly, it is advised that contractors advertise on Discord in #business-adverts and in-game as often as possible, seeking out clients wherever possible.
 
@@ -28,7 +28,7 @@ A useful, and underutilized, resource which provides a great avenue for advertis
 
 It is also encouraged that contractors make Discord servers for their companies such that people can maintain consistent contact with the contractor and may open up work orders at will, ensuring a steady flow of income and work!
 
-# Passed the Exam? Now What?
+## Passed the Exam? Now What?
 
 It is recommended that you get the Entrepreneur guide and register a business on the Business Portal subforum or look for a company who is in need of one of the above accountant roles!
 
