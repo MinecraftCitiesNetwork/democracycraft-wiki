@@ -31,7 +31,8 @@ For more information, read the [Making Money Guide](https://democracycraft.net/t
 
 <details>
   <summary>Hunter Recipes</summary>
-1 white wool = 2 string
+  
+- 1 white wool -> 2 string
 
-9 rotten flesh = 1 leather
+- 9 rotten flesh -> 1 leather
 </details>
