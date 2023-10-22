@@ -1,4 +1,4 @@
-# INTRODUCTION
+# Designer
 
 As a designer, you can unleash your inner artist with the ArtMap plugin.
 
