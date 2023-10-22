@@ -92,111 +92,92 @@ Financial analysis is a really important process where you look at a company's f
 
 **_Liquidity ratios_** help us see if a company can meet its short-term obligations and turn assets into cash quickly. These ratios show us if a company is financially stable and strong.
 
-<details>
-  <summary>Current Ratio Equation</summary>
+**Current Ratio Equation**
 - X/Y
   - X = Current Assets
   - Y = Current Liabilities
 
 This shows if a company can pay its short-term obligations without selling inventory.
-  </details>
 
-<details>
-  <summary>Acid-Test Ratio Equation</summary>
+**Acid-Test Ratio Equation**
 - (X-Y)/Z
   - X = Current Assets
   - Y = Inventory
   - Z = Current Liabilities
 
 This shows if a company can pay its short-term obligations using its short-term assets.
-  </details>
 
-**_Solvency ratios_** check if a company can meet its long-term obligations and give us information about its long-term financial stability.
+**Solvency ratios** 
+Check if a company can meet its long-term obligations and give us information about its long-term financial stability.
 
-<details>
-  <summary>Debt-To-Equity Ratio Equation</summary>
+**Debt-To-Equity Ratio Equation**
 - X/Y
   - X = Total Debt
   - Y = Total Equity
 
 This shows how much debt and equity are used to finance a company's assets.
-  </details>
 
-  <details>
-  <summary>Debt Ratio Equation</summary>
+**Debt Ratio Equation**
 - X/Y
   - X = Total Debt
   - Y = Total Assets
 
 This shows what percentage of a company's assets are financed by debt.
-  </details>
 
-**_Profitability ratios_** look at a company's ability to make profits compared to its sales, assets, or equity. These ratios help us see how well a company is doing financially and if it can make returns for shareholders.
+**Profitability ratios** 
+Look at a company's ability to make profits compared to its sales, assets, or equity. These ratios help us see how well a company is doing financially and if it can make returns for shareholders.
 
-  <details>
-  <summary>Gross Profit Margin Equation</summary>
+**Gross Profit Margin Equation**
 - (X/Y)*100
   - X = Gross Profit
   - Y = Net Sales
 
 This shows the percentage of revenue left after taking out the cost of goods sold.
-  </details>
 
-  <details>
-  <summary>Net Profit Margin Equation</summary>
+**Net Profit Margin Equation**
 - (X/Y)*100
   - X = Net Income
   - Y = Net Sales
 
 This shows the percentage of revenue left as net income after taking out all expenses and costs. 
-  </details>
 
-  <details>
-  <summary>Return on Assets Equation</summary>
+**Return on Assets Equation**
 - X/Y
   - X = Net Income
   - Y = Total Assets
 
 This shows how well a company makes profits from its assets.
-  </details>
 
-  <details>
-  <summary>Return on Equity Equation</summary>
+**Return on Equity Equation**
 - X/Y
   - X = Net Income
   - Y = Total Equity
 
 This shows the return a company makes for its shareholders.
-  </details>
 
-**_Efficiency ratios_** help us see how well a company uses its assets and manages its liabilities. These ratios give us information about a company's operational efficiency and overall performance.
+**Efficiency ratios** 
+Help us see how well a company uses its assets and manages its liabilities. These ratios give us information about a company's operational efficiency and overall performance.
 
-  <details>
-  <summary>Inventory Turnover Ratio Equation</summary>
+**Inventory Turnover Ratio Equation**
 - X/Y
   - X = Cost of Goods Sold
   - Y = Average Inventory
 
 This shows how fast a company sells its inventory during a certain time.
-  </details>
 
-  <details>
-  <summary>Accounts Receivable Turnover Ratio Equation</summary>
+**Accounts Receivable Turnover Ratio Equation**
 - X/Y
   - X = Net Credit Sales
   - Y = Average Accounts Receivable
 
 This shows how well a company's credit and collection policies are working.
-  </details>
 
-  <details>
-  <summary>Asset Turnover Ratio Equation</summary>
+**Asset Turnover Ratio Equation**
 - X/Y
   - X = Net Sales
   - Y = Total Assets
 
 This shows how well a company uses its assets to make sales.
-  </details>
 
 ## Auditing
 
