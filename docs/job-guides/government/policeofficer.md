@@ -2,6 +2,8 @@
 
 Welcome to this guide that sheds light on the important role of Police Officers (Constables) in maintaining peace, order, and lawfulness on the server. As a Police Officer, you are responsible for preventing and addressing crimes, upholding the law, and ensuring a safe and orderly environment.
 
+![Image](https://media.discordapp.net/attachments/838356841217916989/1165660533958119455/2023-03-12_16.02.17_2.png?ex=6547a8f8&is=653533f8&hm=6d1cee0be992ff0e27c9cf93d6210741da2a9a974d93f4ef94f3c06bada497d9&=&width=1266&height=671)
+
 ## Duties
 
 As a Police Officer, your responsibilities include:
@@ -28,6 +30,8 @@ The Department of Justice has a structured hierarchy:
 - **Senior Constable**: Seasoned officers dedicated to enforcing the law and preparing for the Sergeant role.
 - **Constable**: Trainee officers who have proven themselves knowledgeable enough to be promoted and have access to tasers.
 - **Trainee Officer**: Recent hires who are learning department procedures.
+
+![Image](https://media.discordapp.net/attachments/838356841217916989/1165660536822829097/2023-03-12_18.13.49.png?ex=6547a8f8&is=653533f8&hm=917dc6f603f4bfb10cb211f24b1d9a5a0df399d425b0f74d5fa3b01bdd16c022&=&width=1266&height=671)
 
 ## Application Process
 
