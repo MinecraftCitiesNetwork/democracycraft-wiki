@@ -45,7 +45,7 @@ Together, these teams work on various case assignments.
 
 **Activity**
 - State Prosecutors must meet basic standards of in-game activity and job commitment.
-- Full protocols and policies of the Office of the Attorney General are linked [here](https://www.democracycraft.net/threads/employment-policy.11761/).
+- Full protocols and policies of the Department of Legal Affairs are linked [here](https://www.democracycraft.net/threads/employment-policy.11761/).
 
 ## Application Process
 
