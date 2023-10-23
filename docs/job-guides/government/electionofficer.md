@@ -22,24 +22,6 @@ The governance of the Department of State has a straightforward structure, and h
 - **Electoral Officer**: Facilitates the election process under department leadership.
 - **Auditor**: Facilitates audits under department leadership.
 
-## Application Process
-
-To apply for the role of Electoral Officer, follow these steps:
-
-1. Go to the [official application information page](https://www.democracycraft.net/threads/application-information.2824/).
-
-   ![Forum Application](https://i.imgur.com/X1fE5xe.png)
-
-2. Navigate to the Forums -> Department of State -> Applications.
-
-3. Click on 'Applications' & 'Apply.'
-
-4. Fill in the required details in the application form and submit.
-
-If you have any questions regarding the application process, feel free to reach out to #government-support on the main Discord and open a ticket related to the department you are applying under.
-
-![Image](https://media.discordapp.net/attachments/838356841217916989/1165664194079764590/2022-06-17_00.41.18.png?ex=6547ac60&is=65353760&hm=8299a033ee86e0aa9922d198468116ee4057f681ad708d230d53aee22c600001&=&width=1266&height=671)
-
 ## Protocols
 
 As a member of the Department of State, you are expected to adhere to specific protocols to ensure the integrity of the electoral process.
@@ -52,3 +34,19 @@ As a member of the Department of State, you are expected to adhere to specific p
 
 - Leaking sensitive information is prohibited and may lead to prosecution for Breach of Confidence.
 - Members must maintain the confidentiality of sensitive information related to the department's operations.
+
+## Application Process
+
+To apply for the role of Electoral Officer, follow these steps:
+
+1. Navigate to the Forums -> Department of State -> Applications.
+
+  ![Forum Application](https://i.imgur.com/X1fE5xe.png)
+
+2. Click on 'Applications' & 'Apply.'
+
+3. Fill in the required details in the application form and submit.
+
+If you have any questions regarding the application process, feel free to reach out to #government-support on the main Discord and open a ticket related to the department you are applying under.
+
+![Image](https://media.discordapp.net/attachments/838356841217916989/1165664194079764590/2022-06-17_00.41.18.png?ex=6547ac60&is=65353760&hm=8299a033ee86e0aa9922d198468116ee4057f681ad708d230d53aee22c600001&=&width=1266&height=671)
