@@ -6,6 +6,8 @@ sidebar_position: 1
 
 As a Farmer, your job is to play a crucial role in the functionality of DemocracyCraft's agricultural industry. You'll be responsible for tasks like harvesting crops and enjoy special job perks. Being a Farmer is an excellent starting point on DemocracyCraft, as it nurtures patience, offers valuable agricultural experience, and provides enjoyable gameplay!
 
+![Image](https://media.discordapp.net/attachments/838356841217916989/1165660530661412874/2022-11-13_22.13.15.png?ex=6547a8f7&is=653533f7&hm=613bde5cf38396e081a233b0280c8ecca1c042728189bb35149506763f082825&=&width=1266&height=671)
+
 ## What Farmers Do
 
 As a Farmer, you'll engage in several activities, including:
