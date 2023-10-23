@@ -6,6 +6,8 @@ sidebar_position: 1
 
 As a Designer, you have the creative freedom to express yourself using the ArtMap plugin.
 
+![Image](https://media.discordapp.net/attachments/838356841217916989/1165662203802820740/2023-07-24_00.44.46.png?ex=6547aa86&is=65353586&hm=13d95dd7150b95d6999458f6309d574109f377fdd04f7dcc84e95942dbd3f189&=&width=1276&height=671)
+
 ## What Designers Do
 
 As a Designer, your creative tasks are diverse and include:
