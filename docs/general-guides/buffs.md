@@ -14,7 +14,10 @@ Explore the mysterious world of buffs, illicit substances with extraordinary eff
 2. Combine 1 white concrete with 1 quix leaf to create quix paste.
 3. Place the quix paste in a smoker to produce quix.
 
-![Quix]()
+IMAGE
+IMAGE
+IMAGE
+IMAGE
 </details>
 
 <details>
@@ -28,10 +31,10 @@ Explore the mysterious world of buffs, illicit substances with extraordinary eff
 3. Combine 1 water bucket with tyalus powder to form tyalus slime.
 4. Combine 3 tyalus slimes to create tyalus erthro.
 
-![Tyalus]()
-![Tyalus]()
-![Tyalus]()
-![Tyalus]()
+IMAGE
+IMAGE
+IMAGE
+IMAGE
 </details>
 
 <details>
@@ -45,10 +48,10 @@ Explore the mysterious world of buffs, illicit substances with extraordinary eff
 3. Combine 3 bones and 2 strings to create a meep primer.
 4. Mix 4 meep primers with 1 tree sap to produce meep.
 
-![Meep]()
-![Meep]()
-![Meep]()
-![Meep]()
+IMAGE
+IMAGE
+IMAGE
+IMAGE
 </details>
 
 <details>
@@ -62,10 +65,10 @@ Explore the mysterious world of buffs, illicit substances with extraordinary eff
 3. Mix 5 fuchsin safroles with 1 meep chloride to produce fuchsin elixir.
 4. Place the fuchsin elixir in a smoker to create fuchsin.
 
-![Fuchsin]()
-![Fuchsin]()
-![Fuchsin]()
-![Fuchsin]()
+IMAGE
+IMAGE
+IMAGE
+IMAGE
 </details>
 
 <details>
@@ -79,10 +82,10 @@ Explore the mysterious world of buffs, illicit substances with extraordinary eff
 3. Combine 4 fermented spider eyes, 4 blaze powder, and 1 meep bonder to create lerf fungus.
 4. Mix 2 lerf fungus, 2 solvum, 4 tyalus slime, and 1 sleepitol to produce lerf.
 
-![Lerf]()
-![Lerf]()
-![Lerf]()
-![Lerf]()
+IMAGE
+IMAGE
+IMAGE
+IMAGE
 </details>
 
 <details>
@@ -94,8 +97,10 @@ Explore the mysterious world of buffs, illicit substances with extraordinary eff
 1. Combine 4 kelp, 2 sea pickles, 2 frogspawn, and 1 raw cod to create hite membrane.
 2. Mix 4 tyalus slime, 4 sleepitol, and 1 hite membrane to produce hite.
 
-![Hite]()
-![Hite]()
+IMAGE
+IMAGE
+IMAGE
+IMAGE
 </details>
 
 ## Conclusion
