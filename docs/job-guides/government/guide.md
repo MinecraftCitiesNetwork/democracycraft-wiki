@@ -1,10 +1,10 @@
-# Tour Guide
+# Guide
 
-A Tour Guide plays a crucial role in retaining new players by building relationships and providing a positive first impression of DemocracyCraft. Your job is to engage with new players, create a connection, and give them a reason to stay.
+A Guide plays a crucial role in retaining new players by building relationships and providing a positive first impression of DemocracyCraft. Your job is to engage with new players, create a connection, and give them a reason to stay.
 
 ## Duties
 
-As a Tour Guide, your duties include:
+As a Guide, your duties include:
 - Initiating tours with new players using the ``/doe-guideattend username`` command.
 - Attending at least 2 tours per week.
 - Using guiding questions to build relationships with new players.
@@ -45,7 +45,7 @@ Don't forget to ask if they have any questions or concerns about being a new pla
 
 As a Tour Guide, follow a specific route and discuss the listed topics:
 
-![Route](https://your-image-url-here.com/route-image.png)
+![Route](https://cdn.discordapp.com/attachments/838356841217916989/1165962858547400735/screenshot_2022-11-15_at_11-50-06-png.png?ex=6548c288&is=65364d88&hm=fef529ba2e405f0c13438fa0f52aff2313726c9e01ec69d3f2f607ad64d508a3&)
 
 **Locations:**
 
