@@ -1,6 +1,8 @@
 # State Prosecutor
 
-State Prosecutors are responsible for the legal defense and prosecution on behalf of the Commonwealth of Redmont. They are supportive staff to the Attorney General, working closely with law enforcement and government entities to represent them on their behalf. State Prosecutors are commission-based. They are paid up to $250 per case. Applications for this role are currently: [![OPEN](https://img.shields.io/badge/Application-OPEN-brightgreen)](https://www.democracycraft.net/threads/application-information.3475/)
+State Prosecutors are responsible for the legal defense and prosecution on behalf of the Commonwealth of Redmont. They are supportive staff to the Attorney General, working closely with law enforcement and government entities to represent them on their behalf.
+
+![Image](https://cdn.discordapp.com/attachments/838356841217916989/1165966257577787442/2022-07-30_22.png?ex=6548c5b2&is=653650b2&hm=f7a41fc449de88b7124c5814d1e0b44dda3e554a8175326a6a132cf63cd5028d&)
 
 ## Duties
 
@@ -50,9 +52,13 @@ Together, these teams work on various case assignments.
 To apply for the State Prosecutor position, you need to complete an application and meet the requirements outlined [here](https://www.democracycraft.net/threads/application-information.3475/).
 
 1. Go to the Forums -> Cabinet -> Department of Legal Affairs.
+   
    ![Forum Application](https://i.imgur.com/VlNO4gI.png)
-2. Click on 'Applications' & 'Apply'.
+
+3. Click on 'Applications' & 'Apply'.
+
    ![Click Apply](https://i.imgur.com/LpT7iO6.png)
-3. Fill in your details and submit the application.
+
+5. Fill in your details and submit the application.
 
 For any application-related questions, visit #government-support on the main Discord and open a ticket in relation to the department you are applying under.
