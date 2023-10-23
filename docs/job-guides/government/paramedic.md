@@ -76,10 +76,14 @@ In order to apply for Paramedic, you will have to fill out an application and me
 ### Application Steps
 
 1. Go to the Forums -> Department of Health -> Applications.
+   
    ![Forum Application](https://i.imgur.com/KvOWKfc.png)
-2. Click on 'Applications' & 'Apply'.
+  
+3. Click on 'Applications' & 'Apply'.
+   
    ![Click Apply](https://i.imgur.com/ZdkFgU2.png)
-3. Fill in your details and submit the application.
+  
+5. Fill in your details and submit the application.
 
 Should you have any questions about the application, be sure to go to #government-support on the main Discord and open a ticket in relation to the department you are applying under.
 
