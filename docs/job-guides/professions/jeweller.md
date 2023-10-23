@@ -2,6 +2,8 @@
 
 As a Jeweller, you will be able to sell unique versions of precious metals and decorations for special occasions. You can then sell these goods to players.
 
+![Image](https://media.discordapp.net/attachments/838356841217916989/1165972504456736838/2023-10-23_22.00.34.png?ex=6548cb83&is=65365683&hm=7621570fdc2122dae4460f3b79cc51ef04ded658eb3308b851d6290d1be0c12c&=&width=1276&height=671)
+
 ## What Jewellers Do
 Jewellers are skilled crafters when it comes to additional and decorative use for diamonds, gold, iron, and other ores. The following recipes can be exclusively crafted by a Jeweller:
 
