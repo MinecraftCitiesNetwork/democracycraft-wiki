@@ -63,14 +63,12 @@ The Department of Public Affairs' events pathway is structured as follows:
 
 To apply for Event Coordinator, follow these steps:
 
-1. Visit the [official application information page](https://www.democracycraft.net/threads/application-information.543/).
+1. Navigate to Forums -> Department of Public Affairs -> Applications.
 
    ![Forum Application](https://i.imgur.com/7HWWZq6.png)
 
-2. Navigate to Forums -> Department of Public Affairs -> Applications.
+2. Click on 'Applications' & 'Apply.'
 
-3. Click on 'Applications' & 'Apply.'
-
-4. Fill in the required details in the application form and submit.
+3. Fill in the required details in the application form and submit.
 
 If you have questions about the application process, go to #government-support on the main Discord and open a ticket related to the department you are applying under.
