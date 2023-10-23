@@ -2,6 +2,8 @@
 
 Media Advisors are experts in graphic design, photography, videography, and social media. They are responsible for producing media content to promote the server.
 
+![Image](https://cdn.discordapp.com/attachments/838356841217916989/1165963277357039636/social-media-opportunities-601bc9d146e00.png?ex=6548c2eb&is=65364deb&hm=0437004a0cc7d4d034401227fc6fc2d4b81fe4e75a804059c9c8184d88e0b529&)
+
 ## Duties
 
 As a Media Advisor, you can join the following subteams: Marketing, Photography, Videography, and Graphic Design. Upon acceptance, you must join at least one team, but you are free to join as many others as you like.
@@ -61,14 +63,12 @@ The Department of Public Affairs' media pathway is structured as follows:
 
 To apply for Media Advisor, follow these steps:
 
-1. Visit the [official application information page](https://www.democracycraft.net/threads/application-information.543/).
+1. Navigate to Forums -> Department of Public Affairs -> Applications.
 
-   ![Forum Application](https://i.imgur.com/7HWWZq6.png)
+  ![Forum Application](https://i.imgur.com/7HWWZq6.png)
 
-2. Navigate to Forums -> Department of Public Affairs -> Applications.
+2. Click on 'Applications' & 'Apply.'
 
-3. Click on 'Applications' & 'Apply.'
-
-4. Fill in the required details in the application form and submit.
+3. Fill in the required details in the application form and submit.
 
 If you have questions about the application process, go to #government-support on the main Discord and open a ticket related to the department you are applying under.
