@@ -34,6 +34,8 @@ Commands:
 - [Judicial Standards Act](https://www.democracycraft.net/threads/judicial-standards-act.5868/)
 - [Legal Board Discord (RBA)](https://discord.gg/U6gtx7Kqbh)
 
+![Image](https://media.discordapp.net/attachments/838356841217916989/1165972505270423582/2023-10-23_22.02.19_2.png?ex=6548cb83&is=65365683&hm=6beb34d2886f3bcad46859e6dff7d8dbb8c97d472c1ec2c3721a37124a6c1d80&=&width=1276&height=671)
+
 ## Passed the Exam? What Now?
 
 It's recommended that you purchase a plot and build a store or rent a shop to sell your services in. You can offer to represent players in court as a professional lawyer!
