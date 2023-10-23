@@ -23,7 +23,7 @@ There are four main types of rental regions on the server:
 3. Shop/Market Stall - Rentable stores are available in some regions, such as Vestire Mall, allowing players to sell items without purchasing an entire plot.
 4. Shulker Regions - Certain city and town locations have free or low-cost shulker regions with rental durations of 1-10 minutes. Intended for temporary use, such as accessing a shulker box or ender chest.
 
-You may also encounter other, less popular rental regions. To check information about a rental region, use /as info region <rental region name>.
+You may also encounter other, less popular rental regions. To check information about a rental region, use ``/as info region 'rental region name'``.
 
 ## Property Regulations
 
