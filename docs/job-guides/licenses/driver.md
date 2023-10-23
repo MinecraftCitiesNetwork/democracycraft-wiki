@@ -30,6 +30,8 @@ Only the owner can interact with the vehicle. Make sure you have enough space in
 
 Your vehicle needs fuel to run. Buy it from gas stations or craft it using 4 emeralds, 4 coal, and 1 bucket of water.
 
+![Image](https://cdn.discordapp.com/attachments/838356841217916989/1165956089209163797/fuel-png.png?ex=6548bc3a&is=6536473a&hm=5008ca0d71d3d404c583294b4c6d03a0ea37109af06ce373aa9597bb72d187a7&)
+
 ## Conclusion
 
 Driving offers freedom, and you can impress your friends with your new car. Good luck on your Driver's License exam!
