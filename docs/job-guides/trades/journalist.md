@@ -6,6 +6,8 @@ sidebar_position: 1
 
 As a Journalist, your role is to contribute to the server's news industry. There are various types of journalism you can pursue, each with its unique audience and style.
 
+![Image](https://cdn.discordapp.com/attachments/838356841217916989/1165973304323096638/2023-10-23_22.21.23.png?ex=6548cc42&is=65365742&hm=dfad41b8583da3a19f6852d8d1ccb263bb8cb0644e273bf093b1453e8f09b874&)
+
 ## What Journalists Do
 
 ### Investigative Journalism
