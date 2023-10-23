@@ -37,15 +37,13 @@ The Department of Justice has a structured hierarchy:
 
 To become a Police Officer, follow these steps:
 
-1. Visit the [official application information page](https://www.democracycraft.net/threads/application-information.7/).
+1. Navigate to Forums -> Department of Justice -> Applications.
 
-   ![Forum Application](https://lh3.googleusercontent.com/bL0bY-MS6HLihanraDUUJ0tDiYVyljA_gQwfUMDA-sUcZ36efyS7wrCq0FcJM5GfgdWkz_ZR3m8DGbqO55RcXDbNHNexGDb9ENAoQXcvoXyUltkp3rOskxF3E8ukGOSqW6gALkfd)
+  ![Forum Application](https://lh3.googleusercontent.com/bL0bY-MS6HLihanraDUUJ0tDiYVyljA_gQwfUMDA-sUcZ36efyS7wrCq0FcJM5GfgdWkz_ZR3m8DGbqO55RcXDbNHNexGDb9ENAoQXcvoXyUltkp3rOskxF3E8ukGOSqW6gALkfd)
+  
+2. Click on 'Applications' & 'Apply.'
 
-2. Navigate to Forums -> Department of Justice -> Applications.
-
-3. Click on 'Applications' & 'Apply.'
-
-4. Fill in the required details in the application form and submit.
+3. Fill in the required details in the application form and submit.
 
 If you have questions about the application process, reach out to #government-support on the main Discord and open a ticket related to the department you are applying under.
 
