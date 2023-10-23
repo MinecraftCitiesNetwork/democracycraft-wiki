@@ -98,6 +98,6 @@ Explore the mysterious world of buffs, illicit substances with extraordinary eff
 ![Hite]()
 </details>
 
-# Conclusion
+## Conclusion
 
 This guide offers an overview of the crafting process for six illicit substances known as buffs. Keep in mind that using and creating these substances can lead to unforeseen consequences. Be cautious and use this knowledge responsibly.
