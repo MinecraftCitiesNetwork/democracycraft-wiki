@@ -46,6 +46,29 @@ Paramedics are experienced doctors who are able to operate ambulances to pick up
 
 Doctor protocols and rules apply. Please check out the [Doctor Guide](https://www.democracycraft.net/threads/doctor-guide.1450/).
 
+## RULES
+
+- Paramedics should not lose their issued ambulance. Losing it will result in a fine equivalent to the price of the vehicle.
+- Paramedics can store Leg Splints, Bandages, and Soothing Potions in the trunk of their ambulance to treat patients on-site.
+  - They may also attend government or server events to handle emergencies there.
+- Paramedics cannot use their ambulance for personal usage. Doing so will result in a warning the first time.
+  - Doing so the second time will result in your Paramedic license + vehicle being revoked.
+- If the patient does not have a contagious disease (such as Broken Legs or a Wound), you may treat them on location.
+  - Never hand out free treatments.
+
+## Procedure
+
+![Procedure Image](https://cdn.discordapp.com/attachments/733147179610275991/913436238483169300/image0.png)
+
+1. The patient will use the /emt command.
+2. If there are multiple paramedics online, you will indicate you are helping such a person in the DoH chat.
+3. You will /emtattend <patient's username>
+4. You can use dynmap to locate the patient, ask for their nearest bus stop, or /gps-coords x y z the location. If the patient is in the wild, ask them to /spawn first, then take them to the hospital if necessary.
+5. Once you have reached the patient, you may give them a Soothing Potion if they have a contagious disease. Ask that they enter the ambulance.
+6. Drive the ambulance back to the hospital - ensure you are following all traffic laws.
+7. Once you have reached the hospital, direct the patient out of the ambulance into the hospital.
+8. Treat and handle the patient as a Doctor would. Patients can use Medicare to pay as well.
+
 ## Application Process
 
 In order to apply for Paramedic, you will have to fill out an application and meet the appropriate requirements outlined [here](https://www.democracycraft.net/threads/medical-specialist-application-information.525/).
