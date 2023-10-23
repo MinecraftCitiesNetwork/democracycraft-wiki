@@ -7,6 +7,8 @@ The legal profession has three exams which must be taken in chronological order:
 - Legal B awards the barrister title.
 - Legal C awards the attorney title.
 
+![Image](https://cdn.discordapp.com/attachments/838356841217916989/1165966257577787442/2022-07-30_22.png?ex=6548c5b2&is=653650b2&hm=f7a41fc449de88b7124c5814d1e0b44dda3e554a8175326a6a132cf63cd5028d&)
+
 ## What Lawyers Do
 
 Lawyers in Redmont have several important roles:
