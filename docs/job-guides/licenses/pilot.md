@@ -8,3 +8,5 @@ The Pilot job allows you to fly helicopters and planes!
 You need to have this qualification in order to fly an aircraft; flying without one is illegal. 
 
 Vehicles such as the Helicopter can be obtained in mystery boxes.
+
+![Image](https://cdn.discordapp.com/attachments/838356841217916989/1165656682811105321/2022-11-13_22.26.30_2.png?ex=6547a562&is=65353062&hm=5b04346708edc5c7334d995f91c5887843ccce774377fbb113df8498e0756f38&)
