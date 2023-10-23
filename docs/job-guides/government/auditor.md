@@ -2,6 +2,8 @@
 
 Auditors are responsible for delivering audit reports on government departments and towns. They assist the Secretary in the administration and auditing of intergovernmental affairs. Auditors receive a wage of $15 per 15 minutes and may earn commissions on audits.
 
+![Image](https://cdn.discordapp.com/attachments/838356841217916989/1165960712204583013/2023-10-23_21.30.46.png?ex=6548c088&is=65364b88&hm=a78deaf58e8514431daf51dff420b1216aaf5fed298a27822684cb5043e8ffb5&)
+
 ## Duties
 
 Auditors are responsible for completing audits, reports, censuses, and surveys at the discretion and direction of the department leadership. The role is a very work-at-your-own-pace type of role with limited direction and a lot of freedom in how you go about completing each assignment. Prospective auditors should have a high degree of autonomy and experience in government/business to demonstrate that they are suitable.
@@ -36,7 +38,7 @@ The Department of State has protocols in place to ensure impartiality and confid
 
 In order to apply for Auditor, you will have to fill out an application and meet the appropriate requirements outlined [here](https://www.democracycraft.net/threads/application-information.2824/).
 
-1. Go to the Forums -> Department of State -> Applications.
+1. Go to the Forums -> Department of Education -> Applications.
    
    ![Forum Application](https://i.imgur.com/X1fE5xe.png)
 
