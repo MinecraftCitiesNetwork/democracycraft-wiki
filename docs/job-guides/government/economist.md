@@ -38,24 +38,23 @@ The Department of Commerce has the following structure:
 
 ![Image](https://media.discordapp.net/attachments/838356841217916989/1165656781675040768/2022-06-18_18.39.04.png?ex=6547a579&is=65353079&hm=9516f2ffedd3739e77d6ba08c36d6e66243971e927e6c251ea19d34ff4ab89f1&=&width=1266&height=671)
 
-## Application Process
-
-To apply for the Economist position, follow these steps:
-
-1. Visit the [official application information page](https://www.democracycraft.net/threads/application-information.11/).
-
-   ![Forum Application](https://i.imgur.com/CRAxtR9.png)
-
-2. Navigate to Forums -> Department of Commerce -> Applications.
-
-3. Click on 'Applications' & 'Apply.'
-
-4. Fill in the required details in the application form and submit.
-
-If you have questions about the application process, go to #government-support on the main Discord and open a ticket related to the department you are applying under.
-
 ## Protocols
 
 DOC Employees must meet basic standards of in-game activity and job commitment task-related.
 
 The full DEC Employee Code of Conduct can be found [here](https://www.democracycraft.net/threads/employee-code-of-conduct.9403).
+
+## Application Process
+
+To apply for the Economist position, follow these steps:
+
+1. Navigate to Forums -> Department of Commerce -> Applications.
+
+   ![Forum Application](https://i.imgur.com/CRAxtR9.png)
+
+2. Click on 'Applications' & 'Apply.'
+
+3. Fill in the required details in the application form and submit.
+
+If you have questions about the application process, go to #government-support on the main Discord and open a ticket related to the department you are applying under.
+
