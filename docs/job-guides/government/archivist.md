@@ -14,16 +14,15 @@ This guide is designed to help archivists navigate their role within the server 
 
 ## Structure
 
-- Secretary
-- Deputy Secretary for Archives
-- Archivist Manager
+- Education Secretary
+- Archive Manager
 - Archivist
 
 ## Application Process
 
 In order to apply for the position of Archivist, you will have to fill out an application and meet the appropriate requirements outlined [here](https://www.democracycraft.net/threads/application-information.2824/).
 
-1. Go to the Forums -> Department of State -> Applications.
+1. Go to the Forums -> Department of Education -> Applications.
    ![Forum Application](https://i.imgur.com/X1fE5xe.png)
 2. Click on 'Applications' & 'Apply.'
 3. Fill in your details and submit.
