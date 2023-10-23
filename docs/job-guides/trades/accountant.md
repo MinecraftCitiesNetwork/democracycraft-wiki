@@ -6,6 +6,8 @@ sidebar_position: 1
 
 Welcome to the world of finance! In this role, you'll be handling the numbers and keeping things in order. Let's break it down into simple steps.
 
+![Image](https://media.discordapp.net/attachments/838356841217916989/1165960712204583013/2023-10-23_21.30.46.png?ex=6548c088&is=65364b88&hm=a78deaf58e8514431daf51dff420b1216aaf5fed298a27822684cb5043e8ffb5&=&width=1276&height=671)
+
 ## What Accountants Do
 
 **Recordkeeping:** Your first job is to keep a record of all the money-related stuff using things like invoices and receipts. Think of it like taking notes in a diary. This makes everything organized and easy to understand.
