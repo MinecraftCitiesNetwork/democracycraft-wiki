@@ -13,7 +13,7 @@ There are three main types of plots within Redmont:
 2. Residential - Marked with the r- tag. Only houses with up to three visible floors can be built on residential plots.
 3. Skyscraper - Denoted by the s- tag. Skyscraper plots can only have skyscrapers and are not meant for industrial or residential use.
 
-To find available plots in the city, look for reselling properties with the corresponding tags (e.g., c-000). Use /as info reselling to locate resold plots and use /gps start <plot tag> to get to that location.
+To find available plots in the city, look for reselling properties with the corresponding tags (e.g., c-000). Use /as info reselling to locate resold plots and use ``/gps start 'plot'`` to get to that location.
 
 ## Rental Regions
 
