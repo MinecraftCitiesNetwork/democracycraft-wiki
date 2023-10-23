@@ -1,6 +1,6 @@
 # Auditor
 
-Auditors are responsible for delivering audit reports on government departments and towns. They assist the Secretary in the administration and auditing of intergovernmental affairs. Auditors receive a wage of $15 per 15 minutes and may earn commissions on audits.
+Auditors are responsible for delivering audit reports on government departments and towns. They assist the Secretary in the administration and auditing of intergovernmental affairs.
 
 ![Image](https://cdn.discordapp.com/attachments/838356841217916989/1165960712204583013/2023-10-23_21.30.46.png?ex=6548c088&is=65364b88&hm=a78deaf58e8514431daf51dff420b1216aaf5fed298a27822684cb5043e8ffb5&)
 
