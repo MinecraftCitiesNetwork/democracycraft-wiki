@@ -23,9 +23,12 @@ This guide is designed to help archivists navigate their role within the server 
 In order to apply for the position of Archivist, you will have to fill out an application and meet the appropriate requirements outlined [here](https://www.democracycraft.net/threads/application-information.2824/).
 
 1. Go to the Forums -> Department of Education -> Applications.
+   
    ![Forum Application](https://i.imgur.com/X1fE5xe.png)
-2. Click on 'Applications' & 'Apply.'
-3. Fill in your details and submit.
+
+3. Click on 'Applications' & 'Apply.'
+   
+5. Fill in your details and submit.
 
 Should you have any questions about the application, be sure to go to #government-support on the main Discord and open a ticket in relation to the department you are applying under.
 
