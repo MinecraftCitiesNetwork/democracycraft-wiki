@@ -2,6 +2,8 @@
 
 Professors are responsible for analyzing data from various government departments to influence educational programs, crafting recipes, and decision-making related to the job market. They play a crucial role in shaping the future of education and helping players reach their full potential.
 
+![Forum Application](https://cdn.discordapp.com/attachments/838356841217916989/1165965056400441354/School_render_unedited.png?ex=6548c494&is=65364f94&hm=99cc92ce7337012e88f79e6803d30d7004144d4ab579173e402437ca8c89cd95&)
+
 ## Duties
 
 As Professors, your responsibilities include:
