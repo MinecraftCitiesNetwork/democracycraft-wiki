@@ -6,6 +6,8 @@ sidebar_position: 1
 
 As a Miner, your main role is to mine ores, such as coal and netherite, and sell them. You can create a business or supply ores to other players.
 
+![Image](https://media.discordapp.net/attachments/838356841217916989/1165972501935956008/2021-08-06_00.17.56.png?ex=6548cb83&is=65365683&hm=916234b2e78c97798f83a371ffd42868068598762be5b400de79260b7651b0db&=&width=1266&height=671)
+
 ## What Miners Do
 
 - Your primary task is mining various ores.
