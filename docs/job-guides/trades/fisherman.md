@@ -16,7 +16,7 @@ If you find relaxation in fishing and aspire to turn it into a livelihood, this 
 
 ## Mob Eggs
 
-As a Fisherman, you also have the opportunity to capture certain animals following the guidelines provided in the [Mob Egg Capturing Guide](https://www.democracycraft.net/threads/mob-egg-capturing.9644/). The capturable animals include:
+As a Fisherman, you also have the opportunity to capture certain animals following the guidelines provided in the Mob Egg  Guide. The capturable animals include:
 
 - Dolphin
 - Squid
@@ -28,4 +28,4 @@ As a Fisherman, you also have the opportunity to capture certain animals followi
 After passing the exam, it's recommended that you purchase a plot and set up a store, or rent a shop to sell your catches. Alternatively, you can seek employment with companies through DC Jobs:
 [Join the DC Jobs Discord here.](https://discord.gg/Q8rNjddjjh)
 
-For more detailed information, you can refer to the [Making Money Guide](https://democracycraft.net/threads/making-money.1410/).
+For more detailed information, you can refer to the Making Money Guide.
