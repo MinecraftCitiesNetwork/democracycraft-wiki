@@ -35,10 +35,14 @@ Rangers are charged with several duties, including:
 
 To apply for the Ranger position, you need to complete an application and meet the requirements outlined [here](https://www.democracycraft.net/threads/application-information.12/).
 
-1. Go to the Forums -> Department of Environment and Recreation -> Applications.
+1. Go to the Forums -> Department of the Interior -> Applications.
+   
    ![Forum Application](https://i.imgur.com/MMvZAoA.png)
-2. Click on 'Applications' & 'Apply'.
+
+3. Click on 'Applications' & 'Apply'.
+
    ![Click Apply](https://i.imgur.com/X7jlX9L.png)
-3. Fill in your details and submit the application.
+
+5. Fill in your details and submit the application.
 
 For any application-related questions, visit #government-support on the main Discord and open a ticket in relation to the department you are applying under.
