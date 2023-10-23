@@ -6,6 +6,8 @@ sidebar_position: 1
 
 As a Fisherman, your primary task is to catch fish and earn money. The amount of money you receive depends on the rarity of the fish you catch, ranging from common Raw Cod to the rarest Tropical Fish!
 
+![Image](https://media.discordapp.net/attachments/838356841217916989/1165660531869356133/2022-11-13_22.24.57.png?ex=6547a8f7&is=653533f7&hm=a26a9b11523306709a526485418bb136a12e5f69796fcc674f93dfef0beb8eee&=&width=1266&height=671)
+
 ## What Fishermen Do
 
 You can fish in any body of water, whether it's natural or man-made, to make a living. However, there is one rule: you cannot use automatic or afk fishing machines. 
