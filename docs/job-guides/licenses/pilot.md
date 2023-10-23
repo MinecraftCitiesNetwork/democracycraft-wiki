@@ -1,4 +1,4 @@
-# Pilots Guide
+# Pilot's License
 
 The Pilot job allows you to fly helicopters and planes!
 
