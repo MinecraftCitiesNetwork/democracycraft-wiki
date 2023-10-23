@@ -6,6 +6,8 @@ sidebar_position: 1
 
 As a Lumberjack, your primary task is to chop down trees. This job plays a crucial role in the logging industry and allows you to gather and sell wood efficiently.
 
+![Image](https://media.discordapp.net/attachments/838356841217916989/1165658737420284056/2023-03-12_18.10.35.png?ex=6547a74b&is=6535324b&hm=dd2124d5472dad1a063310cfdadb4fe38437b867979c14203a3d0f62a14cca51&=&width=1266&height=671)
+
 ## What Lumberjacks Do
 
 Being a Lumberjack isn't just about cutting trees like any other player. You have an exclusive ability known as the "Tree Feller." With a simple left-click, you can bring down entire trees at once. This special skill sets you apart from regular players and makes wood harvesting easier and more efficient.
