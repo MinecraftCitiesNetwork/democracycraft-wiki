@@ -32,7 +32,6 @@ The expectation for this department is to ensure everyone is contributing to eit
 
 Constructors and Building Inspectors must meet basic standards of in-game activity and job commitment. The full protocols and policies of the DCT are linked [here](https://www.democracycraft.net/forums/information-policy.43/).
 
-
 ## Application Process
 
 In order to apply for Constructor, you will have to fill out an application and meet the appropriate requirements outlined [here](https://www.democracycraft.net/threads/application-information.8/).
@@ -40,9 +39,13 @@ In order to apply for Constructor, you will have to fill out an application and 
 ### Application Steps
 
 1. Go to the Forums -> Department of Construction and Transport -> Applications.
+   
    ![Forum Application](https://i.imgur.com/5FIdjZk.png)
-2. Click on 'Applications' & 'Apply'.
+
+3. Click on 'Applications' & 'Apply'.
+   
    ![Click Apply](https://i.imgur.com/CDWowgw.png)
-3. Fill in your details and submit the application.
+
+5. Fill in your details and submit the application.
 
 Should you have any questions about the application, be sure to go to #government-support on the main Discord and open a ticket in relation to the department you are applying under.
