@@ -6,6 +6,8 @@ sidebar_position: 1
 
 As a contractor in Redmont, your role revolves around accepting contracts to provide either materials or labor for a variety of tasks. These tasks can range from building structures to collecting resources and much more. Here's everything you need to know about this profession.
 
+![Image](https://media.discordapp.net/attachments/838356841217916989/1165972503563345950/2022-11-08_19.02.59.png?ex=6548cb83&is=65365683&hm=8947990a6066aa9529195e55ee215debd5b5286fce2cb443641cc9657521d561&=&width=1266&height=671)
+
 ## What Contractors Do
 
 Contractors typically perform four main types of tasks:
