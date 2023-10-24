@@ -4,7 +4,7 @@
  */
 
 .heroBanner {
-  background-image: linear-gradient(to top, #00AAFF80, #008EFF80), url('https://www.democracycraft.net/images/new-background.webp'), no-repeat top center;
+  background-image: linear-gradient(to top, #00aaff80, #008cff80), url('https://www.democracycraft.net/images/new-background.webp');
   padding: 4rem 0;
   text-align: center;
   position: relative;
