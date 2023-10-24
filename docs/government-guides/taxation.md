@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Taxes
+# Taxation
 
 Every Citizen is taxed a certain amount of money from their balance on a daily basis. Depending on how much you may have, you fall under a bracket to be taxed by a certain percentage. Below you can see a percentage, which represents how much you get taxed in the particular racket, two ranges of money (e.g. $x - $x) showing the money in your balance you must have to fall under this bracket and an amount of money after "max." showing how much you can be taxed at a maximum in these brackets.
 

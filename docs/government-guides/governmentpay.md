@@ -2,11 +2,12 @@
 sidebar_position: 2
 ---
 
-# Government Pay
+# Wages and Allowances
 Players are able to join the public service, otherwise known as the Government in this server. Jobs in the public service have different levels of pay according to the skills required, responsibilities, and difficulty of the job.
 
 
-## Pay Grades
+## Table
+
 See below the current table of pay levels that apply to all jobs in the public service.
 
 | Level 	| Description 	| Cabinet 	| Congress 	| Judiciary 	| Department<br></br> of State 	| Department of<br></br> Interior 	| Department of<br></br> Legal Affairs 	| Department of<br></br> Public Affairs 	| Department of<br></br> Justice 	| Department of<br></br> Health 	| Department of Construction<br></br> and Transportation 	| Department of<br></br> Education 	| Department of<br></br> Commerce 	|
@@ -23,4 +24,4 @@ See below the current table of pay levels that apply to all jobs in the public s
 
 Congress has legislated a **Universal Basic Income** at $5 per 15 minutes that all trade jobs and professions are eligible for. 
 
-::
+:::
