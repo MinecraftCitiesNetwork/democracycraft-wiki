@@ -1,4 +1,4 @@
-# Introduction
+# Forum Badges
 
 Badges are a way to track your career on the server and forums. They are awarded to recognize players' commitment to the community.
 
