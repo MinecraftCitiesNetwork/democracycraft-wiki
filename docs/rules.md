@@ -26,22 +26,26 @@ Something may not be explicitly defined here, that doesn't necessary make it ok.
 - Discussions about controversial topics such as real world politics and world religion are not permitted in public channels.
 - You are not allowed to impersonate or mimic other players or Staff members.
 - Tickets must be used for assistance purposes only.
-- Do not mix Staffing with in-game politics. Staff members play a role that is seperate to governance, you are not permitted to use the fact of elevated permissions or official duties for political purposes.
+- Do not mix Staffing with in-game politics. 
+  - Staff members play a role that is seperate to governance. 
+  - You are not permitted to use the fact they have elevated permissions or conduct official duties for any political purposes.
 
 ### 2. Chat
 - Please do not excessively repeat your messages, use capital letters or profanity in your messages.
 - You are not permitted to communicate in **any** other languages than English in public channels.
 - If your speech is altered by in-game drinks, you are not permitted to speak in public channels.
-- You **must** use the #➕ | Create VC channel on our [Discord server](https://discord.gg/democracy) when you are streaming or recording. In addition to this, you must inform people who join your voice channel that you are recording.
+- You **must** use the #➕ | Create VC channel on our [Discord server](https://discord.gg/democracy) when you are streaming or recording. 
+  - Inform people who join your voice channel that you are recording.
 
 ### 3. Advertising
-- Advertising must be kept to /ad in-game or appropriate advertisement channels on our main Discord server.
+- Advertising must be kept to ``/ad`` in-game or appropriate advertisement channels on our main Discord server.
 - You must not advertise for any reason in private messages.
 - Discord servers or Minecraft servers that are not for the purposes of DemocracyCraft are not allowed to be advertised anywhere.
 
 ### 4. Properties
-- You are not allowed to steal **anywhere**, this applies to unlocked chests as well.
+- You are not allowed to steal from any place or any person.
 - You may not destroy, obstruct or otherwise cause physical disturbances on property that you do not own. Lava casting and flooding are also not permitted under this guideline.
+
 :::danger This does not apply to the Wilderness
 You are allowed to destroy anything which is **unclaimed** in the Wilderness. This rule however still applies to anything that is **claimed**.
 :::
@@ -52,13 +56,14 @@ You are allowed to destroy anything which is **unclaimed** in the Wilderness. Th
 - You must avoid using excessive tile entities (chests, hoppers, barrels) or regular entities (mobs) in builds and designated spaces.
 
 ### 6. Fair Play
-- You can only play on this server with **one (1)** account. Any activities that occur on this account are your responsibility
+- You can only play on this server with **one (1)** Minecraft account. Any activities that occur on this account are your responsibility
 
 :::tip If your account is compromised, report it!
 We will try to help you out, and keep the account banned until you regain access to it.
 :::
 
-- Permissions must be used in accordance for why you were granted them. Government jobs often contain special perks, any misuse can result in revocation.
+- Permissions must be used strictly for the reasons you told you can have them for. 
+  - Many Government jobs contain additional features or access. It is your responsibility to use them responsibly and only for appropriate reasons.
 - You must not use x-ray. Any proceeds from x-ray will be confiscated.
 - You are allowed to use client modifications from our [allowed list](https://www.democracycraft.net/threads/client-modification.13587/) **only**.
 
