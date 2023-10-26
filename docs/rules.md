@@ -36,7 +36,7 @@ Something may not be explicitly defined here, that doesn't necessary make it ok.
 - All content on this server must be appropriate for minors. This includes all skins, language, and actions on all our platforms.
 
 ### 2. Chat
-- Please do not excessively repeat your messages, use capital letters or profanity in your messages.
+- Please do not excessively repeat phrases, use profanity, and/or capital letters in your messages.
 - You are not permitted to communicate in **any** other languages than English in public channels.
 - If your speech is altered by in-game drinks, you are not permitted to speak in public channels.
 - You **must** use the #➕ | Create VC channel on our [Discord server](https://discord.gg/democracy) when you are streaming or recording. 
@@ -51,7 +51,7 @@ We will moderate only groups and Discords related to DemocracyCraft. Private con
 - You must not advertise for any reason in private messages.
 - Discord servers or Minecraft servers that are not for the purposes of DemocracyCraft are not allowed to be advertised anywhere.
 
-### 4. Properties
+### 4. Property
 - You are not allowed to steal from any place or any person.
 - You may not destroy, obstruct or otherwise cause physical disturbances on property that you do not own. 
 
