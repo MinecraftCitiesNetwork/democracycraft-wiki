@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Welcome!
+# Welcome
 
 DemocracyCraft, or DC, is a City Roleplay server focused on the player's ability to create, amend, and remove the rules and laws that govern them. Our server boasts cars, helicopters, a democratically elected government, businesses, economy, among other realistic, life-like features!
 
