@@ -18,7 +18,7 @@ If you enjoy collecting wood and want to excel at it, this job might be perfect 
 
 ## Passed the Exam? What Now?
 
-After passing the exam, it's recommended to purchase a plot or rent a shop to sell your wood products. You can find available plots in the #realty-adverts section on our Discord. Additionally, you can sell your wood to businesses using the /find {item name} command to locate shops with minecarts or enderchests.
+After passing the exam, it's recommended to purchase a plot or rent a shop to sell your wood products. You can find available plots in the #realty-adverts section on our Discord. Additionally, you can sell your wood to businesses using the ``/find {item name}`` command to locate shops with minecarts or enderchests.
 
 To gather resources, you can either buy them from player shops or obtain them in the wild. Access the wild by typing /warp airport and select one of the seven starting locations. (See the picture below).
 
