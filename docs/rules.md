@@ -4,7 +4,6 @@ sidebar_position: 2
 
 # Rules
 
-![Rules](/img/rules/Rules.png)
 ![Rules and Laws - Who enforces what?](/img/rules/Rules_and_Laws_Enforcement.png)
 ![Rules and Laws - Let's avoid Bystanders](/img/rules/Bystanders.png)
 
