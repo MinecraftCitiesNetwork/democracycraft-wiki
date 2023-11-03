@@ -22,7 +22,7 @@ As a Miner, your main role is to mine ores, such as coal and netherite, and sell
 
 - Consider buying a plot and setting up a store to sell your products.
 - Find available plots for sale/lease in the #realty-adverts section on our Discord.
-- You can also sell to businesses using /find {item name} or find a shop with a minecart or enderchest.
+- You can also sell to businesses using ``/find {item name}`` or find a shop with a minecart or enderchest.
 - To gather resources, buy them from player shops or obtain them in the wild using /warp airport.
 
 ## Miner Recipes
