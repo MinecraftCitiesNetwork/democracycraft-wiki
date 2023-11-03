@@ -78,6 +78,7 @@ We will try to help you out, and keep the account banned until you regain access
 - You must not use x-ray. Any proceeds from x-ray will be confiscated.
 - You are allowed to use client modifications from our [allowed list](https://www.democracycraft.net/threads/client-modification.13587/) **only**.
 - Any methods to avoid being kicked for being away-from-keyboard that is not genuine gameplay is not allowed.
+- Any form of exploitation, including unintended bugs or issues with server features are not permitted even if you report them prior.
 
 :::info Punishments are not linear
 Depending on the severity of rules breached, your remorse for actions and compliance with Staff will affect disciplinary action.
