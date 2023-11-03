@@ -7,7 +7,7 @@ Paramedics are experienced doctors who are able to operate ambulances to pick up
 ## Duties
 
 **Answer EMT Calls**
-- Citizens will use /emt to request a paramedic.
+- Citizens will use ``/emt`` to request a paramedic.
 - Message the patient to determine their location (dynmap, buses, and using GPS-coords are acceptable too).
 - Run /emtattend when answering an EMT call.
 - Ask the patient how you may be of assistance and drive to the patient.
@@ -60,9 +60,9 @@ Doctor protocols and rules apply. Please check out the [Doctor Guide](https://ww
 
 ![Procedure Image](https://cdn.discordapp.com/attachments/733147179610275991/913436238483169300/image0.png)
 
-1. The patient will use the /emt command.
+1. The patient will use the ``/emt`` command.
 2. If there are multiple paramedics online, you will indicate you are helping such a person in the DoH chat.
-3. You will /emtattend <patient's username>
+3. You will ``/emtattend <patient's username>``
 4. You can use dynmap to locate the patient, ask for their nearest bus stop, or /gps-coords x y z the location. If the patient is in the wild, ask them to /spawn first, then take them to the hospital if necessary.
 5. Once you have reached the patient, you may give them a Soothing Potion if they have a contagious disease. Ask that they enter the ambulance.
 6. Drive the ambulance back to the hospital - ensure you are following all traffic laws.
