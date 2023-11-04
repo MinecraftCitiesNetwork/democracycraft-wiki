@@ -6,6 +6,9 @@ sidebar_position: 2
 
 ChestShop is a plugin that enables players to set up shops in Minecraft, allowing them to buy and sell items with ease. By placing a chest and creating a shop sign, you can establish your own virtual store in the game.
 
+![Image](https://github.com/MinecraftCitiesNetwork/democracycraft-wiki/assets/62296630/88c74c61-a0f7-4b0d-b947-723c8d20b3dd)
+
+
 ## Setting Up a Shop
 
 ### Chest Placement:
