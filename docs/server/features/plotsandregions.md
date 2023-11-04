@@ -2,6 +2,8 @@
 
 DemocracyCraft utilizes Areashop for region management, often abbreviated as AS.
 
+![image](https://media.discordapp.net/attachments/838356841217916989/1170295903547039776/2023-11-04_20.00.31.png?ex=655885fe&is=654610fe&hm=61bc30b56bb9930886043474e49c4756c0a6f6ae8638db719456449c03182627&=&width=1276&height=671)
+
 ## Wild Region
 
 Players can build freely in the wilderness, but some may desire protection for their bases. You can claim one region with a maximum of 4096 blocks for $10 per block. To claim a wild region at a cost of $10 per block, open a staff ticket using /ticket for wild claiming.
