@@ -6,6 +6,8 @@ Trainee Doctors should receive personal training from a Medical Specialist and s
 
 [Join the Department of Health Discord Server](https://discord.gg/7VYumh4cjn) for more information.
 
+![image](https://media.discordapp.net/attachments/838356841217916989/1165658733905461288/2022-09-27_15.57.15.png?ex=6550e1cb&is=653e6ccb&hm=1cc9f1dce2205993dcc33c0acfc86a609e78ccb1ecd39c2ca41bfedf0fd85832&=&width=1266&height=671)
+
 ## Commands
 
 - `/doh`: Sets your channel to a private one for Department of Health employees.  
