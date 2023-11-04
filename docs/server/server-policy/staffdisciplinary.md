@@ -2,6 +2,8 @@
 
 If a staff member has been punished under the staff disciplinary system (SDS), they will not be punished under the server rules for the same breach. The staff disciplinary system takes precedence.
 
+![image](https://cdn.discordapp.com/attachments/838356841217916989/1170392047392403507/staff.png?ex=6558df88&is=65466a88&hm=08eefd83e3953743cbb17ee22646660e0eccf8ba4a0b201693c7fc0d11ab2953&)
+
 ## Staff Values
 
 The Staff team operates on four values:
