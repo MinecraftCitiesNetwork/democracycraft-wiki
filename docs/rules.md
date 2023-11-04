@@ -7,7 +7,6 @@ sidebar_position: 2
 ![Rules and Laws - Who enforces what?](/img/rules/Rules_and_Laws_Enforcement.png)
 ![Rules and Laws - Let's avoid Bystanders](/img/rules/Bystanders.png)
 
-## Introduction
 Moderation is an important aspect of keeping our server a welcome and inclusive environment for everyone to enjoy. Below, we've included some guidelines that apply on all DemocracyCraft platforms.
 
 Staff maintain full discretion in their enforcement of rules and general moderation.
