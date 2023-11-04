@@ -6,6 +6,8 @@ sidebar_position: 5
 
 Welcome to the commands guide! Whether you're a seasoned player or new to the server, this resource provides quick references for essential player commands. For commands that are specific to certain plugins, review the specific guide! Let's dive in! 
 
+![Image](https://media.discordapp.net/attachments/838356841217916989/1170297005503950869/2023-11-04_20.42.08.png?ex=65588705&is=65461205&hm=7add1e067156d1c88363b0fa8eb5be6dde391e88cbd5e4def53f7aacbc4d260f&=&width=1276&height=671)
+
 ## Chat Commands
 ``/g`` - switch to global chat.
 
