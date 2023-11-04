@@ -1,6 +1,8 @@
-# Entrepreneur
+# Entrepreneur License
 
 Entrepreneurs are people with the basic skills and knowledge to set up a business. In order to start your own company, an entrepreneur license is required.
+
+Once you pass the exam, its your qualification to keep!
 
 ![Image](https://media.discordapp.net/attachments/838356841217916989/1165656781675040768/2022-06-18_18.39.04.png?ex=6547a579&is=65353079&hm=9516f2ffedd3739e77d6ba08c36d6e66243971e927e6c251ea19d34ff4ab89f1&=&width=1266&height=671)
 
