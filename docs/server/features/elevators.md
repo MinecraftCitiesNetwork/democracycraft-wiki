@@ -4,7 +4,7 @@ To help you get around the server, you can craft elevators!
 
 ![image](https://media.discordapp.net/attachments/838356841217916989/1170275887263006730/2023-11-04_19.14.03.png?ex=6558735a&is=6545fe5a&hm=52dece1bd23ce46ad29323a4ad1dcede8f0d24711f3364b9c14b9cda558de36f&=&width=1276&height=671)
 
-##Using an Elevator
+## Using an Elevator
 
 Jump to go up, sneak to go down - it's that simple! An elevator is just an iron block placed above and below each other.
 
