@@ -2,6 +2,8 @@
 
 As an Armourer, you are responsible for contributing to the server’s arms-based industry. This is achieved by crafting weapons to sell to the community. If crafting weaponry is your forte, while of course staying legal, then we recommend this job for you!
 
+![image}(https://cdn.discordapp.com/attachments/838356841217916989/1170355984212971550/2023-11-05_00.34.36.png?ex=6558bdf2&is=654648f2&hm=66678e7e05879d1b197785bca0ac60662abb3ab3d7791780b59b7b8a50b638bb&)
+
 ## What Armourers Do
 
 Armourers on DemocracyCraft have several essential roles:
