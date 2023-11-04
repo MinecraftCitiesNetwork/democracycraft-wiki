@@ -2,6 +2,8 @@
 
 A Guide plays a crucial role in retaining new players by building relationships and providing a positive first impression of DemocracyCraft. Your job is to engage with new players, create a connection, and give them a reason to stay.
 
+![image](https://cdn.discordapp.com/attachments/838356841217916989/1170355985110548510/2023-11-05_00.35.54.png?ex=6558bdf3&is=654648f3&hm=8331b6af92e53bf6b09aeb22e135ae60ec951f0f3fbb9cc5317ee051b6c8aeef&)
+
 ## Duties
 
 As a Guide, your duties include:
