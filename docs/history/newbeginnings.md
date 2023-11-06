@@ -390,9 +390,6 @@ Westray was initially opposed by Krix, however Krix later withdrew his candidacy
 **Secretary of Public Affairs**
 - Muffins29 Feb 21 -
 
-**Inauguration**
-[MEDIA=youtube]g_WEFEShN0c[/MEDIA]
-
 ## March Congressional Elections
 
 **Senate (6):**
@@ -437,19 +434,6 @@ FuseoN, a small-time YouTuber published a video on YouTube that resulted in an e
 ![image](https://cdn.discordapp.com/attachments/687524602926202881/825797415130103808/2021-03-28_12.57.01.png)
 
 DC exceeded 100 players for the first time on 28 March 2021 - 350 Days after the server first opened!
-
-## DC on YouTube
-
-![YouTube Video 1](https://www.youtube.com/watch?v=KE2aokHsaPo)
-![YouTube Video 2](https://www.youtube.com/watch?v=XzgzC31yTY4)
-![YouTube Video 3](https://www.youtube.com/watch?v=8ovZwvOX7FY)
-![YouTube Video 4](https://www.youtube.com/watch?v=LDV6LGeCIac)
-![YouTube Video 5](https://www.youtube.com/watch?v=oNIZGYx2Dbo)
-![YouTube Video 6](https://www.youtube.com/watch?v=PoDmzhVCie0&t=1s)
-![Democracy Craft](https://www.youtube.com/watch?v=Y9MLlfGaDaE)
-![DemocracyCraft 8/4/2020](https://www.youtube.com/watch?v=rYGvKhxXN2k&t=3s)
-![The Chips Journey to Staph!](https://www.youtube.com/watch?v=kgMv0kyhqHs&t=67s)
-![Minecraft DemocracyCraft City RP Server Review](https://www.youtube.com/watch?v=QNgYQanbReE&t=737s)
 
 ## April Outage
 
