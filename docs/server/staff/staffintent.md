@@ -12,13 +12,13 @@ Our vision extends to maintain server heritage and political stability, while st
 
 Democracycraft prides itself on aesthetic. Its important that, in order to retain aesthetic, we maintain the original intent for Reveille:
 
-1. Towns are allocated their respective borders and these borders shall remain unaltered. Allowing one town to expand means that all towns should be afforded the same opportunity.
+1. Towns are allocated their respective borders and these borders shall remain unaltered. Allowing one town to expand means that all towns should be afforded the same opportunity. Furthermore, the further towns expand, the closer towns get to one another.
 
-Furthermore, the further towns expand, the closer towns get to one another.
+![image](https://cdn.discordapp.com/attachments/838356841217916989/1171060658788380672/reveille_borders-png.png?ex=655b4e3a&is=6548d93a&hm=3c0785655f840a360e59a0c0048dad2fbd7b934c463d5dbfa8f8726dcac0b935&)
 
 2. Reveille is a custom map. Effort should be taken to preserve the natural landscape surrounding towns and the city. This includes the mountain range and waterways which should also be preserved. Enabling towns to expand beyond their borders or to utilise the surrounding landscape (i.e. mountains) will eventually lead to their degradation as town leaderships change and the area gets changed multiple times over. Its best to preserve these wonders as a natural buffer.
 
-3. Major changes to city zoning can be extremely hard to reverse. i.e. alleyways west of Government house and the courts should not be altered as they are purposefully placed to ensure that players cannot merge full city blocks close to the city centre - which is unrealistic.
+4. Major changes to city zoning can be extremely hard to reverse. i.e. alleyways west of Government house and the courts should not be altered as they are purposefully placed to ensure that players cannot merge full city blocks close to the city centre - which is unrealistic.
 
 ## Preservation of History
 
