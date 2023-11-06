@@ -18,7 +18,7 @@ Upon acceptance, Economists may choose between two teams, each with specific dut
   - Assisting in lawsuits regarding economic laws, such as tax evasion and minimum commission.
   - Encouraging and assisting with compliance initiatives.
 
-- **Credit Team Duties (Redxerian™) **:
+- **Credit Team Duties (Redxerian™)**:
   - Analysing hundreds of pieces of data to determine a persons credit.
   - Auditing certain citizens in the event of identified bad spending habits 
   - Advising banks on citizens current economic standing.
