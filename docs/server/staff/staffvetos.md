@@ -40,7 +40,7 @@ Link: https://www.democracycraft.net/threads/executive-order-17-21-respect-the-w
 
 ## Former Government Position Roles
 
-Description: The server won't maintain Former <role> permission groups and tags.
+Description: The server won't maintain Former ``<role>`` permission groups and tags.
 
 Reason:
 - Maintaining one role such as President means that we have to do it for other roles such as Vice President, Justice, and Secretary.
