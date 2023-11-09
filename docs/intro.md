@@ -44,7 +44,7 @@ On joining the server, you start off with $1,500. While that's no small sum, you
 - Real estate opportunities
 - Auctions
 
-You can leran more about making money by reading our guide on it [here](https://democracycraft.net/threads/making-money.1410/).
+You can learn more about making money by reading our guide on it [here](https://democracycraft.net/threads/making-money.1410/).
 
 ### Chest Shops
 
