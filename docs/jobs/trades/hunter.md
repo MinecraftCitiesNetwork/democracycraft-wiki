@@ -4,9 +4,9 @@ sidebar_position: 1
 
 # Hunter
 
-As a Hunter, your main responsibility is to eliminate mobs, preferably in the wilderness, in exchange for payment. You can choose to hunt for food, like cows, or defend yourself against zombies. But remember, you must follow the law and avoid harming other players, unless you're in the wilderness (and even then, you won't get paid for player kills). Hunters also have the unique ability to capture hostile mobs using chicken eggs, allowing them to obtain spawn eggs for a fee of $50!
+As a Hunter, your main responsibility is to eliminate mobs, preferably in the wilderness, in exchange for payment. You can choose to hunt for food, like cows, or defend yourself against zombies. But remember, you must follow the law and avoid harming other players, unless you're in the wilderness (and even then, you won't get paid for player kills). Hunters also have the unique ability to capture hostile mobs using chicken eggs (cost of $50 per capture)!
 
-![Image](https://cdn.discordapp.com/attachments/838356841217916989/1165974064188375130/2023-10-23_22.24.19.png?ex=6548ccf7&is=653657f7&hm=b709cec9c4deef0d5995cba2776ceea3543be67e6f9cc0196e40887765fdddba&)
+![Image](https://cdn.discordapp.com/attachments/838356841217916989/1170300267116384368/2023-11-04_20.55.08_4.png?ex=65588a0e&is=6546150e&hm=0eae9c805f4c74552d7218672e0d8c5869feb442ee25bb847186ecb2ac48c344&)
 
 ## What Hunters Do
 
