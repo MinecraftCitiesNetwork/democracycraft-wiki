@@ -14,12 +14,19 @@ Rangers are charged with several duties, including:
 - Take stray animals left abandoned to the shelter and inform their owner they can be picked up at the shelter.
 
 **Ranger Reports and Evictions**
-- Create ranger reports and evictions for violations (DER related laws).
+- Create ranger reports and evictions for violations (DOI related laws).
 - Make reports for violations and send them to the relevant individuals.
 - Perform landscaping/removal tasks and create reports on the forums for payment.
 
 ## Structure
 
+**Secretary:** Manages the department operations.
+
+**Deputy Secretary:** Assists in the leadership of the department.
+
+**Senior Ranger:** Support the Secretary and the Deputy Secretary, train the new rangers, take on bigger projects/reports and help with the zoo.
+
+**Ranger:** Does ranger reports, shelter work and ranger evictions.
 
 ![Image](https://media.discordapp.net/attachments/838356841217916989/1165664195036070028/2022-09-23_20.54.01.png?ex=6547ac61&is=65353761&hm=cef761b5d1688e01d420ee49352719882ea3a312e01af9852b68b277f5bdb50e&=&width=1266&height=671)
 
@@ -29,7 +36,7 @@ Rangers are charged with several duties, including:
 - The expectation for this department is to ensure everyone is contributing to the ongoing preservation and revitalization of the server's aesthetic.
 
 **Activity**
-- Rangers must meet basic standards of in-game activity and job commitment. The full protocols and policies of the DER are linked [here](https://www.democracycraft.net/threads/protocols-department-of-environment-and-recreation.182/).
+- Rangers must meet basic standards of in-game activity and job commitment.
 
 ## Application Process
 

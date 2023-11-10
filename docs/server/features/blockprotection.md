@@ -6,6 +6,8 @@ sidebar_position: 8
 
 DemocracyCraft features a simple block protection plugin to protect all your valuable goods. Take a few minutes to read this guide so you know how to best protect your loot!
 
+![Image](https://cdn.discordapp.com/attachments/838356841217916989/1170296355059683368/2023-11-04_20.39.36.png?ex=6558866a&is=6546116a&hm=31434a6ebd9a9d4f307f93692a4d29500807e2d7ad111239c5116a613cb0ed27&)
+
 ## Commands
 
 ### Lock

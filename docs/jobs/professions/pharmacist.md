@@ -2,6 +2,8 @@
 
 As a pharmacist, your role allows you to manufacture and sell pharmaceutical medical treatments to players privately. Unlike doctors, pharmacists do not receive a government paycheck.
 
+![image](https://cdn.discordapp.com/attachments/838356841217916989/1170299427039219752/2023-10-21_13.37.14.png?ex=65588946&is=65461446&hm=c6c427e57bcb69de68589935e35b5d157cf01f1af1af1fe7c7bb967835d45a13&)
+
 ## What Pharmacists Do
 
 Pharmacists play a vital role in DemocracyCraft by providing essential medical treatments to players. Here's what pharmacists typically do:

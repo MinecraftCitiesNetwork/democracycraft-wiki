@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Welcome!
+# Welcome
 
 DemocracyCraft, or DC, is a City Roleplay server focused on the player's ability to create, amend, and remove the rules and laws that govern them. Our server boasts cars, helicopters, a democratically elected government, businesses, economy, among other realistic, life-like features!
 
@@ -44,7 +44,7 @@ On joining the server, you start off with $1,500. While that's no small sum, you
 - Real estate opportunities
 - Auctions
 
-You can leran more about making money by reading our guide on it [here](https://democracycraft.net/threads/making-money.1410/).
+You can learn more about making money by reading our guide on it [here](https://democracycraft.net/threads/making-money.1410/).
 
 ### Chest Shops
 

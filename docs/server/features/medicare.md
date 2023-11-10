@@ -2,6 +2,8 @@
 
 Citizens of Redmont are privileged to have access to a high-class healthcare system. Medicare is a Government scheme funded by taxpayers to provide premium standard healthcare to everyone and anyone who decides to take a small exam to qualify.
 
+![image](https://cdn.discordapp.com/attachments/838356841217916989/1170299427039219752/2023-10-21_13.37.14.png?ex=65588946&is=65461446&hm=c6c427e57bcb69de68589935e35b5d157cf01f1af1af1fe7c7bb967835d45a13&)
+
 **What is covered:**
 - All disease-related treatments
 

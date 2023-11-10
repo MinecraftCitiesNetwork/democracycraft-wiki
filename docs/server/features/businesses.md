@@ -2,6 +2,8 @@
 
 DemocracyBusiness is a trading plugin that enables players to establish their businesses, hire other players, and set wages. Employees can complete jobs for businesses and generate revenue by producing items for chest shops.
 
+![image](https://media.discordapp.net/attachments/838356841217916989/1170275886419935312/2023-11-04_19.13.22.png?ex=65587359&is=6545fe59&hm=b8907794d197bd961410116a07dc844e97014e3e7f569ce67f2974099893352c&=&width=1276&height=671)
+
 ## Note
 
 This plugin uses the command `/democracybusiness` officially, but alternatives are available for ease of access. Use whichever you like:

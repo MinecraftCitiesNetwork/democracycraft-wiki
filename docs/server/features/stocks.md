@@ -1,6 +1,8 @@
-# Private Stock Exchanges on DemocracyCraft
+# Stock Exchanges
 
-Private Stock Exchanges play a significant role on DemocracyCraft, managing shares for over 10 major corporations on the server.
+Private Stock Exchanges play a significant role in the economy!
+
+![image](https://cdn.discordapp.com/attachments/838356841217916989/1170353626506612818/leonardo-dicaprio-jordan-belfort-quotes-wolf-of-wall-street.png?ex=6558bbc0&is=654646c0&hm=55e40d4b92a87e69641108ba40a318f71d728b663ca1883c1d193541038ca2f5&)
 
 ## What Are Shares?
 

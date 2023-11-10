@@ -2,6 +2,8 @@
 
 Do you need to keep an eye on your valuables or watch out for unwelcome visitors? These simple steps will help you get started!
 
+![image](https://media.discordapp.net/attachments/838356841217916989/1170295902657859634/2023-11-04_19.59.50_3.png?ex=655885fe&is=654610fe&hm=448981733964a18993564e105a131e425c9d2b0c9e45f36ed936fa4abc05fa93&=&width=1276&height=671)
+
 ## Crafting the Cameras and Computers
 
 To begin, follow the recipe below to craft both a camera and a computer.

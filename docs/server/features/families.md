@@ -14,7 +14,7 @@ Ready to tie the knot and start a new adventure together? Here's a simple guide 
 
 - **Pick a Nice Place.** Once everything is set with your lawyer, it's time to pick a fun place for your wedding! Redmont has so many cool spots, and you get to choose where you want to say, 'I do.'
 
-:::tip Finding a Lawyer
+:::note Finding a Lawyer
 You can find lawyers through the businesses forum channel on the DemocracyCraft Discord.
 :::
 

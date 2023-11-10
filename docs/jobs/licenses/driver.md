@@ -2,6 +2,8 @@
 
 Learn about the essential traffic laws, getting a vehicle, and car management.
 
+Once you pass the exam, its your qualification to keep!
+
 ![Image](https://media.discordapp.net/attachments/838356841217916989/1165657265454448650/2022-11-13_22.18.29_2.png?ex=6547a5ec&is=653530ec&hm=aacec2f56b77f33bae589c0abc82d396a2fa9bcbf1e269692e9a767948ff4cab&=&width=1266&height=671)
 
 ## Laws
