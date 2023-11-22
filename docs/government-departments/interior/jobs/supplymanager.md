@@ -41,11 +41,11 @@ To apply for the Supply Manager position, you need to complete an application an
 
 Go to the Forums -> Department of the Interior -> Applications.
 
-[image](https://cdn.discordapp.com/attachments/838356841217916989/1176757157295816734/MMvZAoA.png?ex=65700781&is=655d9281&hm=105874f5160bf087a7118557858ee5992286648112521b86022f98e6def84d90&)
+![image](https://cdn.discordapp.com/attachments/838356841217916989/1176757157295816734/MMvZAoA.png?ex=65700781&is=655d9281&hm=105874f5160bf087a7118557858ee5992286648112521b86022f98e6def84d90&)
 
 Click on 'Applications' & 'Apply'.
 
-[image](https://cdn.discordapp.com/attachments/838356841217916989/1176757205995892787/X7jlX9L.png?ex=6570078d&is=655d928d&hm=b0faf713f0c5cfeb61ac2825effb6cf3e37deb06378a3a091acbd8291bc1876c&)
+![image](https://cdn.discordapp.com/attachments/838356841217916989/1176757205995892787/X7jlX9L.png?ex=6570078d&is=655d928d&hm=b0faf713f0c5cfeb61ac2825effb6cf3e37deb06378a3a091acbd8291bc1876c&)
 
 Fill in your details and submit the application.
 
