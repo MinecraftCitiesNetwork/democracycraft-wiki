@@ -28,12 +28,12 @@ Supply Managers are charged with several duties, including:
 
 **Supply Manager:** Handles tenders, works at the Supply Depot
 
-##Protocols
+## Protocols
 
-###Expectations
+### Expectations
 The expectation for this department is to ensure the government gets the items it needs without having to spawn them in.
 
-###Activity
+### Activity
 Supply Managers must meet basic standards of in-game activity and job commitment.
 
 ## Application Process
