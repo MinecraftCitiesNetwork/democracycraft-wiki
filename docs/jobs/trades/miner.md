@@ -16,7 +16,7 @@ As a Miner, your main role is to mine ores, such as coal and netherite, and sell
 ## Mining Made Easier
 
 - You can speed up mining by purchasing a drilling vehicle from the Reveille Dealership (use /gps start revdealership).
-- Klondike is a mining town where you can reside and mine, or you can mine in the wild.
+- There are no mining towns, you are able to mine in the wild however!
 
 ## Getting Started After Passing the Exam
 
