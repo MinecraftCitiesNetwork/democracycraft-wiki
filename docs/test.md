@@ -7,7 +7,7 @@ sidebar_position: 3
 <form>
   <p>
     <label>
-      A simple required field. Try submitting without filling it in.<br>
+      A simple required field. Try submitting without filling it in.<br></br>
       <input type="text" name="foo" required>
     </label>
   </p>
