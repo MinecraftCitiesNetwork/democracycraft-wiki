@@ -126,7 +126,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} DemocracyCraft`,
+        copyright: `Copyright © ${new Date().getFullYear()} DemocracyCraft. This server is not operated by Mojang or Microsoft and is not affiliated with/supported by Mojang AB or Microsoft.`,
       },
       prism: {
         theme: prismThemes.github,
