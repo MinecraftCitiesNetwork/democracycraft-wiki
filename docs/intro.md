@@ -58,7 +58,7 @@ One of the first things you should do is get your first job! You can do this by 
 We have **three** main categories of jobs:
 - Trade - these are considered manual labour jobs with not many special perks. They are good for beginners who want an easier starting off point. Rarely do these type of jobs provide direct pay, you usually have to sell what you get as a part of the trade job.
 - Professions - these jobs build on trade jobs by having more advanced or special perks. This could be specialised crafting recipes or plugin features. Not all professions will provide you with pay.
-- Government - you cannot get a Government job immediately, but after around 6 hours of in-game playtime a lot of players apply for these jobs on [our forums](https://www.democracycraft.net). These jobs provide a mix between trade and professions, allowing you to work in teams to better our nation!
+- Government - you cannot get a Government job immediately, but after around 48 hours of in-game playtime a lot of players apply for these jobs on [our forums](https://www.democracycraft.net). These jobs provide a mix between trade and professions, allowing you to work in teams to better our nation!
 
 For more detailed information, read our [guide on jobs](https://democracycraft.net/threads/jobs.711/) and check out individual job guides that interest you [here](https://democracycraft.net/forums/job-guides.50/).
 
