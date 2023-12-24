@@ -16,7 +16,7 @@ To craft elixirs in DemocracyCraft, you need to set up the following:
 
 ![Brewing Stand](https://cdn.discordapp.com/attachments/838356841217916989/1170361733102194840/TBJxOi8OeW1UC_ZlGImSmW3gnbW1X0i0yTBcyJ2u02x_P2M0C53HU6Wqch0OH3yKtJQbyV_K6e_80Y_h_-ZI8alIHKGbs2hYZFAJfjIeP3rzvKDaEydOOu2xsDuse89Ys0JcM5rsiZq-yvjwwBQIEr8.png?ex=6558c34d&is=65464e4d&hm=f8a2c77028b23908a7c2fa4ce26a267803c0efaf88d8922b5e5f795d83a9e65b&)
 
-**Wood Planks** - Some recipes require barrel aging to complete the elixir crafting process. There are two types of aging barrels available: small barrels with 9 slots, always considered oak barrels regardless of the material used to craft them, are easy to store in your home or shop. Large barrels, on the other hand, can hold up to 27 elixirs and are constructed using various types of wood. They occupy more space, and each year of aging corresponds to 20 minutes in real time (i.e., 4 in-game years equal 1 hour and 20 minutes in real time). Here's how to make each type of barrel:
+**Wood Planks** - Some recipes require barrel aging to complete the elixir crafting process. There are two types of aging barrels available: small barrels with 9 slots are easy to store in your home or shop. Large barrels, on the other hand, can hold up to 27 elixirs and are constructed using various types of wood. They occupy more space, and each year of aging corresponds to 20 minutes in real time (i.e., 4 in-game years equal 1 hour and 20 minutes in real time). Here's how to make each type of barrel:
 
 **Small Barrel (9 Slots + Always Considered Oak)**
 1. Use 8 wooden stairs to construct the barrel as shown below.
