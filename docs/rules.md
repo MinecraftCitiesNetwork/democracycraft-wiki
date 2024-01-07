@@ -22,22 +22,22 @@ Something may not be explicitly defined here, that doesn't necessary make it ok.
 :::
 
 ### 1. Respect
-- **Harassment.** Any form of harassment, including (but not limited to): racism, homophobia, sexism, antisemitism, stalking is not acceptable ever.
-- **Controversial Topics.** Discussions about controversial topics such as real world politics and world religion are not permitted in public channels.
-- **Impersonation.** You are not allowed to impersonate or mimic other players or Staff members.
-- **Tickets.** Tickets must be used for assistance purposes only.
+- Any form of harassment, including (but not limited to): racism, homophobia, sexism, antisemitism, stalking is not acceptable ever.
+- Discussions about controversial topics such as real world politics and world religion are not permitted in public channels.
+- You are not allowed to impersonate or mimic other players or Staff members.
+- Tickets must be used for assistance purposes only.
   - Be truthful always. We rely on your honest recount alongside our evidence to keep our community safe.
   - Trying to lie or misrepresent facts **intentionally** may result in additional disciplinary actions.
-- **Separation of Staff & State.** Do not mix Staffing with in-game politics. 
+- Do not mix Staffing with in-game politics. 
   - Staff members play a role that is seperate to governance. 
   - You are not permitted to use the fact they have elevated permissions or conduct official duties for any political purposes.
 - All content on this server must be appropriate for minors. This includes all skins, language, and actions on all our platforms.
 
 ### 2. Chat
-- **Excessive Chat.** Please do not excessively repeat phrases, use profanity, and/or capital letters in your messages.
-- **Language.** You are not permitted to communicate in **any** other languages than English in public channels.
-- **Drunk Texting.** If your speech is altered by in-game drinks, you are not permitted to speak in public channels.
-- **Streaming.** You **must** use the #➕ | Create VC channel on our [Discord server](https://discord.gg/democracy) when you are streaming or recording. 
+- Please do not excessively repeat phrases, use profanity, and/or capital letters in your messages.
+- You are not permitted to communicate in **any** other languages than English in public channels.
+- If your speech is altered by in-game drinks, you are not permitted to speak in public channels.
+- You **must** use the #➕ | Create VC channel on our [Discord server](https://discord.gg/democracy) when you are streaming or recording. 
   - Inform people who join your voice channel that you are recording.
 
 :::info Areas we moderate in
@@ -45,34 +45,34 @@ We will moderate only groups and Discords related to DemocracyCraft. Private con
 :::
 
 ### 3. Advertising
-- **Adverts.** Advertising must be kept to ``/ad`` in-game or appropriate advertisement channels on our main Discord server.
-- **Private Messages.** You must not advertise for any reason in private messages.
-- **Non-compete.** Discord servers or Minecraft servers that are not for the purposes of DemocracyCraft are not allowed to be advertised anywhere.
+- Advertising must be kept to ``/ad`` in-game or appropriate advertisement channels on our main Discord server.
+- You must not advertise for any reason in private messages.
+- Discord servers or Minecraft servers that are not for the purposes of DemocracyCraft are not allowed to be advertised anywhere.
 
 ### 4. Property
-- **Stealing.** You are not allowed to steal from any place or any person.
-- **Lava Casting.** Lava casting and flooding are not allowed anywhere.
-- **Griefing.** You may not destroy, obstruct or otherwise cause physical disturbances on property that you do not own. 
+- You are not allowed to steal from any place or any person.
+- Lava casting and flooding are not allowed anywhere.
+- You may not destroy, obstruct or otherwise cause physical disturbances on property that you do not own. 
 
 :::danger This does not apply to the Wilderness
 You are allowed to destroy anything which is **unclaimed** in the Wilderness. This rule however still applies to anything that is **claimed**.
 :::
 
 ### 5. Lag Prevention
-- **Redstone Clocks.** Redstone clocks are not permitted in any builds.
-- **Automatic Farms.** All farms must either be manual or **semi**-automatic and are required to have player interactions. 
-- **Entities.** You must avoid using excessive tile entities (chests, hoppers, item frames) or regular entities (mobs) in builds and designated spaces.
+- Redstone clocks are not permitted in any builds.
+- All farms must either be manual or **semi**-automatic and are required to have player interactions. 
+- You must avoid using excessive tile entities (chests, hoppers, item frames) or regular entities (mobs) in builds and designated spaces.
   - Item frames must only be used to display **non-vanilla** items. This applies especially for ChestShops
 
 ### 6. Fair Play
-- **Permissions.** Permissions must be used strictly for the reasons you told you can have them for. 
+- Permissions must be used strictly for the reasons you told you can have them for. 
   - Many Government jobs contain additional features or access. It is your responsibility to use them responsibly and only for appropriate reasons.
-- **X-Ray** You must not use x-ray. Any proceeds from x-ray will be confiscated.
-- **Client Modifications.** You are allowed to use client modifications from our [allowed list](https://www.democracycraft.net/threads/client-modification.13587/) **only**.
-- **Anti-Kick.** Any methods to avoid being kicked for being away-from-keyboard that is not genuine gameplay is not allowed.
-- **Exploitation.** Any form of exploitation is not permitted for any reason. 
+- You must not use x-ray. Any proceeds from x-ray will be confiscated.
+- You are allowed to use client modifications from our [allowed list](https://www.democracycraft.net/threads/client-modification.13587/) **only**.
+- Any methods to avoid being kicked for being away-from-keyboard that is not genuine gameplay is not allowed.
+- Any form of exploitation is not permitted for any reason. 
   - This includes using bugs in server features.
-- **Alternative Accounts.** You can only play on this server with **one (1)** Minecraft account. Any activities that occur on this account are your responsibility
+- You can only play on this server with **one (1)** Minecraft account. Any activities that occur on this account are your responsibility
 
 :::tip If your account is compromised, report it!
 We will try to help you out, and keep the account banned until you regain access to it.
