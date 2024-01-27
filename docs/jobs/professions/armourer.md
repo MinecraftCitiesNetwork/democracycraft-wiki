@@ -35,11 +35,18 @@ For more information, read this guide: [Guide - Making Money](https://democracyc
 ## Recipes
 
 Here are a few armourer recipes to help you get started without the recipe book:
-- 5.56 NATO (5x)
-- Musket Ball (32x)
-- M16
-- 'Brown Bess' Musket
-- 9mm (10x)
-- MP 40
 
 You can find even more recipes through /ia under Guns.
+
+
+![image](https://i.gyazo.com/6e50be5c71868e7c3cfc4e72f04d1c99.png)
+
+![image](https://i.gyazo.com/13a1a729bfa36ccad7dd095e81e43cbc.png)
+
+![image](https://i.gyazo.com/c4d7f82c8d432968d35c7044872f5572.png)
+
+![image](https://i.gyazo.com/04c789f7a6541701f40d81caa1e30aa9.png)
+
+![image](https://i.gyazo.com/45c596b7d02b80cf1e321f90eb8eaf39.png)
+
+![image](https://i.gyazo.com/0d75e19baefe34d1744d896baa6064cd.png)
