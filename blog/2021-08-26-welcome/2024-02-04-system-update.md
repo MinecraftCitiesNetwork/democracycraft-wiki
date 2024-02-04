@@ -1,0 +1,32 @@
+---
+slug: welcome
+title: System Check-In | January
+authors: [Nacho]
+tags: [Updates, System]
+---
+Hello!
+
+We have compiled a list of recent addons and changes we pushed during the month of January 2024! Check out the list below for a bit of insight with what the system team has been working on.
+
+## Bug Fixes
+- Sign Edits changed to allow for use within the Construction / Player Build Worlds.
+- Ability to '/exams cancel' midway through exams.
+- Players restricted on specific world access to worlds (Vault, NewConstruction).
+- Department Accounts have been restricted to Secretaries / Deputies.
+- Voting Crate messages now say 9 instead of 7.
+- Fuel for old vehicles have been re-enabled to allow for older cars to be able to be filled up.
+
+## Changes / Additions
+- Hiring & Firing Commands were migrated into the /about menu offering a suitable replacement to the millions of commands secretaries had to maintain during their tenure.
+- Bus / Metro signage updated to to pull directly from MiniMessage formating to provide a cleaner appearance utilizing HEX color code formating.
+- Weaponry Buffs allowing for increased damage to players and armor.
+- New Vehicle Update - All recipes went live within /ia.
+- Professors given the ability to speak within the DOE in-game channel.
+- Server Updated to 1.20.4
+
+## Retiried Features
+- Donator Cosmetics were removed due to consistent abuse, which allowed for unfair play.
+- No longer able to connect to versions older than 1.20.4.
+
+## 
+We've had an amazing start of 2024 and look forward to brining new features and progressing the server each and everyday. Let us know if you would like to see more of these in #Suggestions within the DemocracryCraft Discord server!
