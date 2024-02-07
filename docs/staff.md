@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Staffing
 
-![image](https://cdn.discordapp.com/attachments/838356841217916989/1170392047392403507/staff.png?ex=6558df88&is=65466a88&hm=08eefd83e3953743cbb17ee22646660e0eccf8ba4a0b201693c7fc0d11ab2953&)
+![image](/img/staffing/staff_team.png)
 
 Welcome to the DemocracyCraft Staff Guide! This guide contains all staffing policies, tips, and tricks that is used in day-to-day operations. By making this guide public access, our playerbase is informed of the expectations and procedures our Staff are subjected to. 
 
@@ -109,7 +109,7 @@ These are a set of principles that guide us as a team.
 - Staff permissions are used for tickets while assisting other players only.
 - Be positive! - Smile :) 
 
-![Inspirational Quote](https://www.democracycraft.net/attachments/1633992639300-png.17534/)
+![Inspirational Quote](/img/staffing/richard_branson_quote.png)
 
 ## For Senior Administrators
 
@@ -158,7 +158,7 @@ We use a plugin called ImageMaps to allow us to implement images in-game via ite
   - Replace [size] the height (A) and width (A) in the following format: AxB
     - i.e. for a 2 by 2 image, it would be: ``2x2``
 4. Admire your work! 
-![Google Logo](https://www.democracycraft.net/attachments/screen-shot-2021-06-04-at-2-02-55-pm-png.11294/)
+![Google Logo](/img/staffing/google_imagemap_example.png)
 
 ### Understanding your Forums Privilages
 As an administrator you have access to our forums control panel. Here you can update user roles and profiles, as well as manage various forum functionality. 
@@ -176,9 +176,9 @@ You will have access to more information than a regular player. This information
 
 When updating groups, all you should be modifying are ``Secondary Groups``. Do not modify regular Department or otherwise automated roles. 
 
-![Registered Primary Group](https://www.democracycraft.net/attachments/1610116698902-png.3826/)
+![Registered Primary Group](/img/staffing/registered_group.png)
 Staff changes require two separate roles and one option: ``Show as Staff``, ``Staff``, and ``Moderator/Administrator/Senior Administrator``.
-![Secondary Groups](https://www.democracycraft.net/attachments/1610116628711-png.3825/)
+![Secondary Groups](/img/staffing/secondary_group.png)
 
 
 ### How to conduct Rollbacks
@@ -303,7 +303,7 @@ Players who have alternative accounts will receive all of the punishments associ
 
 When someone first joins the server, our punishments plugin automatically runs a check on them (manually you can do ``/alts <username>``). This scans their account to see if there are any other accounts that are playing on the same IP as them.
 
-![Alternative Accounts Flagged Example](https://www.democracycraft.net/attachments/screen-shot-2021-06-28-at-11-49-06-am-png.12906/)
+![Alternative Accounts Flagged Example](/img/staffing/flagged_alt_account_examples.png)
 
 Once you do ``/alts``, something like this will come up. If there are two or more green usernames (which means that they are both online at the same time), check ``#relations`` on discord to see if someone has already done an alternative accounts test on them. If no one has, then you need to conduct one.
 
@@ -489,8 +489,6 @@ We use Coreprotect to log all of block interactions. This allows us to lookup ce
 - ``/co l; /co lookup`` - used to lookup specific block data.
 - ``/co l u:<user> t:<time> r:<radius> a:<action> b:<blocks> e:<exclude>``
 
-![Core Protect Parameters table](https://www.democracycraft.net/attachments/screen_shot_2022-03-29_at_17-48-13-png.22945/)
-
 ### <a id="coreprotect-parameters"></a>Parameters
 These can be used in almost every CoreProtect command.
 
@@ -578,7 +576,7 @@ To achieve this the following command ought to be used ``/rg redefine <plot>``
 ##### Merging
 To merge a region is quite simple - all that is required is to redefine a region over the plot divider. See below for an example.
 
-![Merging Example Image](https://www.democracycraft.net/attachments/1610183052482-png.3876/)
+![Merging Example Image](/img/staffing/merge_regions_example.png)
 
 ##### What can be merged?
 You can merge any commercial and industrial plots. 
@@ -641,9 +639,7 @@ Check the priority of the region is 30 or above via ``/rg info <regionName>`` - 
 Make sure to get rid of the wool that you placed, don’t leave anything behind.
 
 ##### Using the sign-based method
-If you prefer doing region creation through signs, try this!
-
-![Sign based method rental region making process](https://www.democracycraft.net/attachments/unknown-8-png.4109/)
+If you prefer doing region creation through signs, try [this](https://github.com/NLthijs48/AreaShop/wiki/Basic-regions-setup#rental-region)!
 
 
 #### <a id="wild-regioning"></a> Wild Regioning
@@ -664,7 +660,7 @@ It costs $10/block to claim land in the wilderness.
   - After this, multiply the total block number by 10 to get the price.
   - **Command:**``//calc <totalblocks>*10``
 
-![Wild region price calculation example](https://www.democracycraft.net/attachments/2020-06-07_15-03-34-png.4111/)
+![Wild region price calculation example](/img/staffing/wild_price_calculation_example.png)
 
 
 - **2.0 Seeing if the player can afford it**
