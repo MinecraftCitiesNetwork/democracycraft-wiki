@@ -827,34 +827,34 @@ You can open players' inventory in real time.
 
 #### Ender Chests
 Opens the specified player’s enderchest in real time.
-- **Commands:** /openender <player>; /oe
+- **Commands:** ``/openender <player>; /oe``
 
 #### Teleportation
 Teleports the specified player to spawn.
 - Used if a player seems to be stuck from glitching.
-- **Commands:** /warps spawn <player>
+- **Commands:** ``/warps spawn <player>``
 
 Teleport to the specified player.
 - Additionally you can teleport the player to another player
 - - i.e. /tp xEndeavour Technofied
 - - Teleports xEndeavour to Technofied
-- **Commands:** /tp2p <player> [player]
+- **Commands:** ``/tp2p <player> [player]``
 
 Teleports the specified player to your location
-- **Commands:** /tphere <player>
+- **Commands:** ``/tphere <player>``
 
 Returns you to your previous location.
 - Elevators count as a previous location if used
 - Used after closing a ticket or doing a staff duty.
-- **Commands:** /back
+- **Commands:** ``/back``
 
 Teleports you to the highest block above your head.
 - Used for when teleported underground from /as tp
-- **Commands:** /top
+- **Commands:** ``/top``
 
 Teleports you to the specified coordinates
 - i.e. /tppos 190 65 -100
-- **Commands:** /tppos <coords>
+- **Commands:** ``/tppos <coords>``
 
 #### Other
 Puts you into or out of spectator mode.
@@ -862,18 +862,18 @@ Puts you into or out of spectator mode.
 - **Commands:** /spectator
 
 Turns fly mode on or off.
-- **Commands:** /fly <reason>
+- **Commands:** ``/fly <reason>``
 
 Teleports you to the top of an area if under something.
-- **Commands:** /top
+- **Commands:** ``/top``
 
 Sets your in-game drunkenness to 0%.
-- **Commands:** /staff-sober
+- **Commands:** ``/staff-sober``
 
 Resets a player's in game nickname/display name
 - Use this to correct incorrect usernames or inappropriate nicknames.
-- **Commands:** /nickname player <player> reset
+- **Commands:** ``/nickname player <player> reset``
 
 Use this to remove any ghost locks.
 - Must be run after vaulting and can be used when players complain about Air etc being locked.
-- **Commands:** /staff-cleanup-locks
+- **Commands:** ``/staff-cleanup-locks``
