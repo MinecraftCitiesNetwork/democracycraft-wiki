@@ -91,13 +91,13 @@ As you progress up the ranks, you are expected to maintain your prior level's du
 #### Values
 These are a set of principles that guide us as a team.
 - **Service** - The selflessness of character to place the interests of our server and its players ahead of your own
-- - e.g. activity, ticket counts, etc.
+  - e.g. activity, ticket counts, etc.
 - **Integrity** - The consistency of character to align your thoughts, words, and actions to do what is right 
-- - This refers to being truthful, and your moral strength
+  - This refers to being truthful, and your moral strength
 - **Respect** - The humanity of character to value others and treat them with 
-- - This refers to how you engage with others
+  - This refers to how you engage with others
 - **Excellence** - The willingness of character to strive each day to be the best you can be, both in a staff context and personally 
-- - This is what is often referred to as 'going above and beyond'!
+  - This is what is often referred to as 'going above and beyond'!
 
 #### Expectations
 - As a staff member you have access to certain staff-related information. This should not be shared with anyone outside of the staff team. Respect player confidentiality.
@@ -130,7 +130,7 @@ In most instances, a Nether and End reset will occur once every 6 months, typica
 
 #### Steps
 1. Try to make an announcement in #server-announcements one week away for the desired data.
-- - Make a follow up announcement at least 48 hours before the reset as well to give players a reminder that this is about to happen!
+  - Make a follow up announcement at least 48 hours before the reset as well to give players a reminder that this is about to happen!
 2. Turn on the whitelist via ``/whitelist on`` to ensure those pesky players stay out of our way.
 3. Delete both Reveille_nether and Reveille_the_end using ``/mw delete <world>``.
 4. Recreate both Reveille_nether and Reveille_the_end using ``/mw create <world>``.
@@ -149,14 +149,14 @@ We use a plugin called ImageMaps to allow us to implement images in-game via ite
 #### Steps
 1. Upload your image to an image hosting service such as [Imgur](http://imgur.com/) or [ImgBB](https://imgbb.com/)
 2. Download the image in-game by running ``/imagemap download <filename> <sourceURL>``
-- - Replace ``<filename>`` with an easy to identify name, without any file extensions such as ``.png``.
-- - Replace ``<sourceurl>`` with a link to the image, this __should include__ the file extension such as ``.png``.
+  - Replace ``<filename>`` with an easy to identify name, without any file extensions such as ``.png``.
+  - Replace ``<sourceurl>`` with a link to the image, this __should include__ the file extension such as ``.png``.
 3. Place the image in-game by running ``/imagemap place <filename> [frameInvisible] [frameFixed] [size]``
-- - Replace ``<filename>`` with the file name you selected in Step 2. Please add the file extension featured in the ``<sourceurl>`` you used earlier.
-- - Replace [frameInvisible] with "true", no quotation marks. This ensures that players do not see the default item frame texture in empty spaces of the image.
-- - Replace [frameFIxed] with "true", no quotation marks. This ensures a clean removal of the image by punching the item frames in creative.
-- - Replace [size] the height (A) and width (A) in the following format: AxB
-- - - i.e. for a 2 by 2 image, it would be: ``2x2``
+  - Replace ``<filename>`` with the file name you selected in Step 2. Please add the file extension featured in the ``<sourceurl>`` you used earlier.
+  - Replace [frameInvisible] with "true", no quotation marks. This ensures that players do not see the default item frame texture in empty spaces of the image.
+  - Replace [frameFIxed] with "true", no quotation marks. This ensures a clean removal of the image by punching the item frames in creative.
+  - Replace [size] the height (A) and width (A) in the following format: AxB
+    - i.e. for a 2 by 2 image, it would be: ``2x2``
 4. Admire your work! 
 ![Google Logo](https://www.democracycraft.net/attachments/screen-shot-2021-06-04-at-2-02-55-pm-png.11294/)
 
@@ -187,7 +187,7 @@ We use the industry standard plugin CoreProtect to log all of our in-game intera
 #### Commands
 - ``/co help`` - help command; displays all commands.
 - ``/co rb; /co rollback`` - rollback block data based on certain parameters.
-- - **Usage:** ``/co rb u:<user> t:<time> r:<radius> a:<action> b:<blocks> e:<exclude>``
+  - **Usage:** ``/co rb u:<user> t:<time> r:<radius> a:<action> b:<blocks> e:<exclude>``
 - ``/co undo`` - revert a rollback.
 
 You can see a list of parameters for these commands [here](#coreprotect-parameters).
@@ -239,7 +239,7 @@ These are useful commands to know with your position.
 
 - ``/lp; /luckperms; /perm; /perms: /permissions`` - Main alias. Put these before any LuckPerms command.
 - ``/lp editor [type]`` - Opens a website interface to edit permissions data. After changes are saved, a command will be given that you need to run for the changes to take effect.
-- -  ``[type]`` - the types to include in the editor session. can be ``all``, ``users`` or ``groups``.
+  -  ``[type]`` - the types to include in the editor session. can be ``all``, ``users`` or ``groups``.
 
 ##### User Commands 
 - ``/lp user <user> info``
@@ -279,8 +279,8 @@ Add in-game roles via ``/lp user <user> parent add <job>``
 
 ##### Crates
 - ``/crates give <user> <crate>`` - sometimes it's easier to give these to yourself and then transfer them to the player's inventory. This is for a couple of reasons:
-- -  It won't work if the player's inventory is full.
-- -  It requires the player to be online.
+  -  It won't work if the player's inventory is full.
+  -  It requires the player to be online.
 
 ## For Moderators
 Here is everything a Moderator needs to know! 
@@ -337,7 +337,7 @@ Additionally, you could go into ``/spectator`` and ``/staff-tp`` to them to furt
 - ``/rg remove <region>`` - Removes the specified region.
 - ``/rg redefine <name>`` - Re-sets an existing region to your current selection.
 - ``/rg setparent <region> <parent>`` - Sets the specified region to be a child of the second given region. Used for when creating apartment regions.
-- - Ex.: ``/rg setparent ExampleRegion dc-001`` - Sets dc-001 as the parent of region ExampleRegion
+  - Ex.: ``/rg setparent ExampleRegion dc-001`` - Sets dc-001 as the parent of region ExampleRegion
 
 ##### Flags
 Here is a basic rundown of some flags you might come across or may need to add/change.
@@ -390,27 +390,27 @@ A cuboid is like 3D rectangle. In WorldEdit, you select the region that you want
 - ``//cut`` - copies and clears your current selection.
 - ``//paste`` - pastes your previous cut selection.
 - ``//expand <amount> [direction]`` - makes your current selection expand by the amount specified in the specified direction.
-- - Amount is either specfified as a number or ``vert`` (infinitely vertical).
+  - Amount is either specfified as a number or ``vert`` (infinitely vertical).
 - ``//calc`` - short for 'calculate'. Allows you to do equations in-game. Example: ``//calc 100*7``
 - ``//sel [poly/cuboid]`` - select the type of region.
-- - ``Cuboid`` is the **default** selection type; basic two point selection
-- - Left click a block to set first selection
-- - Right click a block to set a second selection.
-- - Poly is the **advanced** selection type.
-- - Left click a block to set first selection
-- - Right click a block to set a second, third, fourth, etc. selection
+  - ``Cuboid`` is the **default** selection type; basic two point selection
+  - Left click a block to set first selection
+  - Right click a block to set a second selection.
+  - Poly is the **advanced** selection type.
+  - Left click a block to set first selection
+  - Right click a block to set a second, third, fourth, etc. selection
 - ``//sel`` - when used like this this command will clear your current selection.
 - ``//rotate <degrees>`` - rotates your current clipboard (cut/copy) the specified degrees.
-- - Degrees have to be in multiples of 90 or it won't work.
-- - i.e. ``90``, ``180``, ``270``, ``360``, ``-90``, ``-180``, ``-270``, ``-360``.
+  - Degrees have to be in multiples of 90 or it won't work.
+  - i.e. ``90``, ``180``, ``270``, ``360``, ``-90``, ``-180``, ``-270``, ``-360``.
 - ``//move <amount of blocks> [direction]`` - moves your current selection by the amount specified in the specified direction.
 - ``/expand <number> [direction]`` - modifies your selection in the direction specified by the amount of blocks specific.
 
 ###### Directions can be...
 - **Relative to the world**
-- - i.e. ``up``, ``down``, ``north``, ``east``, ``south``, ``west``.
+  - i.e. ``up``, ``down``, ``north``, ``east``, ``south``, ``west``.
 - **Relative to the player**
-- - i.e. ``forward``, ``back``, ``left``, and ``right``.
+  - i.e. ``forward``, ``back``, ``left``, and ``right``.
 
 If a direction is ommited from the command, the region will expand in the direction the player is looking.
 
@@ -432,7 +432,7 @@ This is a general guide - moderators should refer to the more specific guides on
 
 ##### Commands
 - ``/as add <buy/sell> <region>`` - makes a region either a buyable or rentable region.
-- - Used when making wilderness or apartment/shop regions.
+  - Used when making wilderness or apartment/shop regions.
 
 :::warning
 You must specify the shop/apartment's region name when maing it rentable, otherwise you run the risk of making the parent plot rentable instead!
@@ -442,19 +442,19 @@ You must specify the shop/apartment's region name when maing it rentable, otherw
 - ``/as del <region>`` - deletes the specified region from AreaShop.
 - ``/as setprice <price> <region>`` - used to set the selling/renting price of an AreaShop region.
 - ``/as setlandlord <name> <region>`` - used to set the landlord of an Areashop region.
-- - Wilderness regions will always have the landlord be ``“DCGovernment``
-- - Apartment and/or shop regions, will have the owner of the parent region be the landlord unless told otherwise.
+  - Wilderness regions will always have the landlord be ``“DCGovernment``
+  - Apartment and/or shop regions, will have the owner of the parent region be the landlord unless told otherwise.
 - ``/as setowner <player> <region>`` - used for when transferring ownership of a region to another player.
 - ``/as addsign <region>`` - used to add an Areashop sign to the sign you’re looking at.
 - ``/as delsign`` - used to delete the Areashop sign you’re looking at.
 - ``/as tp <region>`` - Teleports you to the specified Area Shop region.
-- - Sometimes this command can teleport you to an underground cave, If this happens, just use /top to get above ground.
-- - Don't use this for personal transportation to your regions.
+  - Sometimes this command can teleport you to an underground cave, If this happens, just use /top to get above ground.
+  - Don't use this for personal transportation to your regions.
 - ``/as info player <player>`` - lists all of the regions the specified player owns or is added to.
 Sometimes doesn’t work.
-- - An alias of this command is ``/as me <player>``.
+  - An alias of this command is ``/as me <player>``.
 - ``/staff-getsign`` - gives you a sign which you can use to make AreaShop signs.
-- - Can also be used to label chests/buildings when vaulting.
+  - Can also be used to label chests/buildings when vaulting.
 - ``/staff-getwool`` - gives you wool which you can use for selection points.
 
 ### How-tos
@@ -597,42 +597,42 @@ This guide will show you how to create child regions. For this, you will be usin
 
 ##### Step by Step Guide
 - **1.1 Creating the WorldGuard region and fining the player.**
-- - After selecting the points for the region you can define the region to create it. 
-- - The owner of the building may choose the name of the region.
-- - **Command:** ``/rg define <regionName>``.
-- - - i.e. ``/rg define EndStore1``.
+  - After selecting the points for the region you can define the region to create it. 
+  - The owner of the building may choose the name of the region.
+  - **Command:** ``/rg define <regionName>``.
+    - i.e. ``/rg define EndStore1``.
 
 - **1.2 Make sure to fine the player for the creation of each region.**
-- - Each region costs $25 to create excluding shulker regions, those are free.
-- - **Command:** ``/fine <user> <amount>``.
-- - - Select "Staff" as the account to send the fine to.
-- - - i.e. ``/fine xEndeavour 25``.
+  - Each region costs $25 to create excluding shulker regions, those are free.
+  - **Command:** ``/fine <user> <amount>``.
+    - Select "Staff" as the account to send the fine to.
+    - i.e. ``/fine xEndeavour 25``.
 
 - **2.0 Setting the region parent.**
-- - Next we need to tell WorldGuard who the child region belongs to. In order to do this, we will parent the child region to the plot it's on.
-- - The parent is the plot the room will inherit permissions from. 
-- - Setting the room’s parent will allow the plot owner and any other members of the plot to modify within the rooms.
-- - **Command:** ``/rg parent <regionName> <PlotRegion>``.
-- - - i.e. ``/rg parent EndStore1 c001``.
+  - Next we need to tell WorldGuard who the child region belongs to. In order to do this, we will parent the child region to the plot it's on.
+  - The parent is the plot the room will inherit permissions from. 
+  - Setting the room’s parent will allow the plot owner and any other members of the plot to modify within the rooms.
+  - **Command:** ``/rg parent <regionName> <PlotRegion>``.
+    - i.e. ``/rg parent EndStore1 c001``.
 
 - **3.0 Adding the region to AreaShop**
 - After you have created the WorldGuard region and parented it, it’s now time to make it rentable. All you need to do is add the region to Areashop.
-- - **Command:** ``/as add rent <regionName>.``
+  - **Command:** ``/as add rent <regionName>.``
 
 - **3.1 Set the landlord**
-- - **Command:** ``/as setlandlord <landlord> <regionName>``, this usually is the player who is creating the region.
+  - **Command:** ``/as setlandlord <landlord> <regionName>``, this usually is the player who is creating the region.
 
 - **3.2 Set the price**
-- - **Command:** ``/as setprice <price> <regionName>``
+  - **Command:** ``/as setprice <price> <regionName>``
 
 - **3.3 Set the duration**
-- - **Command:** ``/as setduration <duration> <region>``
+  - **Command:** ``/as setduration <duration> <region>``
 
 - **4.0 Adding an AreaShop sign**
-- - If the player is unable to provide a sign for you to place and create, you can obtain one by using ``/staff-getsign``.
-- - After you get a sign, you can place it somewhere outside of the door/front of the region where any player can access.
-- - The player will usually show you where they want the signs.
-- - After the sign is placed look at it and use the command: ``/as setsign <regionName>``, this will make the sign interactive and add the region's information to it.
+  - If the player is unable to provide a sign for you to place and create, you can obtain one by using ``/staff-getsign``.
+  - After you get a sign, you can place it somewhere outside of the door/front of the region where any player can access.
+  - The player will usually show you where they want the signs.
+  - After the sign is placed look at it and use the command: ``/as setsign <regionName>``, this will make the sign interactive and add the region's information to it.
 
 - **5.0 Quality Checks**
 
@@ -659,24 +659,24 @@ It costs $10/block to claim land in the wilderness.
 ##### Step By Step Guide
 
 - **1.0 Getting the price for the region**
-- - To get the price, you’re going to use your wand to select two corners but make sure they are on the same height (y level). 
-- - This will give you the total number of blocks within your selection 
-- - After this, multiply the total block number by 10 to get the price.
-- - **Command:**``//calc <totalblocks>*10``
+  - To get the price, you’re going to use your wand to select two corners but make sure they are on the same height (y level). 
+  - This will give you the total number of blocks within your selection 
+  - After this, multiply the total block number by 10 to get the price.
+  - **Command:**``//calc <totalblocks>*10``
 
 ![Wild region price calculation example](https://www.democracycraft.net/attachments/2020-06-07_15-03-34-png.4111/)
 
 
 - **2.0 Seeing if the player can afford it**
-- - After getting the total price of the land, check the player’s balance to see if they can afford it.
-- - Command: ``/bal <player>``
-- - **If they have enough money**, tell them the price and ask if it’s okay.
-- - **If they don't have enough money**, let them know, maybe they'll have money in their companies. Otherwise, offer to resize the selection.
+  - After getting the total price of the land, check the player’s balance to see if they can afford it.
+  - Command: ``/bal <player>``
+  - **If they have enough money**, tell them the price and ask if it’s okay.
+  - **If they don't have enough money**, let them know, maybe they'll have money in their companies. Otherwise, offer to resize the selection.
 
 - **3.0 Creating the WorldGuard region**
-- - Now that we have the region selected and we know the player can afford it, it's time to define the region.
-- - **Command:** ``/rg define <playerName>``
-- - - i.e. ``/rg define Technofied``
+  - Now that we have the region selected and we know the player can afford it, it's time to define the region.
+  - **Command:** ``/rg define <playerName>``
+    - i.e. ``/rg define Technofied``
 
 :::danger
 
@@ -685,16 +685,16 @@ All wild regions should have the same naming convention: ``<playerName>``
 :::
 
 - **4.0 Adding the region to AreaShop**
-- - After you’ve created the WorldGuard region, it’s now time to make it buyable.
+  - After you’ve created the WorldGuard region, it’s now time to make it buyable.
 
-- - **4.1 Add the region**
-- - **Command:** ``/as add buy <regionName>``
+  - **4.1 Add the region**
+  - **Command:** ``/as add buy <regionName>``
 
-- - **4.2 Set the landlord**
-- - **Command:** ``/as setlandlord DCGovernment <region>.``
+  - **4.2 Set the landlord**
+  - **Command:** ``/as setlandlord DCGovernment <region>.``
 
-- - **4.3 Set the price**
-- - **Command:** ``/as setprice <price> <region>``
+  - **4.3 Set the price**
+  - **Command:** ``/as setprice <price> <region>``
 
 :::tip 
 
@@ -706,19 +706,19 @@ Let the player know to not buy the region until you tell them to! A lot of peopl
 Lets say a player already has a wild region, but would like to expand it.
 
 - **1.0 Getting the price for the new region**
-- - Select two corners of the new area the player would like their region to be expanded to. 
-- - Note the number of blocks, and multiply it by 10 to get the total cost of the expansion and subtract it by the old region’s price.
+  - Select two corners of the new area the player would like their region to be expanded to. 
+  - Note the number of blocks, and multiply it by 10 to get the total cost of the expansion and subtract it by the old region’s price.
 
 - **2.0 Check if the player can afford it**
-- - **Command:** ``/bal <player>`` - ask if the player is okay with the price.
+  - **Command:** ``/bal <player>`` - ask if the player is okay with the price.
 
 - **3.0 Fine the player the cost (after the subtraction)**
-- - **Command:** ``/fine <player> <amount>`` - this will open a menu up and the option of ``Staff`` should be selected.
+  - **Command:** ``/fine <player> <amount>`` - this will open a menu up and the option of ``Staff`` should be selected.
 
 - **4.0 Re-define the region to include BOTH their initial region AND their expanded area**
-- - Select the old region via ``/rg select <region>``
-- - Expand it into the new region with WorldEdit.
-- - Redefine region into the new size via ``/rg redefine <region>``.
+  - Select the old region via ``/rg select <region>``
+  - Expand it into the new region with WorldEdit.
+  - Redefine region into the new size via ``/rg redefine <region>``.
 
 ## For Everyone
 
@@ -769,7 +769,7 @@ As SVP Talent, you hold the vital role of the Staff Whisperer. Your mission: to 
 ##### Responsibilities
 - Seek out and encourage potential staff members to apply
 Monitor staff applications, ensuring they are promptly reviewed and presented for a fair and timely voting process.
-- - Can be posted by anyone, you just make sure its happening.
+  - Can be posted by anyone, you just make sure its happening.
 - Sends verdict in game via staff command.
 
 ![Talent, ooh!](https://media.giphy.com/media/2lG8fMhri8Pmw/giphy.gif)
@@ -812,18 +812,18 @@ Here are a list of commands that all Staff members have access to. Remember that
 #### Vanish
 You’re able to become invisible to all non-staff players, and seen as in spectator mode on tab to other staff as a physical floating head.
 - This can be used in multiple situations:
-- - Watching for suspicious illegal activity
-- -  Getting away from players if feeling overwhelmed
+  - Watching for suspicious illegal activity
+  -  Getting away from players if feeling overwhelmed
 - **Commands:** ``/vanish; /v``
-- - Silently puts you into vanish mode
+  - Silently puts you into vanish mode
 - Other staff still get a broadcast of you entering vanish mode.
 
 #### Inventory
 You can open players' inventory in real time. 
 - Used to take items out of a player’s inventory if they’re not supposed to have it.
-- - **Commands:** ``/openinv <player>; /oi``
-- - Accidental dropped items
-- - Stolen items
+  - **Commands:** ``/openinv <player>; /oi``
+  - Accidental dropped items
+  - Stolen items
 
 #### Ender Chests
 Opens the specified player’s enderchest in real time.
@@ -836,8 +836,8 @@ Teleports the specified player to spawn.
 
 Teleport to the specified player.
 - Additionally you can teleport the player to another player
-- - i.e. /tp xEndeavour Technofied
-- - Teleports xEndeavour to Technofied
+  - i.e. /tp xEndeavour Technofied
+  - Teleports xEndeavour to Technofied
 - **Commands:** ``/tp2p <player> [player]``
 
 Teleports the specified player to your location
