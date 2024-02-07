@@ -152,7 +152,7 @@ We use a plugin called ImageMaps to allow us to implement images in-game via ite
 - - Replace ``<filename>`` with an easy to identify name, without any file extensions such as ``.png``.
 - - Replace ``<sourceurl>`` with a link to the image, this __should include__ the file extension such as ``.png``.
 3. Place the image in-game by running ``/imagemap place <filename> [frameInvisible] [frameFixed] [size]``
-- - Replace <filename> with the file name you selected in Step 2. Please add the file extension featured in the ``<sourceurl>`` you used earlier.
+- - Replace ``<filename>`` with the file name you selected in Step 2. Please add the file extension featured in the ``<sourceurl>`` you used earlier.
 - - Replace [frameInvisible] with "true", no quotation marks. This ensures that players do not see the default item frame texture in empty spaces of the image.
 - - Replace [frameFIxed] with "true", no quotation marks. This ensures a clean removal of the image by punching the item frames in creative.
 - - Replace [size] the height (A) and width (A) in the following format: AxB
