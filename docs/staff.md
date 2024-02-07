@@ -724,6 +724,31 @@ In order to keep comprehensive notes on our players that are easily accessible, 
 Search for the player's full username, before creating a thread. In these threads we record evidence and general notes about players behaviours and punishments. 
 
 ### How and when to action warrants
+Warrants are a legal writ that allow for **only enforcement agencies** to break the law under certain circumstances. I.e. trespass, take items, gather evidence. This is a function that requires Staff Support.
+
+:::tip 
+
+If you are involved in a case/investigation or have a vested interested in the outcome of a case/investigation, you are asked to recuse yourself from getting the information for the warrant.
+:::
+
+#### Eligibility 
+A warrant is only enforceable if it is has been approved by a Judge or Justice. Agencies seeking to exercise warrants will need to provide proof that the warrant was approved appropriately.
+
+Warrants generally need to be served within a 48 hour window before they expire. 
+- Noting that Staff tickets take more than 48 hours to process these requests, as long as the warrant was posted in a staff ticket prior to the warrant expiring, we can still provide the information post-deadline.
+
+We can search through logs, but excessive requests (i.e. searching multiple days will be denied). 
+- No more than 48 hours and some topics/key words that we can search for within that timeframe is generally seen as acceptable.
+  - Beyond this it is up to the staff member taking the ticket.
+
+#### Protecting Staff Information
+Staff do not have to comply with legal orders - there are no punishments for not providing the information. If something seems off about the request, please raise it with your colleagues or senior staff. It is best to take a more cautious approach rather than accidentally giving away information that shouldn't be given away.
+
+Warrants need to dictate what information they are seeking. We will usually search for this information and give that information to them only.
+
+#### Who can request what
+Animal and Villager Death Logs do not require warrants provided they are being requested by a member of the Department of Justice that is a **Sergeant or above**.
+Everything else requires a warrant!
 
 ### Everything Senior Vice Presidents (SVPs)
 Senior Vice Presidents or SVPs started as joke roles mocking mimicking corporate hierarchies. SVP roles now serve a function within the staff team and as development roles for staff members.
