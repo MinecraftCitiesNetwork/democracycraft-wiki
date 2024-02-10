@@ -28,9 +28,6 @@ Something may not be explicitly defined here, that doesn't necessary make it ok.
 - Tickets must be used for assistance purposes only.
   - Be truthful always. We rely on your honest recount alongside our evidence to keep our community safe.
   - Trying to lie or misrepresent facts **intentionally** may result in additional disciplinary actions.
-- Do not mix Staffing with in-game politics. 
-  - Staff members play a role that is seperate to governance. 
-  - You are not permitted to use the fact they have elevated permissions or conduct official duties for any political purposes.
 - All content on this server must be appropriate for minors. This includes all skins, language, and actions on all our platforms.
 
 ### 2. Chat
