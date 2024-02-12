@@ -180,6 +180,13 @@ When updating groups, all you should be modifying are ``Secondary Groups``. Do n
 Staff changes require two separate roles and one option: ``Show as Staff``, ``Staff``, and ``Moderator/Administrator/Senior Administrator``.
 ![Secondary Groups](/img/staffing/secondary_group.png)
 
+#### Broken Role Syncing
+When a player's roles are not syncing properly, these are the three simple steps you do to fix this.
+1. Remove all their Secondary Group Roles (excluding Staff roles!)
+2. Ask them to log in, wait a few seconds and then log out
+3. Ask them to log back in after 2-3 seconds
+
+If their roles don't sync back up - please ask them to log in for 2-3 minutes instead before logging out.
 
 ### How to conduct Rollbacks
 We use the industry standard plugin CoreProtect to log all of our in-game interactions. This allows us to rollback, inspect, and review any player changes or interactions as they happen.
