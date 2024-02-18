@@ -159,13 +159,13 @@ The moving of Krixmart 12 blocks south of its original position was a decision o
 No information was kept on record to declassify.
 
 ## Images/Artwork
-[Image](https://cdn.discordapp.com/attachments/800074562850914345/913483532054188072/krix_and_end.mp4)
+![Image](https://cdn.discordapp.com/attachments/800074562850914345/913483532054188072/krix_and_end.mp4)
 
 September Constitution Rewrite
-[Video](https://youtube.com/WtoOwF0FfEw)
+![Video](https://youtube.com/WtoOwF0FfEw)
 
 Fan art
-[Image](https://youtube.com/GXsUwdn5uYo)
+![Image](https://youtube.com/GXsUwdn5uYo)
 
 An Early Cabinet Meeting
 
