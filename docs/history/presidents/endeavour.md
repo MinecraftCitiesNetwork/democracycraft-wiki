@@ -82,7 +82,7 @@ Not Applicable - unelected.
 - AUG 20 - Thire_
 - SEP 20 - UtahCowboy20
 
-## Major PolicY Objectives
+## Major Policy Objectives
 
 **Establish a Stable Government**
 
