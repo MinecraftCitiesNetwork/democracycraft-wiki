@@ -1,7 +1,7 @@
 # xEndeavour
 1st President of Redmont 
 
-## PREFACE
+## Preface
 I'm writing this submission to the archive having had the benefit of observing five of my successor's administrations. The presidency is an office of grandeur, but also an office that requires extensive commitment and dedication. I had both the benefit and the burden of building the foundations of the government in my capacity as President, shaping the office and the wider government as it stands today. While President, I enjoyed many freedoms of discretion which my successors haven't since had - decisions were hard and fast - for better, and for worse.
 
 My Presidency was one that pre-dated the democratic process. My greatest challenge in office was not winning an election, rather choosing the right time to implement them. It was an issue that the administration wrestled with, often butting heads with political leaders as to when and how elections would come about, however, we got there in the end. While I had every intention of Congressional elections, Presidential elections did not cross my mind as a possibility.  I was sceptical at first, however I haven't regretted it for a day since.
@@ -16,18 +16,18 @@ President is a tough gig. These individuals have a monumental role in ensuring t
 
 Attaining Presidential office is no easy feat, it takes exceptional individuals to get there.
 
-## ABOUT
+## About
 
-**Term Length** 
+**Term Length**
 08 MAR 20 - 15 OCT 20 (221 Days)
 
 **Career Prior to Office**
 - Peasant Pioneer
 
-## CAMPAIGN
+## Campaign
 Not Applicable - unelected.
 
-## CABINET
+## Cabinet
 
 **Vice President**
 - 12 APR 20 - Jaynormous
@@ -78,7 +78,7 @@ Not Applicable - unelected.
 - AUG 20 - Thire_
 - SEP 20 - UtahCowboy20
 
-## MAJOR POLICY OBJECTIVES
+## Major PolicY Objectives
 
 **Establish a Stable Government**
 This was a great challenge during my administration. The Cabinet was extremely fluid and therefore it became normalised for Secretaries to rotate out after 1-2 months. There were large workloads in getting departments up and running and many secretaries had little appetite to put in the work required. Establishing a stable government was one of my key policy objectives. This was a crucial step in contributing to the success of the legislative and later the elected Presidency.
@@ -86,7 +86,7 @@ This was a great challenge during my administration. The Cabinet was extremely f
 **Practical Laws**
 I was a significant proponent of practical and simple laws. This meant finding a balance between my own wishes and respecting the will of the legislature. I had to give the new assembly some wins, but I also needed to set a precedence and shape the law making toward beneficial, server-focused laws that are applicable to the everyday player.
 
-## SIGNIFICANT ACHIEVEMENTS
+## Significant Achievements
 
 **Congressional Elections**
 The introduction of the legislature was a significant moment in our political story. A chamber that represented the will of the people. A place where the players could truly make and amend the rules and laws that govern them.
@@ -101,10 +101,9 @@ The legacy of the End Administration continues in almost every branch of governm
 
 Day 7: 
 
-
 Day 132:
 
-## EXECUTIVE ORDERS
+## Executive Orders
 
 **Executive Order 01/20 - Constitutional Amendments**
 Established a referendum process for changing the Commonwealth Constitution.
@@ -133,14 +132,14 @@ Established small resource focused outposts from the city, consisting of local g
 **Executive Order 09/20 - Fast tracking evictions**
 To fast track evictions in order for the filming of the server trailer.
 
-## KEY LEGISLATION
+## Key Legislation
 
 **The Constitutional Reforming Act**
 - Establishment of the Senate
 - Establishment of the Elected Presidency
 - Other key Government changes.
 
-## NOMINATIONS
+## Nominations
 
 **Presidential Commendations**
 Not Applicable - This was a suggestion I made to President Westray during their term.
@@ -151,15 +150,15 @@ Not Applicable - This was a suggestion I made to President Westray during their 
 - 18 AUG 20 - Westray
 - 14 SEP 20 - Utahcowboy20
 
-## CONTROVERSIES 
+## Controversies
 
 **Krixmartgate**
 The moving of Krixmart 12 blocks south of its original position was a decision of great controversy. This relocation was done to realign the back of spawn to the entrance of the CBD, to make it more accessible to the public and to increase competition in the immediate vicinity of spawn. When Krix refused, President End blocked off the back entrance to spawn to stop Krix benefitting from players transiting through his store to the CBD. After public pressure to reopen the entrance, a path was built down the side of spawn to direct players to the alleyway and away from walk-through stores. When negotiations fell through, President End referred the matter to Staff for the building to be forcibly moved while Krix was locked in a cage.
 
-## DECLASSIFIED INFORMATION
+## Declassified Information
 No information was kept on record to declassify.
 
-## IMAGES/MEDIA
+## Images/Artwork
 [Image](https://cdn.discordapp.com/attachments/800074562850914345/913483532054188072/krix_and_end.mp4)
 
 September Constitution Rewrite
