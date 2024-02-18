@@ -51,6 +51,13 @@ const config = {
           editUrl:
             'https://github.com/MinecraftCitiesNetwork/democracycraft-wiki/tree/main/',
         },
+        rules: {
+          showReadingTime: true,
+          // Please change this to your repo.
+          // Remove this to remove the "edit this page" links.
+          editUrl:
+            'https://github.com/MinecraftCitiesNetwork/democracycraft-wiki/tree/main/',
+        },
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -76,10 +83,18 @@ const config = {
             position: 'left',
             label: 'Tutorial',
           },
-          {to: '/blog', label: 'Changelog', position: 'left'},
           {
+            type: 'docSidebar',
+            sidebarId: 'tutorialSidebar',
+            position: 'left',
+            label: 'Changelog',
           },
-          {to: '/rules', label: 'Rules', position: 'left'},
+          {
+            type: 'docSidebar',
+            sidebarId: 'tutorialSidebar',
+            position: 'left',
+            label: 'Rules',
+          },
           {
             href: 'https://github.com/MinecraftCitiesNetwork/democracycraft-wiki/',
             label: 'GitHub',
