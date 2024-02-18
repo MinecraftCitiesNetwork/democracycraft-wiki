@@ -106,30 +106,39 @@ Day 132:
 ## Executive Orders
 
 **Executive Order 01/20 - Constitutional Amendments**
+
 Established a referendum process for changing the Commonwealth Constitution.
 
 **Executive Order 02/20 - Congressional Process Amendments**
+
 Established a Congressional Process whereby bills had to be posted to forums and discord, rather than google documents.
 
 **Executive Order 03/20 - Department of Parks and Recreation**
+
 A regrettable change from the Dept. Parks & Wildlife (DPAW) to Dept. Parks and Recreation (DPR) at the request of then DPAW Secretary, Rainalyn_Rose.
 
 **Executive Order 04/20 - Extension of Overcrowding Rule**
+
 The server was under-powered at the time, so an entity limit was placed on farmers through law.
 
 **Executive Order 05/20 - Termination of Theme Park Management**
+
 Terminated the management of banned player Dusty3 over the Government theme park project. Removed the Dustyland branding.
 
 **Executive Order 06/20 - Unbanned Player Balance Reimbursements**
+
 Required the DEC to return balances of unbanned players if their balance had been seized.
 
 **Executive Order 07/20 - Dissolution of Congress**
+
 Dissolved the unworkable Congress at the request of the Speaker.
 
 **Executive Order 08/20 - Creation of Towns**
+
 Established small resource focused outposts from the city, consisting of local government leadership and industry specific themes. i.e. Willow - Farming.
 
 **Executive Order 09/20 - Fast tracking evictions**
+
 To fast track evictions in order for the filming of the server trailer.
 
 ## Key Legislation
