@@ -1,6 +1,8 @@
 # xEndeavour
 1st President of Redmont 
 
+![image](https://media.discordapp.net/attachments/838356841217916989/1208741028371365929/Presidential_Portrait_END.png?ex=65e462ce&is=65d1edce&hm=50d22892af674083a105c80169008c819fb8710af0d126e3d2cea196ee6a38e0&=&format=webp&quality=lossless)
+
 ## Preface
 I'm writing this submission to the archive having had the benefit of observing five of my successor's administrations. The presidency is an office of grandeur, but also an office that requires extensive commitment and dedication. I had both the benefit and the burden of building the foundations of the government in my capacity as President, shaping the office and the wider government as it stands today. While President, I enjoyed many freedoms of discretion which my successors haven't since had - decisions were hard and fast - for better, and for worse.
 
@@ -19,12 +21,14 @@ Attaining Presidential office is no easy feat, it takes exceptional individuals 
 ## About
 
 **Term Length**
+
 08 MAR 20 - 15 OCT 20 (221 Days)
 
 **Career Prior to Office**
 - Peasant Pioneer
 
 ## Campaign
+
 Not Applicable - unelected.
 
 ## Cabinet
@@ -81,20 +85,25 @@ Not Applicable - unelected.
 ## Major PolicY Objectives
 
 **Establish a Stable Government**
+
 This was a great challenge during my administration. The Cabinet was extremely fluid and therefore it became normalised for Secretaries to rotate out after 1-2 months. There were large workloads in getting departments up and running and many secretaries had little appetite to put in the work required. Establishing a stable government was one of my key policy objectives. This was a crucial step in contributing to the success of the legislative and later the elected Presidency.
 
 **Practical Laws**
+
 I was a significant proponent of practical and simple laws. This meant finding a balance between my own wishes and respecting the will of the legislature. I had to give the new assembly some wins, but I also needed to set a precedence and shape the law making toward beneficial, server-focused laws that are applicable to the everyday player.
 
 ## Significant Achievements
 
 **Congressional Elections**
+
 The introduction of the legislature was a significant moment in our political story. A chamber that represented the will of the people. A place where the players could truly make and amend the rules and laws that govern them.
 
 **Presidential Elections**
+
 An unexpected and initially unwanted success of my administration - never did I think it would last. Yet our political system has held true to this day. The constitution rewrite in September 2020 was the most significant change to our political system in the nation's history, guided into law by 1950minecrafter and Krix, who both worked incredibly hard to get it implemented.
 
 **Foundations of Government**
+
 The legacy of the End Administration continues in almost every branch of government today. The concept and structure of the government is much the same, only encountering many superficial changes since I left office.
 
 **Construction**
@@ -162,24 +171,9 @@ Not Applicable - This was a suggestion I made to President Westray during their 
 ## Controversies
 
 **Krixmartgate**
+
 The moving of Krixmart 12 blocks south of its original position was a decision of great controversy. This relocation was done to realign the back of spawn to the entrance of the CBD, to make it more accessible to the public and to increase competition in the immediate vicinity of spawn. When Krix refused, President End blocked off the back entrance to spawn to stop Krix benefitting from players transiting through his store to the CBD. After public pressure to reopen the entrance, a path was built down the side of spawn to direct players to the alleyway and away from walk-through stores. When negotiations fell through, President End referred the matter to Staff for the building to be forcibly moved while Krix was locked in a cage.
 
 ## Declassified Information
-No information was kept on record to declassify.
 
-## Images/Artwork
-![Image](https://cdn.discordapp.com/attachments/800074562850914345/913483532054188072/krix_and_end.mp4)
-
-September Constitution Rewrite
-![Video](https://youtube.com/WtoOwF0FfEw)
-
-Fan art
-![Image](https://youtube.com/GXsUwdn5uYo)
-
-An Early Cabinet Meeting
-
-President End
-
-The original cabinet room. This was located where the current Government House ballroom is.
-
-I encourage you to share your experiences/photos below.
+No information was held for release.
