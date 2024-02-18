@@ -78,6 +78,9 @@ const config = {
           },
           {to: '/blog', label: 'Changelog', position: 'left'},
           {
+          },
+          {to: '/rules', label: 'Rules', position: 'left'},
+          {
             href: 'https://github.com/MinecraftCitiesNetwork/democracycraft-wiki/',
             label: 'GitHub',
             position: 'right',
