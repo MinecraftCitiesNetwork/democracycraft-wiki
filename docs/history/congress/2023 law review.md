@@ -100,102 +100,102 @@ Authored by: kaidecro
 **Redundant:** 0
 
 
-- [Rescinded]
-  - **Status:** Rescinded
-  - **Publisher:** Bibsfi4a
-  - **Bill introduction date:** Feb 4, 2023
-  - **Purpose:** [Rescinded]
+### [Rescinded]
+- **Status:** Rescinded
+- **Publisher:** Bibsfi4a
+- **Bill introduction date:** Feb 4, 2023
+- **Purpose:** [Rescinded]
 
-- Town Tax Act
-  - **Status:** Rejected
-  - **Publisher:** AB6A5SI
-  - **Bill introduction date:** Feb 5, 2023
-  - **Purpose:** Help Increase Town Funding
+### Town Tax Act
+- **Status:** Rejected
+- **Publisher:** AB6A5SI
+- **Bill introduction date:** Feb 5, 2023
+- **Purpose:** Help Increase Town Funding
 
-- Economic Planning Committee Act
-  - **Status:** Rejected
-  - **Publisher:** Tonga1
-  - **Bill introduction date:** Feb 7, 2023
-  - **Purpose:** This will be a Committee that will plan a unified economic agenda so that no one will be left behind nor pushed out.
+### Economic Planning Committee Act
+- **Status:** Rejected
+- **Publisher:** Tonga1
+- **Bill introduction date:** Feb 7, 2023
+- **Purpose:** This will be a Committee that will plan a unified economic agenda so that no one will be left behind nor pushed out.
 
-- Real Estate Investment Trust Act
-  - **Status:** Rejected
-  - **Publisher:** AsunaYuukiSAO
-  - **Bill introduction date:** Feb 7, 2023
-  - **Purpose:** Create real estate investment trusts to help regulate real estate based investment organizations.
+### Real Estate Investment Trust Act
+- **Status:** Rejected
+- **Publisher:** AsunaYuukiSAO
+- **Bill introduction date:** Feb 7, 2023
+- **Purpose:** Create real estate investment trusts to help regulate real estate based investment organizations.
 
-- Corporations Act
-  - **Status:** Rejected
-  - **Publisher:** AsunaYuukiSAO
-  - **Bill introduction date:** Feb 7, 2023
-  - **Purpose:** Define and regulate corporations in Redmont in more detail to promote the creation of more
+### Corporations Act
+- **Status:** Rejected
+- **Publisher:** AsunaYuukiSAO
+- **Bill introduction date:** Feb 7, 2023
+- **Purpose:** Define and regulate corporations in Redmont in more detail to promote the creation of more
 robust and complex corporations.
 
-- Partnership Act
-  - **Status:** Rejected
-  - **Publisher:** AsunaYuukiSAO
-  - **Bill introduction date:** Feb 7, 2023
-  - **Purpose:** Define partnerships and types of partnerships in the context of Redmont.
+### Partnership Act
+- **Status:** Rejected
+- **Publisher:** AsunaYuukiSAO
+- **Bill introduction date:** Feb 7, 2023
+- **Purpose:** Define partnerships and types of partnerships in the context of Redmont.
 
-- Trespassing and Theft Offense Amendment Act
-  - **Status:** Vetoed
-  - **Publisher:** ko531
-  - **Bill introduction date:** Feb 8, 2023
-  - **Purpose:** Amend The Trespassing and Theft Offense Act
+### Trespassing and Theft Offense Amendment Act
+- **Status:** Vetoed
+- **Publisher:** ko531
+- **Bill introduction date:** Feb 8, 2023
+- **Purpose:** Amend The Trespassing and Theft Offense Act
 
-- Reasonable Judicial Activity Act
-  - **Status:** Rejected
-  - **Publisher:** nnmc
-  - **Bill introduction date:** Feb 12, 2023
-  - **Purpose:** Amend the Constitution
+### Reasonable Judicial Activity Act
+- **Status:** Rejected
+- **Publisher:** nnmc
+- **Bill introduction date:** Feb 12, 2023
+- **Purpose:** Amend the Constitution
 
-- Fix the Empty City Act
-  - **Status:** Rejected
-  - **Publisher:** Bibsfi4a
-  - **Bill introduction date:** Feb 13, 2023
-  - **Purpose:** Amend the Property Standards Act
+### Fix the Empty City Act
+- **Status:** Rejected
+- **Publisher:** Bibsfi4a
+- **Bill introduction date:** Feb 13, 2023
+- **Purpose:** Amend the Property Standards Act
 
-- Commission Expansion Amendment Act
-  - **Status:** Rejected
-  - **Publisher:** Izzibaby
-  - **Bill introduction date:** Feb 14, 2023
-  - **Purpose:** Amend the Commission Expansion Act of 2021
+### Commission Expansion Amendment Act
+- **Status:** Rejected
+- **Publisher:** Izzibaby
+- **Bill introduction date:** Feb 14, 2023
+- **Purpose:** Amend the Commission Expansion Act of 2021
 
-- Judicial Rights Expansion Act
-  - **Status:** Rejected
-  - **Publisher:** ElainaThomas29
-  - **Bill introduction date:** Feb 17, 2023
-  - **Purpose:** Amend the Constitution
+### Judicial Rights Expansion Act
+- **Status:** Rejected
+- **Publisher:** ElainaThomas29
+- **Bill introduction date:** Feb 17, 2023
+- **Purpose:** Amend the Constitution
 
-- Resisting Arrest Clarification Act
-  - **Status:** Rejected
-  - **Publisher:** pepper5980
-  - **Bill introduction date:** Feb 24, 2023
-  - **Purpose:** Clarify Resisting Arrest to include Invisibility and not coming to spawn
+### Resisting Arrest Clarification Act
+- **Status:** Rejected
+- **Publisher:** pepper5980
+- **Bill introduction date:** Feb 24, 2023
+- **Purpose:** Clarify Resisting Arrest to include Invisibility and not coming to spawn
 
-- AAC Clarification Act
-  - **Status:** Rejected
-  - **Publisher:** pepper5980
-  - **Bill introduction date:** Feb 24, 2023
-  - **Purpose:** Clarify the Meanings of Accomplice, Accessory, and Conspiracy
+### AAC Clarification Act
+- **Status:** Rejected
+- **Publisher:** pepper5980
+- **Bill introduction date:** Feb 24, 2023
+- **Purpose:** Clarify the Meanings of Accomplice, Accessory, and Conspiracy
 
-- [Rescinded]
-  - **Status:** Rescinded
-  - **Publisher:** Bibsfi4a
-  - **Bill introduction date:** Feb 25, 2023
-  - **Purpose:** [Rescinded]
+### [Rescinded]
+- **Status:** Rescinded
+- **Publisher:** Bibsfi4a
+- **Bill introduction date:** Feb 25, 2023
+- **Purpose:** [Rescinded]
 
-- Mandatory Senate Confirmation Hearing Act
-  - **Status:** Rejected
-  - **Publisher:** Bibsfi4a
-  - **Bill introduction date:** Feb 26, 2023
-  - **Purpose:** Amend the legislative standards act
+### Mandatory Senate Confirmation Hearing Act
+- **Status:** Rejected
+- **Publisher:** Bibsfi4a
+- **Bill introduction date:** Feb 26, 2023
+- **Purpose:** Amend the legislative standards act
 
-- Extortion Act of 2023
-  - **Status:** Rescinded
-  - **Publisher:** pepper5980
-  - **Bill introduction date:** Feb 28, 2023
-  - **Purpose:** Make Extortion a Crime
+### Extortion Act of 2023
+- **Status:** Rescinded
+- **Publisher:** pepper5980
+- **Bill introduction date:** Feb 28, 2023
+- **Purpose:** Make Extortion a Crime
 
 
 
