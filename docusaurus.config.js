@@ -89,9 +89,8 @@ const config = {
             label: 'Rules',
           },
           {
-            href: 'https://wiki.democracycraft.net/blog/',
             label: 'Changelog',
-            position: 'left',
+            to: '/blog',
           },
           {
             href: 'https://github.com/MinecraftCitiesNetwork/democracycraft-wiki/',
