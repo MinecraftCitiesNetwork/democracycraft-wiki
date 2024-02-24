@@ -1,7 +1,3 @@
----
-sidebar_position: 2
----
-
 # Rules
 
 ![Rules and Laws - Who enforces what?](/img/rules/Rules_and_Laws_Enforcement.png)
