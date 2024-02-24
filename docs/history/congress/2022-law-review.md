@@ -1,6 +1,8 @@
 # 2022 Proposed Bills in Congress
 
+Correct as at 24 Feb 24
 
+Authored by: kaidecro
 
 **Total Bills Introduced: 183** 
 **Passed:** 0
