@@ -1,6 +1,7 @@
 # 2023 Proposed Bills in Congress
 
 Correct as at 24 Feb 24
+
 Authored by: kaidecro
 
 **Total Bills Introduced:** 180  
