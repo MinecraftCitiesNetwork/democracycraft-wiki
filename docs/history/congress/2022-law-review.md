@@ -1,3 +1,7 @@
+---
+sidebar_position: 2
+---
+
 # 2022 Law Review
 
 Correct as at 24 Feb 24
