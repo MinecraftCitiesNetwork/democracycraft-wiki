@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+slug: 2022-law-review
 ---
 
 # 2022 Law Review
