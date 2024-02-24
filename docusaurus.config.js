@@ -77,20 +77,16 @@ const config = {
             label: 'Tutorial',
           },
           {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Testing',
-          },
-          {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
             label: 'Rules',
+            to: '/rules',
           },
           {
             label: 'Changelog',
             to: '/blog',
+          },
+          {
+            label: 'History',
+            to: '/history',
           },
           {
             href: 'https://github.com/MinecraftCitiesNetwork/democracycraft-wiki/',
