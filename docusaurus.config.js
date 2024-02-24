@@ -80,13 +80,18 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Changelog',
+            label: 'Testing',
           },
           {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
             label: 'Rules',
+          },
+          {
+            href: 'https://wiki.democracycraft.net/blog/',
+            label: 'Changelog',
+            position: 'left',
           },
           {
             href: 'https://github.com/MinecraftCitiesNetwork/democracycraft-wiki/',
