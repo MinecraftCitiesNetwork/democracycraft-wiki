@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3
-slug: 2021-law-review
+slug: /2021-law-review
 ---
 
 # 2021 Law Review
