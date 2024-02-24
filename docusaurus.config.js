@@ -98,10 +98,6 @@ const config = {
                 label: 'Staff',
                 to: '/staff',
               },
-              {
-                label: 'Government',
-                to: '/government',
-              },
             ],
           },
           {
