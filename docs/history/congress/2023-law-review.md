@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+slug: 2023-law-review
 ---
 
 # 2023 Law Review
