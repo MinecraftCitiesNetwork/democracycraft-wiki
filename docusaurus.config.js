@@ -85,10 +85,6 @@ const config = {
             to: '/blog',
           },
           {
-            label: 'History',
-            to: '/history',
-          },
-          {
             href: 'https://github.com/MinecraftCitiesNetwork/democracycraft-wiki/',
             label: 'GitHub',
             position: 'right',
