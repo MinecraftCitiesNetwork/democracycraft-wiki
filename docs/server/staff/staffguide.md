@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Staffing
+# Staff Guide
 
 ![image](/img/staffing/staff_team.png)
 
