@@ -16,8 +16,8 @@ See below the current table of pay levels that apply to all jobs in the public s
 | 1 	| $45/15 minutes 	| President 	| Speaker<br></br> President of the Senate 	| Chief Justice 	|  	|  	|  	|  	|  	|  	|  	|  	|  	|
 | 2 	| $35/15 minutes 	|  	| Representative<br></br> Senator 	| Justice 	|  	|  	|  	|  	|  	|  	|  	|  	|  	|
 | 3 	| $30/15 minutes 	|  	|  	| Judge<br></br> Magistrate 	|  	|  	|  	|  	| Captain<br></br> Lieutenant<br></br> 	| Medical Specialist 	|  	|  	|  	|
-| 5 	| $25/15 minutes 	|  	|  	|  	|  	|  	|  	|  	| Police Officer<br></br> Recruit 	| Paramedic 	|  	|  	|  	|
-| 6 	| $20/15 minutes 	|  	| Clerk 	|  	|  	|  	|  	|  	|  	| Doctor 	|  	|  	|  	|
+| 4 	| $25/15 minutes 	|  	|  	|  	|  	|  	|  	|  	| Police Officer<br></br> Recruit 	| Paramedic 	|  	|  	|  	|
+| 5 	| $20/15 minutes 	|  	| Clerk 	|  	|  	|  	|  	|  	|  	| Doctor 	|  	|  	|  	|
 
 
 :::tip All professions and trade jobs get paid!
