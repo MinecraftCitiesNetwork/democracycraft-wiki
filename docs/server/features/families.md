@@ -6,7 +6,7 @@ sidebar_position: 7
 
 Ready to tie the knot and start a new adventure together? Here's a simple guide to creating families in Redmont.
 
-![Image](https://media.discordapp.net/attachments/838356841217916989/1165662197100322918/2022-06-10_17.22.50.png?ex=6547aa84&is=65353584&hm=608ecf179424b242bf1041524c081468fec41d309a33c6091f275edebf20bbb0&=&width=1266&height=671)
+![Image](https://i.imgur.com/k7a1I3i.png&width=1266&height=671)
 
 ## Getting Married
 
@@ -18,7 +18,7 @@ Ready to tie the knot and start a new adventure together? Here's a simple guide 
 You can find lawyers through the businesses forum channel on the DemocracyCraft Discord.
 :::
 
-![Image](https://media.discordapp.net/attachments/838356841217916989/1165664190111957093/2021-08-26_00.58.22.png?ex=6547ac5f&is=6535375f&hm=252db1275fa7ac4671fc9da9b75b0ca4a7deeb32ecf7a76b3a2affc698e6baff&=&width=1266&height=671)
+![Image](https://i.imgur.com/6y98JuY.png)
 
 ## Adoptions
 
