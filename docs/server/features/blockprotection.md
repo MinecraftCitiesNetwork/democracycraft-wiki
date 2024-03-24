@@ -6,7 +6,7 @@ sidebar_position: 8
 
 DemocracyCraft features a simple block protection plugin to protect all your valuable goods. Take a few minutes to read this guide so you know how to best protect your loot!
 
-![Image](https://cdn.discordapp.com/attachments/838356841217916989/1170296355059683368/2023-11-04_20.39.36.png?ex=6558866a&is=6546116a&hm=31434a6ebd9a9d4f307f93692a4d29500807e2d7ad111239c5116a613cb0ed27&)
+![Image](https://i.imgur.com/9nLNWUB.png)
 
 ## Commands
 
@@ -68,7 +68,10 @@ You can protect the following:
 - Furnaces
 - Lecterns
 - Buttons
+- Levers
+- Hoppers
 - ChestShop
+- Doors
 
 ## Container Guarentee
 Any container that is stolen from in a regioned area (i.e. Wild or Urban) is covered by this staff guarantee. Staff will recover the items and investigate those who stole from the container. The container does not have to be locked, however, we strongly recommend you lock your containers to prevent this from occurring. If your chest is siphoned with a hopper or stolen from by someone with permissions to the chest, it will also be investigated and covered by the guarantee.
