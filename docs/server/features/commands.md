@@ -6,7 +6,7 @@ sidebar_position: 5
 
 Welcome to the commands guide! Whether you're a seasoned player or new to the server, this resource provides quick references for essential player commands. For commands that are specific to certain plugins, review the specific guide! Let's dive in! 
 
-![Image](https://media.discordapp.net/attachments/838356841217916989/1170297005503950869/2023-11-04_20.42.08.png?ex=65588705&is=65461205&hm=7add1e067156d1c88363b0fa8eb5be6dde391e88cbd5e4def53f7aacbc4d260f&=&width=1276&height=671)
+![Image](https://i.imgur.com/WXndBpT.png)
 
 ## Chat Commands
 ``/g`` - switch to global chat.
@@ -27,6 +27,8 @@ Welcome to the commands guide! Whether you're a seasoned player or new to the se
 
 ``/ad <message>`` - to send an ad in chat, please note you need to complete the entrepreneur exam to use. Note that there is a small fee to use this command.
 
+``/emoji`` - see a list of emojis available to put in chat. Put them in chat using ``:emoji_name:``
+
 :::tip Other Channels
 If you are a member of a government department or institution, chances are you may have additional channels to talk in. For example --
 - Members of the Department of Justice can speak in the ``/doj`` channel.
@@ -43,7 +45,7 @@ If you are a member of a government department or institution, chances are you m
 
 ``/firm sales <company>`` - view your company chestshop sales.
 
-``csn history`` - view your personal chestshop sales.
+``/csn history`` - view your personal chestshop sales.
 
 ``/baltop`` - view the top balance rankings.
 
@@ -75,6 +77,8 @@ If you are a member of a government department or institution, chances are you m
 ``/gps start <plot number>`` - to find directions to a specific plot number.
 
 ``/find <item>`` - search for chestshops with the specified item.
+
+``/home <home name>`` - go to your set home
 
 ``/spawn`` - teleport to Spawn.
 
@@ -114,6 +118,8 @@ If you are a member of a government department or institution, chances are you m
 ``/plan register`` - register to view your personal analytics, more information here.
 
 ``/getresourcepack`` - get a link to download the guns resource pack.
+
+``/cmodify`` - allows you to change permission to your items such as chests and doors.
 
 ## Department Commands
 Each department and government institutions have unique commands. You can find these commands by running the department/institution prefix and choosing commands from the tab options.
