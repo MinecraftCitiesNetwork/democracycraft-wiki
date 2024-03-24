@@ -6,10 +6,10 @@ The idea of Democracycraft was a thought that came to End while playing and staf
 
 On the 8th March 2020, during a 14 day COVID lockdown, Democracycraft came to life. Jaynormous and Endeavour founded the server with Jaynormous handling the technical side of things and End managing the building and marketing. Jay had owned servers previously, however End had no experience whatsoever. There was a lot of optimism, but always a shadow of doubt. Had we been told that in 8 months we would outgrow our competitors you would have been laughed out. End and Jay had no real plan as to when the server would be released, instead approaching the server with a we'll just [I]wing it[/I] attitude.
 
-![image](https://media.discordapp.net/attachments/838356841217916989/1000031281284919296/Democracy_craft_R8_one.png)
+![image](https://i.imgur.com/iCfADbH.png)
 The server logo was commissioned early in the server's life. Introduced on 21 March 2020, it was the first post made to #server-announcements. It provided a vision and a name to our project. Today we will be updating that logo one year on. Below is an evolution of server icons used by Democracycraft. To the left is the temporary server icon used for the first 2-3 weeks before it was replaced by the new branding. Today we will also be updating the server icon to match the new server logo.
 
-![image](https://cdn.discordapp.com/attachments/838356841217916989/1000031280831922176/Democracy_Craft_Logobak.20210202.134817.0.png)
+![image](https://i.imgur.com/dVmYA7l.png)
 Next it was the forums. Someone should have been arrested for the terrible theme we used - anyway, it laid the foundations for what we have today! Forums went live hours before server launch and had more bugs than Cyberpunk2077. Email servers were as temperamental as they still are today, however Jaynormous was able to resolve the issue prior to launch.
 
 Many players assisted with the development. Many were friends and some were just interested in joining early and getting involved. Some are even still with us today. Development was around 1,000 hours of work and very tedious with configuration, regioning, errors, and building. Velvetkitty regioned a majority of the ~300 initial plots, as well as adding the dashes to the centre of the roads. End lost interest in the project several times, however the COVID restrictions meant that server work continued in peak boredom. Without the support of our pre-release development team, Democracycraft would not have come to fruition.
@@ -431,7 +431,7 @@ All trailors are available on the Democracycraft YouTube
 
 FuseoN, a small-time YouTuber published a video on YouTube that resulted in an explosion of popularity. The server went from 250 unique joins per day to 550-600 in the space of 2 weeks. The player record continually reached records. By the third week the video had accumulated close to 200,000 views, 10,000 likes, and doubled FuseoN's subscriber base to 5,000.
 
-![image](https://cdn.discordapp.com/attachments/687524602926202881/825797415130103808/2021-03-28_12.57.01.png)
+![image](https://i.imgur.com/n9xWPYw.png)
 
 DC exceeded 100 players for the first time on 28 March 2021 - 350 Days after the server first opened!
 
