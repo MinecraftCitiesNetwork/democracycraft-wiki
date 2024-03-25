@@ -6,7 +6,7 @@ sidebar_position: 7
 
 Ready to tie the knot and start a new adventure together? Here's a simple guide to creating families in Redmont.
 
-![Image](https://i.imgur.com/k7a1I3i.png=&width=1266&height=671)
+![Image](https://i.imgur.com/k7a1I3i.png)
 
 ## Getting Married
 
