@@ -18,7 +18,7 @@ Ready to tie the knot and start a new adventure together? Here's a simple guide 
 You can find lawyers through the businesses forum channel on the DemocracyCraft Discord.
 :::
 
-![Image]https://i.imgur.com/6y98JuY.png=&width=1266&height=671)
+![Image](https://i.imgur.com/6y98JuY.png)
 
 ## Adoptions
 
