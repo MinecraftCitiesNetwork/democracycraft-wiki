@@ -96,7 +96,7 @@ const config = {
               },
               {
                 label: 'Staff',
-                to: '/staffguide',
+                to: '/server/staff/staffintent',
               },
             ],
           },
