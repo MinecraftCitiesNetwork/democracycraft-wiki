@@ -6,7 +6,8 @@ Economists are subject matter experts in economic systems and strategies. They u
 
 ## Duties
 
-Upon acceptance, Economists may choose between two teams, each with specific duties:
+Upon acceptance, Economists may choose between two teams, each with specific duties, these teams come with their own job title, Commerce Team you are an "Economist" and Compliance team you are a "Compliance Officer", however this is merely department structure and is not reflect in in-game titles.
+Below, are the differen team's duties:
 
 - **Commerce Team Duties**:
   - Tracking the economy, its changes, and fluctuations.
@@ -62,3 +63,5 @@ To apply for the Economist position, follow these steps:
 3. Fill in the required details in the application form and submit.
 
 If you have questions about the application process, go to #government-support on the main Discord and open a ticket relating to the DOC.
+
+### To apply as an economist, you must be have at-least 48 hours of playtime.
