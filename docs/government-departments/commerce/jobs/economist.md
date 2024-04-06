@@ -6,8 +6,9 @@ Economists are subject matter experts in economic systems and strategies. They u
 
 ## Duties
 
-Upon acceptance, Economists may choose between two teams, each with specific duties, these teams come with their own job title, Commerce Team you are an "Economist" and Compliance team you are a "Compliance Officer", however this is merely department structure and is not reflect in in-game titles.
-Below, are the differen team's duties:
+Upon acceptance, Economists may choose between two teams, each with specific duties, these teams come with their own job title, Commerce Team you are an "Economist" and Compliance team you are a "Compliance Officer", however this is merely department structure and is not reflected in in-game titles.
+
+Below, are the different team duties:
 
 - **Commerce Team Duties**:
   - Tracking the economy, its changes, and fluctuations.
