@@ -135,7 +135,7 @@ In most instances, a Nether and End reset will occur once every 6 months, typica
 3. Delete both Reveille_nether and Reveille_the_end using ``/mw delete <world>``.
 4. Recreate both Reveille_nether and Reveille_the_end using ``/mw create <world>``.
 5. Using ``/gamerule``, set ``keepInventory`` to ``true``, ``announceAchievement`` ``false``, and ``showDeathMessage`` to ``false``.
-6. Merge inventories between the worlds by running ``/mw inventory merge Reveille Reveille_nether Reveille_the_end Wilderness``.
+6. Merge inventories between the worlds by running ``/mw inventory merge Reveille Reveille_nether Reveille_the_end Wilderness NewHamilton``.
 7. Have a staff member check that keeping inventory works, and that death messages don't show in the Nether and End respectively.
 8. Link nether portals correctly via ``/world netherportal destination Reveille_nether Wilderness`` and ``/world netherportal destination Wilderness Reveille_nether``.
 9. Open the server back up by removing the whitelist. (``/whitelist off``).
