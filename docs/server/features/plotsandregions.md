@@ -1,8 +1,8 @@
 # Plots & Regions
 
-DemocracyCraft utilizes Areashop for region management, often abbreviated as AS.
+DemocracyCraft utilizes Areashop for region management, often abbreviated as AS. You're able to see these regions on [Dynmap](https://map.democracycraft.net/#Reveille;flat;2742,64,4152;6).
 
-![image](https://media.discordapp.net/attachments/838356841217916989/1170295903547039776/2023-11-04_20.00.31.png?ex=655885fe&is=654610fe&hm=61bc30b56bb9930886043474e49c4756c0a6f6ae8638db719456449c03182627&=&width=1276&height=671)
+![image](https://i.imgur.com/9HypTUS.png)
 
 ## Wild Region
 
@@ -31,7 +31,7 @@ You may also encounter other, less popular rental regions. To check information 
 
 Upon purchasing or renting a property, you must adhere to specific regulations and laws. For owned plots, the Department of Construction and Transport (DCT) may issue eviction reports for building violations. Meanwhile, landlords may evict tenants who breach their rental agreements.
 
-For further details, consult the [Rules & Laws](https://www.democracycraft.net/threads/rules-laws.5/) and the [Plot Regulations](https://www.democracycraft.net/threads/plot-regulations.17/) threads.
+For further details, consult the [Laws](https://www.democracycraft.net/threads/rules-laws.5/) and the [Plot Regulations](https://www.democracycraft.net/threads/plot-regulations.17/) threads.
 
 ## Commands
 
