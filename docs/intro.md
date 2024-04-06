@@ -37,7 +37,7 @@ A lot of players who skip this guide have a hard time understanding the server. 
 
 ## Making Money
 
-On joining the server, you start off with $1,500. While that's no small sum, you will find you might need more money to buy plots, groceries or rent your first apartment. Here are some suggestions on how to make money:
+On joining the server, you start off with $500. While that's no small sum, you will find you might need more money to buy plots, groceries or rent your first apartment. Here are some suggestions on how to make money:
 
 - Getting hired by a company
 - You can sell materials to player-owned chest shops

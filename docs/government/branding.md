@@ -11,6 +11,12 @@
 
 ![DC](https://www.democracycraft.net/images/Seal_DC.png)
 
+### Public Defender Program
+![PD](https://i.imgur.com/0zdanxM.png)
+<!---
+Well not technically a seprate part of the judiciary, it just seems like something that should be seprate, feel free to remove
+-->
+
 ## Legislative
 ![CON](https://www.democracycraft.net/images/Seal_Congress.png)
 
@@ -48,6 +54,9 @@
 ![DPA](https://www.democracycraft.net/images/Seal_DPA.png)
 
 ![DOS](https://www.democracycraft.net/images/Seal_DOS.png)
+
+## Flag
+![Flag](https://i.imgur.com/AXxMDcS.png)
 
 ## Coat of Arms
 ![Coat of Arms](https://www.democracycraft.net/images/CoatofArms.png)
