@@ -116,7 +116,7 @@ These are a set of principles that guide us as a team.
 ### Console
 As a Senior Administrator, you are able to access both the server console and files. To be added to the panel, direct message on Discord either owners to recieve your invitation! You will mainly be using this to configure plugins, fix bugs, and add new features.
 
-::: tip
+:::tip
 There is no one set way of learning how to do these things. Trial and error, along with observation goes a great deal in helping you form your own way of doing these things.
 
 :::
@@ -151,11 +151,12 @@ We use a plugin called ImageMaps to allow us to implement images in-game via ite
 2. Download the image in-game by running ``/imagemap download <filename> <sourceURL>``
   - Replace ``<filename>`` with an easy to identify name, without any file extensions such as ``.png``.
   - Replace ``<sourceurl>`` with a link to the image, this __should include__ the file extension such as ``.png``.
-3. Place the image in-game by running ``/imagemap place <filename> [frameInvisible] [frameFixed] [size]``
+3. Place the image in-game by running ``/imagemap place <filename> [frameInvisible] [frameFixed] [frameGlowing] [size]``
   - Replace ``<filename>`` with the file name you selected in Step 2. Please add the file extension featured in the ``<sourceurl>`` you used earlier.
-  - Replace [frameInvisible] with "true", no quotation marks. This ensures that players do not see the default item frame texture in empty spaces of the image.
-  - Replace [frameFIxed] with "true", no quotation marks. This ensures a clean removal of the image by punching the item frames in creative.
-  - Replace [size] the height (A) and width (A) in the following format: AxB
+  - Replace ``[frameInvisible]`` with "true", no quotation marks. This ensures that players do not see the default item frame texture in empty spaces of the image.
+  - Replace ``[frameFixed]`` with "true", no quotation marks. This ensures a clean removal of the image by punching the item frames in creative.
+  - Replace ``[frameGlowing]`` with "false", no quotation marks. This the frames are not glowing.
+  - Replace ``[size]`` the height (A) and width (A) in the following format: AxB
     - i.e. for a 2 by 2 image, it would be: ``2x2``
 4. Admire your work! 
 ![Google Logo](/img/staffing/google_imagemap_example.png)
@@ -169,7 +170,7 @@ You can login to the control panel with the same credentials you use for the for
 You will have access to more information than a regular player. This information is in confidence and as always, we have a zero tolerance approach to privacy breaches.
 
 #### User Role Management
-::: warning
+:::warning
 
 **Never** update a user's primary group. It should always be ``Registered``.
 :::
@@ -260,7 +261,7 @@ These are useful commands to know with your position.
 - ``/lp user <user> clear [context...]``
 - ``/lp user <user> clone <user>``
 
-::: tip
+:::tip
 Add in-game roles via ``/lp user <user> parent add <job>``
 
 :::
@@ -304,7 +305,7 @@ Players who join and show as alternative accounts should be alternative accounts
 
 Players who have alternative accounts will receive all of the punishments associated on their main account. The alternative accounts should be banned.
 
-::: 
+:::
 
 ##### Assessing 
 
@@ -572,7 +573,7 @@ Players may merge certain regions to allow for larger plots, provided that they 
 
 A common Sistake in staffing is regions being deleted during merges.
 
-::: danger
+:::danger
 
 To merge a plot correctly, no regions should be deleted, both to save us time when unmerging and to preserve the plot numbering system.
 
