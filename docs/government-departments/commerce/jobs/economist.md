@@ -10,20 +10,20 @@ Upon acceptance, Economists may choose between two teams, each with specific dut
 
 Below, are the different team duties:
 
-- **Commerce Team Duties**:
+- **Commerce Bureau Duties**:
   - Tracking the economy, its changes, and fluctuations.
   - Collecting market data to facilitate the tracking process.
   - Advising the government on economic matters.
 
-- **Compliance Team Duties**:
+- **Compliance Bureau Duties**:
   - Enforcing law and department policy.
   - Assisting in lawsuits regarding economic laws, such as tax evasion and minimum commission.
   - Encouraging and assisting with compliance initiatives.
+  - The Compliance Team is split into 2 different sections:
+    - Registration & Taxing: This section is responsible for the Financial Instiutition Registration and taxing deposit taking financial institutions.
+    - Compliance Enforcement: This section is responsible for enforcing regulations laid out in law by congress.
 
-- **Credit Team Duties (Redxerian™)**:
-  - Analysing hundreds of pieces of data to determine a persons credit.
-  - Auditing certain citizens in the event of identified bad spending habits 
-  - Advising banks on citizens current economic standing.
+
 
 
 ## Structure
@@ -36,9 +36,7 @@ The Department of Commerce has the following structure:
 
 - **Bureau Head - Team Leader**: Assists the Secretary and Deputy Secretary in leading one of the three sub-teams (Commerce, Compliance, Credit).
 
-- **Economist - Commerce Team**: Tracks changes in the economy, collects market data, such as prices for the Consumer Price Index (CPI) each month.
-
-- **Economist - Compliance Team**: Enforces commerce laws and department policy, such as tax evasion, minimum commission, and proper usage of government grants.
+- **Compliance Officer - Compliance Team**: Enforces commerce laws and department policy, such as tax evasion, minimum commission, and proper usage of government grants.
 
 - **Economist - Commerce Team**: Tracks changes in the economy, collects market data, such as prices for the Consumer Price Index (CPI) each month.
 
