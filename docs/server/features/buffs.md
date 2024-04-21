@@ -19,7 +19,7 @@ All recipes can be seen in game by doing /ia and clicking the "Buffs" icon (plan
 
 ![image](https://i.imgur.com/VSltGC0.png)
 
-![image](https://i.imgur.com/iUHqvmi.png)
+![image](https://i.imgur.com/IVDJkAG.png)
 
 ![image](https://i.imgur.com/7qiNESj.png)
 
