@@ -16,6 +16,10 @@ Laste Updated: 4/21/24
 | **Vaegir Front**                       | VF                             | Right                          | 2 March 2024                   |
 | **Redmont Reform Colition**            | RRC                            | Right                          | 19 October 2023                |
 
+:::tip Political Party Information
+Check out the Political Parties application or #Links for a link to their discord!
+:::
+
 ### Former Political Parties
 Laste Updated: 4/21/24
 
