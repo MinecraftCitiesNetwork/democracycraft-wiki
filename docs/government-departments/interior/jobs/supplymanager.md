@@ -1,10 +1,10 @@
-# Supply Manager
-Supply Managers are responsible for handling DOI tenders and the upkeep/management of the Supply Depot.
+# Supply Officer
+Supply Officer are responsible for handling DOI tenders and the upkeep/management of the Supply Depot.
 
 ![image](https://cdn.discordapp.com/attachments/838356841217916989/1176757097938030592/Minecraft__1.png?ex=65700773&is=655d9273&hm=e72276fe074678a5a08c764b651be23ccd207591d191694e23163c63ee0f63ca&)
 
 ## Duties
-Supply Managers are charged with several duties, including:
+Supply Officer are charged with several duties, including:
 
 ### Tenders
 - Visit the DCGovernmentDER plot to calculate items for tenders or remove builds that have already had tenders
@@ -26,7 +26,7 @@ Supply Managers are charged with several duties, including:
 
 **Senior Ranger:** Support the Secretary and the Deputy Secretary, train the new rangers, take on bigger projects/reports and help with the zoo.
 
-**Supply Manager:** Handles tenders, works at the Supply Depot
+**Supply Officer:** Handles tenders, works at the Supply Depot
 
 ## Protocols
 
@@ -34,10 +34,10 @@ Supply Managers are charged with several duties, including:
 The expectation for this department is to ensure the government gets the items it needs without having to spawn them in.
 
 ### Activity
-Supply Managers must meet basic standards of in-game activity and job commitment.
+Supply Officer must meet basic standards of in-game activity and job commitment.
 
 ## Application Process
-To apply for the Supply Manager position, you need to complete an application and meet the requirements outlined here.
+To apply for the Supply Officer position, you need to complete an application and meet the requirements outlined here.
 
 Go to the Forums -> Department of the Interior -> Applications.
 
