@@ -1,32 +1,31 @@
 # Supply Officer
 Supply Officer are responsible for handling DOI tenders and the upkeep/management of the Supply Depot.
 
-![image](https://cdn.discordapp.com/attachments/838356841217916989/1176757097938030592/Minecraft__1.png?ex=65700773&is=655d9273&hm=e72276fe074678a5a08c764b651be23ccd207591d191694e23163c63ee0f63ca&)
+![image](https://i.imgur.com/CKeG0x4.png)
 
 ## Duties
-Supply Officer are charged with several duties, including:
+Supply Officers are responsible for calculating and posting DOI tenders, the upkeep of the Supply Depot, and the distribution of items from the Supply Depot
 
 ### Tenders
-- Visit the DCGovernmentDER plot to calculate items for tenders or remove builds that have already had tenders
-- Calculate the amounts of items and prices for tenders
-- Posting tenders on forums
-- Ensuring the integrity of bidders and verification of items
-- Paying the winners of tenders
+- Rounding the tender's item count
+- Calculating the price for the items then deciding the minimum bid price
+- Posting tenders on the forums
+- Keeping up with the winner of the tender to ensure they complete it
 
-### Supply Depot Management
+### Supply Depot Upkeep
 - Organizing and stocking Department supply chests
-- Advertising the Supply Depot towards new and old players alike
-- Preventing unnecessary spending on items by making sure chests are not overfilled
-- Working with other Departments to get them the items they need, especially the DOH and DCT
+- Advertising the Supply Depot to new and old players alike
+- Moving items into storage when needed
+- Move a department's items into their pick-up area
 
 ## Structure
 **Secretary:** Manages the department operations.
 
 **Deputy Secretary:** Assists in the leadership of the department.
 
-**Senior Ranger:** Support the Secretary and the Deputy Secretary, train the new rangers, take on bigger projects/reports and help with the zoo.
+**Supply Manager:** Supports the Secretary and the Deputy Secretary, trains the new Supply Officers and assigns tenders to them, and manages the Supply Depot.
 
-**Supply Officer:** Handles tenders, works at the Supply Depot
+**Supply Officer:** Calculates all parts of a tender and posts them to the forums when approved, works at the Supply Depot.
 
 ## Protocols
 
@@ -41,11 +40,11 @@ To apply for the Supply Officer position, you need to complete an application an
 
 Go to the Forums -> Department of the Interior -> Applications.
 
-![image](https://cdn.discordapp.com/attachments/838356841217916989/1176757157295816734/MMvZAoA.png?ex=65700781&is=655d9281&hm=105874f5160bf087a7118557858ee5992286648112521b86022f98e6def84d90&)
+![image](https://i.imgur.com/1uTr6hi.png)
 
 Click on 'Applications' & 'Apply'.
 
-![image](https://cdn.discordapp.com/attachments/838356841217916989/1176757205995892787/X7jlX9L.png?ex=6570078d&is=655d928d&hm=b0faf713f0c5cfeb61ac2825effb6cf3e37deb06378a3a091acbd8291bc1876c&)
+![image](https://i.imgur.com/Jv6f96u.png)
 
 Fill in your details and submit the application.
 
