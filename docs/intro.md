@@ -66,7 +66,7 @@ For more detailed information, read our [guide on jobs](https://democracycraft.n
 ## Chat
 Our server is unique, as there are three chat channels you use to talk to other players. Please **read this carefully** as you will need to use these channels quite often!
 - Global (``/g``) - this is the default channel for everyone. You only need to run the alias command when you aren't in the channel. This channel allows **everyone** to read your messages.
-- Local (``/l``) - this is a channel with a 50 block radius. Only people within 50 blocks can read your messages (hear you!). Please use this when you are: talking to players right in fromt of you, seeking treatment from a Doctor, or in an event.
+- Local (``/l``) - this is a channel with a 50 block radius. Only people within 50 blocks can read your messages (hear you!). Please use this when you are: talking to players right in front of you, seeking treatment from a Doctor, or in an event.
 - Private Messages (``/msg <username>``) - this allows you to have a one on one conversation with anyone. Replace ``<username>`` with whomever you want to talk to!
 
 In addition to these channel commands, you may want to learn some other handy commands. We recommend you visit [this guide](https://democracycraft.net/threads/commands.1264/) sometime after you finish this one!
