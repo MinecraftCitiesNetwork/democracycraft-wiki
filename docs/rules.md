@@ -61,7 +61,7 @@ You are allowed to destroy anything which is **unclaimed** in the Wilderness. Th
 - Permissions must be used strictly for the reasons you told you can have them for. 
   - Many Government jobs contain additional features or access. It is your responsibility to use them responsibly and only for appropriate reasons.
 - You must not use x-ray. Any proceeds from x-ray will be confiscated.
-- You are allowed to use client modifications from our [allowed list](https://www.democracycraft.net/threads/client-modification.13587/) **only**.
+- You are allowed to use client modifications from our [allowed list](https://wiki.democracycraft.net/server/server-policy/clientmodifications) **only**.
 - Any methods to avoid being kicked for being away-from-keyboard that is not genuine gameplay is not allowed.
 - Any form of exploitation is not permitted for any reason. 
   - This includes using bugs in server features.
