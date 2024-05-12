@@ -141,6 +141,26 @@ In most instances, a Nether and End reset will occur once every 6 months, typica
 9. Open the server back up by removing the whitelist. (``/whitelist off``).
 10. Announce the change in #changelog :)
 
+### Red v. Blue Event Guide for Staff
+
+#### Purge old teams
+1. (Done through Console) ``lp bulkupdate all delete "permission == group.blue"`` (Will require for the command to be confirmed)
+2. (Done through Console) ``lp bulkupdate all delete "permission == group.red"`` (Will require for the command to be confirmed)
+
+#### Setting up Team Selection
+1. Identify where the team selection block will be. (Confirm with the DPA)
+2. Run ``/mycmd-blockset create`` (looking at the target block)
+3. Run ``/mycmd-blockset add /redblue`` (looking at the target block)
+
+#### Team Verification / Checks | 
+1. You should be able to see the teams displayed on TAB
+2. Make sure that it is assisnging the teams at random through the GUI.
+3. Announce the change in #Changelog!
+
+#### Post Event Checks
+1. Create and provide rewards to the DPA.
+2. Remove / Purge teams (Repeate 'Purge old teams' for reference)
+
 ## For Administrators
 
 ### How to manage Billboards
