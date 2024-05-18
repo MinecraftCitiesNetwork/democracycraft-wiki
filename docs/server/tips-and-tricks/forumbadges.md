@@ -2,7 +2,7 @@
 
 Badges are a way to track your career on the server and forums. They are awarded to recognize players' commitment to the community.
 
-![image](https://cdn.discordapp.com/attachments/838356841217916989/1170293509425725440/image.png?ex=655883c3&is=65460ec3&hm=581096881796bbd6963d98bc3e6b60a41537e4535f6175d18118c8e26e7bcfec&)
+![image](https://i.imgur.com/8UMr1kF.png)
 
 ## Presidential Commendation
 
