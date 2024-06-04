@@ -7,7 +7,6 @@ sidebar_position: 4
 While most enjoy the Vanilla Minecraft experience, some of us prefer to make some changes. Below is a guide to the resourcepacks and client-side mods that have been approved by our staff team. 
 This is not an exhaustive list, rather just a list of mods that we have already approved. Mods **can be used** outside of this list **in accordance with the client modifications rule.**
 
-![image](https://cdn.discordapp.com/attachments/838356841217916989/1170354174672769035/Xray5x3.png?ex=6558bc43&is=65464743&hm=cc22062611c7213ef26ea0e48f0e05a55c02a489777971b86831450a059cab85&)
 
 ## Resourcepacks
 Resource packs (aka texture packs) are used to change the appearance of the game.
