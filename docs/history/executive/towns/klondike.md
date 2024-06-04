@@ -46,26 +46,43 @@ Klondike uses a council system; the first two councils had specific roles, such 
 
 ### Councils
 
-**First Town Council**
+#### First Town Council
 
 **Mayor** - Tylxrfied (Full term)
+
 **Deputy Mayor** - Vanquish (Resigned) - Twixted (Remainder of term)
+
 **Director of industry** - MintFlavouredJay (Resigned) - Figomessi (Remainder of term)
+
 **Director of Urban Development** - KaelynCream (Resigned) - Teun (Remainder of term)
+
 **Director of Public Relations** - sleepyjay (Full term)
+
 **Director of Commerce** - xerxesmc
+
 **Director of Housing** - RelaxedG
 
-**Second Town Council**
+
+#### Second Town Council
+
 **Mayor** - Tylxrfied
+
 **Deputy Mayor** - Twixted (Resigned) - Taro
+
 **Director of Industry** - Airco
+
 **Director of Urban Development** - Demonfire
+
 **Director of Public Relations** - Taro (Resigned) - Twixted
+
 **Director of Commerce** - xerxesmc
+
 **Director of Housing** - SomeHumanOnEarth
 
-**Third Town Council**
+#### Third Town Council
+
 **Mayor** - SnoWhiteBeard (resigned) - Tylxrfied [The_Donuticus vs. Town of Klondike](https://www.democracycraft.net/threads/the_donuticus-vs-town-of-klondike-2022-fcr-99.15510/)
+
 **Deputy Mayor** - Taro
+
 **Councilors:** - A__C - AngelGlider11 - Jaynormous - SlimeGlitch - Twixted
