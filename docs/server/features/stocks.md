@@ -2,7 +2,6 @@
 
 Private Stock Exchanges play a significant role in the economy!
 
-![image](https://cdn.discordapp.com/attachments/838356841217916989/1170353626506612818/leonardo-dicaprio-jordan-belfort-quotes-wolf-of-wall-street.png?ex=6558bbc0&is=654646c0&hm=55e40d4b92a87e69641108ba40a318f71d728b663ca1883c1d193541038ca2f5&)
 
 ## What Are Shares?
 
@@ -39,6 +38,6 @@ Both options carry risks, so careful consideration is essential to avoid losing 
 ## Where to Invest?
 
 Here's a private stock exchange on the server:
-- [The Exchange](https://discord.gg/Ws7ke4Tjuy)
+- [The Exchange](https://discord.gg/cV793mWMYX)
 
 Investing in private stock exchanges offers opportunities to become part-owner of companies and cryptocurrencies, but it's crucial to understand the risks and carefully evaluate your options.
