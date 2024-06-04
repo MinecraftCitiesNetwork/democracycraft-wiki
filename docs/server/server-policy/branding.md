@@ -17,4 +17,4 @@
 ## Staff Team
 
 ![image](https://www.democracycraft.net/images/staff.png)
-![image](https://www.democracycraft.net/images/Staff_seal.png)
+![image](https://i.imgur.com/1xiWDK3.png)
