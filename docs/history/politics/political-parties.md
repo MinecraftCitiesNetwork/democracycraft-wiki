@@ -1,4 +1,6 @@
-### Political Party Overview
+# Political Parties
+
+## Overview
 
 A political party is a group of individuals who share common political beliefs, goals, and ideologies, and work together to influence public policy and govern a society. These parties play a crucial role in representative democracies, as they provide a platform for citizens to organize themselves around specific ideas and compete for political power through elections.
 
