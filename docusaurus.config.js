@@ -93,11 +93,7 @@ const config = {
               {
                 label: 'Tutorial',
                 to: '/',
-              },
-              {
-                label: 'Staff',
-                to: '/policies/staff/',
-              },
+              }
             ],
           },
           {
