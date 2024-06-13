@@ -138,19 +138,3 @@ Barrel Wood: N/A
 In-Game Name: Chill Elixir
 
 </details>
-<details>
-<summary>Koors Light Elixir</summary>
-
-Ingredients: 5 Wheat.
-
-Boil Time: 5 minutes
-
-Distill Runs: 0
-
-Age: 2 Years
-
-Barrel Wood: Any
-
-In-Game Name: Koors Light Elixir
-
-</details>
