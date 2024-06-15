@@ -8,6 +8,9 @@ Brewers craft elixrs on the server, this takes time, and patience along with ski
 ## Getting Set Up
 To craft elixirs in DemocracyCraft, you need to set up the following:
 
+**Book of Brews**
+The Book of Brews contains all the recipes a brewer could need, to craft this item you need the following: 8 Empty Glass Bottles, and 1 Book. To craft this you must put the book in the center of a crafting table and suround it with the glass bottles, to be able to see the recipes you must be a brewer.
+
 **Brewing Cauldron** - This is used to ferment your ingredients into a mash, the initial step in elixir crafting. First, place a cauldron over a fire source, like a lit netherrack or campfire, one block above the flame, as shown below. Then, put a bucket of water inside to enable brewing three elixirs per cauldron.
 
 ![Brewing Cauldron](https://i.imgur.com/y3WPIws.png)
