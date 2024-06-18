@@ -110,19 +110,19 @@ In-Game Name: Golden Apple Elixir
 
 </details>
 <details>
-<summary>Cometico 9 Guardienes</summary>
+<summary>Dark Elixir</summary>
 
-Ingredients: 25 Cactus.
+Ingredients: 6 Wheat.
 
-Boil Time: 18 minutes
+Boil Time: 7 minutes
 
-Distill Runs: 2
+Distill Runs: 0.
 
-Age: 1 Year
+Age: 7 Years.
 
-Barrel Wood: Any
+Barrel Wood: Dark Oak
 
-In-Game Name: Cometico 9 Guardienes
+In-Game Name: Dark Elixir
 
 </details>
 <details>
