@@ -1,4 +1,4 @@
-# Klondike
+# Willow
 
 ## Overview
 Willow, named after the tree of the same name, is Redmont’s farming town. Located North of Reveille at 1307 71 2039, Willow has become the number one place for citizens to farm. Willow was founded on [December 21, 2020](https://www.democracycraft.net/threads/vanquish_ap-town-application.2394/) by Vanquish27 (then Vanquish_ap).
