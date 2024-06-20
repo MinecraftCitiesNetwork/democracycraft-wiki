@@ -1,1 +1,36 @@
-test
+# 1950minecrafter
+1950minecrafter (joined April 13 2020) is the first player to have joined DC after release. He became a significant political figure on the server for years after, founding the first political party to moderate success, and championing many of the first laws that guide the server today. He is no longer an active member of the community.
+
+## Early Life
+On May 5th 2020, 1950 applied for the creation of his political party, The Socialist Party of the People (SPP). It took part in the 1st Congressional Election, securing a majority with 4 seats out of 7 in Congress. 1950 ran, and became Redmont’s second Speaker of the House following the resignation of the first Speaker, Pacman. 1950 authored bills such as the Conspiracy Act and the Public Indecency Act.
+
+## 2nd Congressional Election
+As the 2nd Congressional Election drew near, a new party was on the rise, the Democratic Reformists’ Party (DRP). They grew to a membership greater than the SPP or NAP, and threatened to upset the two-party status quo. As such, 1950 and Dusty_3 agreed in secret discussion to work together by having their members vote for candidates from both their parties. By the nature of elections at the time, the vote tally throughout the voting period was live, incentivizing parties to campaign for more votes if they were losing. The NAP and DRP both partook in this, however the SPP did not, leading to the party receiving 0 seats in the next Congress and a fall in significance. Congress was now split between NAP and DRP control, with the SPP left to rethink their future course of action.
+
+## 1950’s Low Point
+Following his unsuccessful reelection bid and the overall defeat of his party, 1950 decided to take a break from DC and build for a then-recently created knock-off server, led by former DC players. He was given a staff role there, and as such violated a DC rule at the time called non-compete, which stated DC players could not be staff on similar roleplay servers that competed with them. As a result, he was given a permanent ban from DC, much to his shock and dismay. This ban started on July 24 2020. He continued without contact to the DC community, and most players doubted he would ever be able to return.
+
+## SPP Without 1950
+Shorlty after 1950’s ban on July 30, The_MarxSisters became the next Chair of the party, promising new reforms to the party in preperation for the September Congressional Election. Their performance was disappointing for many in the party, winning one seat, and only a few votes away from winning two or three. Shortly following this election, two special elections occurred due to resignations. The SPP ran kevv as their candidate, achieving 9 votes, far less than the DRP candidate ronsampaul’s 18. The SPP did not field a candidate for the second special election. September was also the first month that Senate elections were introduced, and the SPP were painfully close to winning one of the three available seats. Candidate _37__ won 21 votes when 22 was needed to tie the winner of the third seat. Shortly before these elections on August 20th, the militant Red Army became a wing of the SPP. The Red Army previously launched an attack against the DC Capitol, and had a standoff with the police. Many players disliked the Red Army for that action, and the SPP in their decision to tie themselves to the organization received negative attention.
+
+## The Return
+On October 23 2020, 1950 created a ban appeal. The DC knock-off server had been deleted, and staff had a change of heart about the players they banned. A day later, it was accepted. The SPP immediately held leadership elections after The_MarxSisters failed to significantly grow the party and win elections. 1950 was chosen as the new Chair on November 6, and immediately began work on the ongoing November Congressional Elections. The party fared better, with candidates 1950 and JoanM999 securing 2 of the 7 available House seats. The following election was a House special in December as a result of JoanM999’s resignation, in which SPP candidate kevv won 6 votes to the DRP’s 33. This began a trend of the SPP performing better when 1950 is on the ballot and directly involved. The following election in January saw the House expanded from 7 to 9 seats, and the SPP again won 2, candidates 1950 and Red Army leader Olefante. The party’s Senate candidate _37__ lost with 19 votes.
+
+## Presidential Ambitions
+On January 26 2021, 1950 announced his candidacy for President with running mate Pugbandit. His main competition was the DRP leader Krix and his running mate hugebob23456. The DRP was at one of its high points, and they were the favorite to win. A third contender was an independent candidate, Austin27, with running mate xEndeavour. Austin27 eventually dropped out, with xEndeavour running with Zab as his running mate. In a surprise result, no candidate reached a majority with Krix receiving the most votes at 94 and 48.2% of the total vote. 1950 was second, with 64 votes, and xEndeavour was third with 37. This prompted a runoff between Krix and 1950. The result was close, with Krix receiving 108 votes to 1950’s 89. Krix became DC’s 3rd President, and 1950 continued his work in the House. 1950 decided to run in the next Presidential Election in June of 2021, winning 69 votes and proceeded to a runoff against Austin27, who won 98 votes. 1950 was again thwarted in a runoff, winning 70 votes to Austin27’s 95.
+
+## Ongoings of the SPP
+The SPP continued to participate in Congressional elections, securing 2-3 seats each time. 1950 received modest support each time, with enough personal votes to elect another member of the party. However, the party failed to significantly grow to the largest party or even 2nd largest. In October 2021, 1950 chose not to run in the party’s leadership election, and Aladeen became the new Chair. The party received a surprise new member in Krix, which was the sole SPP candidate to win a seat in the November 2021 House election. 1950 stepped back from the public eye at this point, and his activity declined until leaving the server alltogether. The SPP declined further until its eventual dissolution through a merge with the Neodemocratic Party (later Democratic Party) on February 20 2022. On July 25 2022, former SPP member xeu100 announced a return of the party, and outlined a three phase plan, however this was the last update in the party’s discord.
+
+## Bills Accomplished
+- Public Indecency Act
+- Conspiracy Act
+- End’s Electoral Officer Act December 2020
+- Verbally Threatening Act
+
+1950 famously attempted many times to pass a bill entitled Congressional Wage Decrease Act, which sought to decrease the wages of members of Congress. Every attempt was voted down by the rest of Congress and failed.
+Legacy
+
+## Conclusion
+
+1950 has the legacy of being the first strong voice of the political left on the server. He created the first political party and led it to a majority in the first Congress. While the party never again attained such significance, they continued to win seats in Congress for years and maintained their political representation. 1950 narrowly failed in his presidential ambitions, however was a fairly significant political figure throughout his career, consistently winning elections in the House from a small yet loyal group of supporters.
