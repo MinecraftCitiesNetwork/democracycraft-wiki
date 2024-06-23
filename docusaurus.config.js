@@ -74,7 +74,7 @@ const config = {
             to: '/rules',
           },
           {
-            label: 'Changelog',
+            label: 'Blog',
             to: '/blog',
           },
           {
