@@ -13,7 +13,7 @@ Given these ratings were optional by nature, some of our playerbase chose not to
 
 Below are ratings broken down by department of the Staff team. :) 
 
-::: note How are ratings classified and calculated?
+:::info How are ratings classified and calculated?
 For the purposes of this post, we've grouped numerical ratings into five categories, Very Poor (`1`), Poor (`2`), Fair (`3`), Good (`4`), and Excellent (`5`). 
 
 The Percentage of Responses found below in each table is calculated by summing up all scores belonging to each respective category, then dividing it by the number of responses received for each respective category. 
@@ -138,34 +138,34 @@ As always, we are on the lookout for more Staff. It helps us greatly if you reco
 ### Server Features
 We asked players to rate ten features of our server on a scale of one to five. Based on an aggregate score (total points earned per category), here are the results:
 1. Discord Organisation (407 points)
-  - This one scored the highest, it wasn't even a close contest.
-  - Only thing I can think of to improve (given no improvements were suggested) is to make verifying more clear, and deportation reflect on our Discord server more clearly.
+    - This one scored the highest, it wasn't even a close contest.
+    - Only thing I can think of to improve (given no improvements were suggested) is to make verifying more clear, and deportation reflect on our Discord server more clearly.
 2. Economy and Business Roleplay (389 points)
-  - The introduction of DemocracyBusinesses, DemocracyTrade, and DemocracyTreasury updates has greatly immersed the server economy.
-  - A lot of custom features have created new jobs recently (i.e. Carpenter) which I imagine has helped a lot.
-  - Diversity and complexity is still however lacking, and being looked into.
+    - The introduction of DemocracyBusinesses, DemocracyTrade, and DemocracyTreasury updates has greatly immersed the server economy.
+    - A lot of custom features have created new jobs recently (i.e. Carpenter) which I imagine has helped a lot.
+    - Diversity and complexity is still however lacking, and being looked into.
 3. Political Roleplay (376 points)
-  - Despite a high rating, a lot of players report they aren't happy with the conduct of certain players. This is interesting because a lot of players recognise it's not a deal breaker or don't consider it an objective marker for dissatisfaction.
-  - I believe we're lacking some engagement, especially with voting turnouts. 
-    - More will be done by the server to promote voting during election seasons and proactive voter registration in-game.
+    - Despite a high rating, a lot of players report they aren't happy with the conduct of certain players. This is interesting because a lot of players recognise it's not a deal breaker or don't consider it an objective marker for dissatisfaction.
+    - I believe we're lacking some engagement, especially with voting turnouts. 
+      - More will be done by the server to promote voting during election seasons and proactive voter registration in-game.
 4. Communication from Staff (369 points)
-  - A lot of communication lies in how we communicate disciplinary action. We're working on getting a web interface for our punishments again, and may look into more elaborate or "secondary" reasons to attach to our heavier punishments as this keeps getting raised.
-    - We're unsure at this stage what this would look like.
+    - A lot of communication lies in how we communicate disciplinary action. We're working on getting a web interface for our punishments again, and may look into more elaborate or "secondary" reasons to attach to our heavier punishments as this keeps getting raised.
+      - We're unsure at this stage what this would look like.
 5. Legal Roleplay and Forums Organisation (Tied at 369 points)
-  - The legal side of the server isn't an easy pathway to begin with, more research needs to be done in terms of reducing the barriers of entry from a server-side perspective.
-  - Forums structure wise is passable, however it remains difficult to navigate. Some decisions will need to be made on how to address this - we welcome suggestions especially on how.
+    - The legal side of the server isn't an easy pathway to begin with, more research needs to be done in terms of reducing the barriers of entry from a server-side perspective.
+    - Forums structure wise is passable, however it remains difficult to navigate. Some decisions will need to be made on how to address this - we welcome suggestions especially on how.
 6. City Life RP (338 points) 
-  - Players are quick to point out the server simply does not engage in traditional role playing.
-  - Server administration has taken the increase in interest in roleplay as a sign we need to start implementing opt-in (highly encouraged) roleplay. More details will follow as we start implementing new features to deal with this.
+    - Players are quick to point out the server simply does not engage in traditional role playing.
+    - Server administration has taken the increase in interest in roleplay as a sign we need to start implementing opt-in (highly encouraged) roleplay. More details will follow as we start implementing new features to deal with this.
 7. Server Performance (305 points)
-  - Server ticks-per-second (TPS) has not been scaling well with players.
-  - This wasn't largly dealt with until I got back from my hiatus. Since then, several major causes have been eliminated.
-  - Two plugins are still causing issues due to their structural choices. We're working with the developer of them to get it fixed, it's quite a complicated issue to do with databases.
+    - Server ticks-per-second (TPS) has not been scaling well with players.
+    - This wasn't largly dealt with until I got back from my hiatus. Since then, several major causes have been eliminated.
+    - Two plugins are still causing issues due to their structural choices. We're working with the developer of them to get it fixed, it's quite a complicated issue to do with databases.
 8. Criminal Roleplay (296 points)
-  - Players frequently complain there isn't much depth to criminal roleplay, with the current policing state being overbearing.
-  - [DemocracyCrime](https://docs.google.com/document/d/12LUTup0TUa3RTRLHfrcy7fM9z51iFi79jRiRcXfyScE/) is a plugin we've commissioned to replace policing, it signals a shift into more roleplay-focused gameplay and more opportunities for criminals to predominantly engage in crime.
+    - Players frequently complain there isn't much depth to criminal roleplay, with the current policing state being overbearing.
+    - [DemocracyCrime](https://docs.google.com/document/d/12LUTup0TUa3RTRLHfrcy7fM9z51iFi79jRiRcXfyScE/) is a plugin we've commissioned to replace policing, it signals a shift into more roleplay-focused gameplay and more opportunities for criminals to predominantly engage in crime.
 9. Relationship Roleplay (274 points)
-  - Admittedly this is none existent. End has been thinking about expanding our marriage plugin to include more roles (families!), however it has been a low priority given our limited resources. The above all take priority before this, for now.
+    - Admittedly this is none existent. End has been thinking about expanding our marriage plugin to include more roles (families!), however it has been a low priority given our limited resources. The above all take priority before this, for now.
 10. We had a tie, so no 10th. :p
 
 :::note About Custom Furniture
