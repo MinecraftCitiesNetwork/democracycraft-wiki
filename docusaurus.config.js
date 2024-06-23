@@ -36,6 +36,7 @@ const config = {
       'classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
+        
         docs: {
           routeBasePath: '/',
           sidebarPath: './sidebars.js',
@@ -47,6 +48,10 @@ const config = {
         theme: {
           customCss: './src/css/custom.css',
         },
+          gtag: {
+            trackingID: 'G-XGET3NS5DD',
+            anonymizeIP: false,
+          },
       }),
     ],
   ],
@@ -135,5 +140,6 @@ const config = {
       },
     }),
 };
+
 
 export default config;
