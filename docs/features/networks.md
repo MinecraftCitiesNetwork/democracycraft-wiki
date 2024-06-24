@@ -57,6 +57,30 @@ On their own, **without filters**, sorting container will remain empty. You need
 #### Miscellaneous Containers
 These containers look for items that haven't been assigned to sorting chests, and takes them. This is useful for when you want to put a bunch of random items in your input containers and filter out rubbish.
 
+### Upgrades
+You are able to upgrade the range of your containers using ``Upgrade Antennas``! Craft them using the below recipes, then **right click with then in your hand** to the container you want upgraded, to extend their range. 
+
+:::tip 
+You cannot apply the same Tier upgrade more than once. This is a good way to check what Tier a current container is on (until we make an easier method).
+:::
+
+#### Tier 1 (50 blocks)
+Requires no prior tiers.
+![Tier 1 Antenna](../../static/img/features/networks/tier_1_antenna.png)
+
+#### Tier 2 (100 blocks)
+Requires Tier 1.
+![Tier 2 Antenna](../../static/img/features/networks/tier_2_antenna.png)
+
+#### Tier 3 (500 blocks)
+Requires Tier 2.
+![Tier 3 Antenna](../../static/img/features/networks/tier_3_antenna.png)
+
+#### Tier 4 (Multi-dimensional)
+Requires Tier 2.
+![Tier 4 Antenna](../../static/img/features/networks/tier_4_antenna.png)
+
+
 ##### Recipe
 ![Miscellaneous Containers Recipe](../../static/img/features/networks/miscellaneous_container.png)
 
@@ -66,6 +90,9 @@ Run the command ``/net create <network_name>``, please use a descriptive name fo
 :::tip Need to edit a network?
 Do ``/net select <network_name>``, then place your containers and use your Network Wand to your heart's desire!
 :::
+
+
+
 
 ## All Available Commands
 - ``/net create <name>`` - Create a storage network.
