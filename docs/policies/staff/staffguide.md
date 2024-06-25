@@ -158,8 +158,9 @@ In most instances, a Nether and End reset will occur once every 6 months, typica
 - ```anticheat:
   anti-xray:
     enabled: false```
-9. Open the server back up by removing the whitelist. (``/whitelist off``).
-10. Announce the change in #changelog :)
+13. Start the server.
+14. Open the server back up by removing the whitelist. (``/whitelist off``).
+15. Announce the change in #server-announcements!
 
 ### Red v. Blue Event Guide for Staff
 
