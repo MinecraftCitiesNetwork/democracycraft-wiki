@@ -1,3 +1,7 @@
+---
+sidebar_position: 3
+---
+
 # Staff Vetos
 
 For the Benefit of the server, the Staff Team retains the reserve power to completely override any Government decision.

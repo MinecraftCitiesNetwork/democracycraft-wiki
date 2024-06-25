@@ -1,3 +1,7 @@
+---
+sidebar_position: 2
+---
+
 # Staff Intent
 
 The purpose of this thread is to communicate the server ownership's intent for the server. This intent informs owner vetos and owner decision making, therefore it can be used as a tool to assist lawmakers and decision makers in their duties.
