@@ -25,11 +25,11 @@ At the beginning of each Monday in ``UTC`` timezone, you need to send an opening
 Once you have sent the message, **right click** the message and click ``"Create Thread"``. The title for the thread should be formatted like so: ``Changelog - DD-MM-YYYY to DD-MM-YYYY``.
 - Send a message stating the thread is opened, i.e. ``Opened``.
 - Each time you complete a bug fix, feature addition, or in general make a backend change, please comment the change using the following format below in the thread you created:
-- ``
+- ```
 :plus: **Important part** of the title
 :dropdown: More information.
 :dropdown: Use as many of these as you want.
-``
+```
 
 ![Figure 1.2](../../../static/img/staffing/changelogs/figure_1.2.png)
 
