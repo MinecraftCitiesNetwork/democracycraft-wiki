@@ -1,5 +1,5 @@
 ---
-sidebar_position: 3
+sidebar_position: 4
 ---
 
 # Managing #changelog
@@ -31,15 +31,18 @@ Once you have sent the message, **right click** the message and click ``"Create 
 ``
 
 ![Figure 1.1](../../../static/img/staffing/changelogs/figure_1.1.png)
+
 *Figure 1.1 Example completed message for beginning of the week.*
 
 ![Figure 1.2](../../../static/img/staffing/changelogs/figure_1.2.png)
+
 *Figure 1.2 Example changelog thread entry.*
 
 ### Every Sunday
 Close your Discord thread, then edit your message to have a link to the blog post you are about to publish. See the next section(s) on how to create your blog post first!
 
 ![Figure 1.3](../../../static/img/staffing/changelogs/figure_1.3.png)
+
 *Figure 1.3 Example completed message for end of the week.*
 
 ## Blog Post
