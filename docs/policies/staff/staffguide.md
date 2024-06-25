@@ -138,6 +138,26 @@ In most instances, a Nether and End reset will occur once every 6 months, typica
 6. Merge inventories between the worlds by running ``/mw inventory merge Reveille Reveille_nether Reveille_the_end Wilderness NewHamilton``.
 7. Have a staff member check that keeping inventory works, and that death messages don't show in the Nether and End respectively.
 8. Link nether portals correctly via ``/world netherportal destination Reveille_nether Wilderness`` and ``/world netherportal destination Wilderness Reveille_nether``.
+9. Run ``/mw gamemode survival Reveille_the_end`` and ``/mw gamemode survival Reveille_nether`` in Console (without the slash!).
+10. Turn off the server.
+11. Open ``Reveille_nether/paper_world.yml`` and add below ``_version`` the following:
+- ```anticheat:
+  anti-xray:
+    enabled: true
+    engine-mode: 1
+    hidden-blocks:
+    - ancient_debris
+    - nether_gold_ore
+    - nether_quartz_ore
+    lava-obscures: false
+    max-block-height: 128
+    replacement-blocks: []
+    update-radius: 2
+    use-permission: false``` 
+12. Open ``Reveille_the_end/paper_world.yml`` and add below ``_version`` the following:
+- ```anticheat:
+  anti-xray:
+    enabled: false```
 9. Open the server back up by removing the whitelist. (``/whitelist off``).
 10. Announce the change in #changelog :)
 
