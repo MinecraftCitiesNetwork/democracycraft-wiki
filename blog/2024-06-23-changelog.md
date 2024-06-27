@@ -22,10 +22,8 @@ Welcome to this week's changelog! We're thrilled to share the latest updates and
   - **New** (experimental) song sources: mixcloud, reddit, tiktok, and tts!
   - **Changes** Instant song playback & Faster and more responsive
 - DemocracryBusiness format update
-  - Time is now **hoverable**.
-  - No longer all **green**.
-  - Previously viewed sales are now **gray**
   - `/csn history` is no longer supported for businesses.
+  - No longer all **green**. Previously viewed sales are now **gray**.
 
 # Government
 - Training node for the Dept. Homeland Security is read-only
