@@ -115,7 +115,7 @@ These are a set of principles that guide us as a team.
 
 ### Panel Access
 Managers are responsible for adding Senior Administrators and Administrators to our server control panel. To add a user, follow the steps below.
-1. Open ``DemocracyCraft`` server.
+1. Open the ``DemocracyCraft`` server.
 2. Navigate to ``Users`` and click ``New User``.
 3. Enter the Staff member's email address, and select ``Manage`` under ``Subdomain``. This is a temporary permission.
 4. You will now notice a new user entry, on the right hand side next to the bin click on ``Import user permissions``. 
@@ -124,7 +124,7 @@ Managers are responsible for adding Senior Administrators and Administrators to 
 7. Repeat Steps 2-6 after opening the ``DemocracyCraft Playground`` server.
 8. Great work! All done. :)
 
-::: tip
+:::tip
 
 Remind the Staff member that all activities are logged, and that we have a mandatory two factor authentication requirement!
 
