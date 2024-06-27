@@ -53,6 +53,10 @@ Before downloading a modification, make sure it supports the current Minecraft v
 - Xaero's Minimap (Fair-Play Edition) - https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap-fair-play-edition
 - Xaero's World Map - https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map
 
+**Other Allowed Mods**
+- Vivecraft - https://www.vivecraft.org/
+- Questcraft - https://sidequestvr.com/app/7150/questcraft
+
 :::danger Getting caught
 Staff are consistently monitoring gameplay to ensure 100% compliance with the rules. Violating the rules could result in **disciplinary action**!
 :::
