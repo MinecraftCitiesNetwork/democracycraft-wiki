@@ -111,6 +111,37 @@ These are a set of principles that guide us as a team.
 
 ![Inspirational Quote](/img/staffing/richard_branson_quote.png)
 
+## For Managers
+
+### Panel Access
+Managers are responsible for adding Senior Administrators and Administrators to our server control panel. To add a user, follow the steps below.
+1. Open ``DemocracyCraft`` server.
+2. Navigate to ``Users`` and click ``New User``.
+3. Enter the Staff member's email address, and select ``Manage`` under ``Subdomain``. This is a temporary permission.
+4. You will now notice a new user entry, on the right hand side next to the bin click on ``Import user permissions``. 
+5. Grab the list of permissions in the next section below, that corresponds to the Staff member's rank in the team.
+6. Paste it in the input box, and click ``Import``.
+7. Repeat Steps 2-6 after opening the ``DemocracyCraft Playground`` server.
+8. Great work! All done. :)
+
+::: tip
+
+Remind the Staff member that all activities are logged, and that we have a mandatory two factor authentication requirement!
+
+:::
+
+#### Ranks and Privilages
+
+##### Senior Administrators
+```
+["control.read-console","control.console","control.start","control.restart","file.create","file.read","file.read-content","file.update","file.delete","file.archive","file.sftp","recycle.read","recycle.restore","backup.create","backup.read","database.create","database.read","database.update","database.view_password","database.import","schedule.create","schedule.read","schedule.update","activity.read","websocket.connect","control.stop","allocation.read","startup.read"]
+```
+
+##### Administrators
+```
+["control.read-console","control.console","control.start","control.restart","file.create","file.read","file.read-content","file.update","file.archive","recycle.read","recycle.restore","backup.create","backup.read","database.read","schedule.read","activity.read","websocket.connect","control.stop","allocation.read","startup.read"]
+```
+
 ## For Senior Administrators
 
 ### Console
