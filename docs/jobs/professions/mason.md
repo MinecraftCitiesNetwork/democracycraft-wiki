@@ -2,7 +2,7 @@
 
 The Mason is a highly valuable job for anyone who needs to repurpose building materials. Think of them as material alchemists, skilled at converting walls, stairs, slabs, and other crafted items made of stone or minerals back into their original forms. In addition, there are some exclusive crafting recipes and shortcuts available to Masons.
 
-![image](https://media.discordapp.net/attachments/838356841217916989/1165972507799588995/2023-10-23_22.10.51.png?ex=65520604&is=653f9104&hm=fff40c7841109850fc25ef458fe8846e05cf428f60918a8560474e76aba01419&=&width=1276&height=671)
+![image](https://i.imgur.com/tHKDqhA.png)
 
 ## What Masons Do
 
