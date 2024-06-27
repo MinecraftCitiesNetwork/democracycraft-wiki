@@ -3,7 +3,7 @@ sidebar_position: 4
 ---
 
 # Managing #changelog
-The changelog channel on our main [Discord server](https://discord.gg/democracy) is an important platform for us as Staff to communicate changes to the server to our players. This guide serves as formalised policy on how to post your changes in the channel, as well as prepare a periodic blog post.
+The changelog channel on our main [Discord server](https://discord.gg/democracy) is an important platform for us as Staff to communicate changes to the server to our players. This guide serves as formalised policy on how System Administrators are to post your changes in the channel, as well as prepare a periodic blog post.
 
 ## End of Period
 Currently, we publish blog posts: Weekly
