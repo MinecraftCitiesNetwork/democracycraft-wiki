@@ -8,40 +8,20 @@ The changelog channel on our main [Discord server](https://discord.gg/democracy)
 ## End of Period
 Currently, we publish blog posts: Weekly
 
-## Discord 
-
-### Every Monday
-At the beginning of each Monday in ``UTC`` timezone, you need to send an opening message in #changelog for the week. The format for the message is:
-
-```
-:pencil: **Changelogs for the Week DD-MM-YYYY to DD-MM-YYYY**
-:dropdown: __Link:__ 
-```
-
-![Figure 1.1](../../../static/img/staffing/changelogs/figure_1.1.png)
-
-*Figure 1.1 Example completed message for beginning of the week.*
-
-Once you have sent the message, **right click** the message and click ``"Create Thread"``. The title for the thread should be formatted like so: ``Changelog - DD-MM-YYYY to DD-MM-YYYY``.
-- Send a message stating the thread is opened, i.e. ``Opened``.
-- Each time you complete a bug fix, feature addition, or in general make a backend change, please comment the change using the following format below in the thread you created:
-
-```
-:plus: **Important part** of the title
-:dropdown: More information.
-:dropdown: Use as many of these as you want.
-```
-
-![Figure 1.2](../../../static/img/staffing/changelogs/figure_1.2.png)
-
-*Figure 1.2 Example changelog thread entry.*
-
 ### Every Sunday
-Close your Discord thread, then edit your message to have a link to the blog post you are about to publish. See the next section(s) on how to create your blog post first!
+Complete your blog post and put it in ``#server-announcements``. The format for the Discord announcement should be:
 
-![Figure 1.3](../../../static/img/staffing/changelogs/figure_1.3.png)
+```
+:dc::VBar:**CHANGELOG AS AT YYYY-MM-DD**:VBar::dc: 
 
-*Figure 1.3 Example completed message for end of the week.*
+Please include here a brief sentence, maybe two at most.
+:dot: **Read here!** <link>
+
+@Server
+
+```
+
+Replace ``<link>`` with a link to your blog post. The format for a blog post is below.
 
 ## Blog Post
 
@@ -98,4 +78,4 @@ Another three sentences, keep it brief. You can say whatever you want (within re
 The intent of this post is to be brief and informative! :)
 
 ## That's all, folks!
-Good job on making it this far...
+Good job on making it this far. :)
