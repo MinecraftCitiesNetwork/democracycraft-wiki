@@ -1,6 +1,6 @@
 ---
 slug: 2024-06-23-changelog
-title: Changelog 06-23-2024
+title: Changelog 2024-06-23
 authors: Nacho
 tags: [System, Changelog, June]
 ---
@@ -15,7 +15,7 @@ Welcome to this week's changelog! We're thrilled to share the latest updates and
 - Tyalus and Quix seeds can be planted.
   - **80%** chance of harvesting 1-2 tyalus/quix **seeds**.
   - **50%** chance of harvesting 1-2 tyalus/quix **plants**.
-- DemocracryBusiness now supports sales explorting.
+- DemocracryBusiness now supports sales exporting.
   - Command:  `/business sales export <firm> <days>`
 
 :::note
