@@ -7,7 +7,7 @@ The legal profession has three exams which must be taken in chronological order:
 - Legal B awards the barrister title.
 - Legal C awards the attorney title.
 
-![Image](https://cdn.discordapp.com/attachments/838356841217916989/1165966257577787442/2022-07-30_22.png?ex=6548c5b2&is=653650b2&hm=f7a41fc449de88b7124c5814d1e0b44dda3e554a8175326a6a132cf63cd5028d&)
+![Image](https://i.imgur.com/hiFQbro.png)
 
 ## What Lawyers Do
 
@@ -23,7 +23,7 @@ In order to marry two players, they both need to consent. Abuse of this permissi
 
 Commands:
 - /marry ``playername`` ``playername`` - Marries two players.
-- /marry divorce ``playername`` - Divorces two players.
+- /marry divorce ``playername`` ``playername`` - Divorces two players.
 
 ## General Links
 
@@ -34,7 +34,7 @@ Commands:
 - [Judicial Standards Act](https://www.democracycraft.net/threads/judicial-standards-act.5868/)
 - [Legal Board Discord (RBA)](https://discord.gg/U6gtx7Kqbh)
 
-![Image](https://media.discordapp.net/attachments/838356841217916989/1165972505270423582/2023-10-23_22.02.19_2.png?ex=6548cb83&is=65365683&hm=6beb34d2886f3bcad46859e6dff7d8dbb8c97d472c1ec2c3721a37124a6c1d80&=&width=1276&height=671)
+![Image](https://i.imgur.com/mRJnmC6.jpeg)
 
 ## Passed the Exam? What Now?
 
