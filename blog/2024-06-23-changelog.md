@@ -16,7 +16,7 @@ Welcome to this week's changelog! We're thrilled to share the latest updates and
  - **80%** chance of harvesting 1-2 tyalus/quix **seeds**.
  - **50%** chance of harvesting 1-2 tyalus/quix **plants**.
 - DemocracryBusiness now supports sales explorting.
- - Command:  */business sales export <firm> <days>*
+ - Command:  `/business sales export <firm> <days>`
  - ***NOTE***: There is no cap on days, however note that the plugin may struggle to go beyond **50-100** days!
 - Server Music Bots
  - **New** (experimental) song sources: mixcloud, reddit, tiktok, and tts!
