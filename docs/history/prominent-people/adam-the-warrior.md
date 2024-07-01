@@ -1,4 +1,5 @@
-**Adam_The_Warrior** (joined 15 November 2023), better known as **Adam**, is a Redmontian government official currently serving as Redmont’s Secretary of Health. Adam has been involved in the government since his early days living in Redmont. He has held many government jobs in Redmont and served on multiple town Councils.
+# Adam_the_Warrior
+Joined 15 November 2023, better known as **Adam**, is a Redmontian government official currently serving as Redmont’s Secretary of Health. Adam has been involved in the government since his early days living in Redmont. He has held many government jobs in Redmont and served on multiple town Councils.
 
 ## Government Employment
 
