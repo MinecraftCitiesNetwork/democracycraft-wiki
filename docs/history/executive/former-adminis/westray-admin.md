@@ -1,4 +1,5 @@
-**Westray** served as the second and eighth President of Redmont. He was the first elected President of Redmont, being elected in October 2020 and serving until February 2021. His second term began in February 2022 and ended June 2022.
+# Westray 
+Served as the second and eighth President of Redmont. He was the first elected President of Redmont, being elected in October 2020 and serving until February 2021. His second term began in February 2022 and ended June 2022.
 
 ## First Term
 
