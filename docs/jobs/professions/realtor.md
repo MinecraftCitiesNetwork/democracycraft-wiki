@@ -2,7 +2,7 @@
 
 The real estate industry involves the buying, selling, leasing, and management of properties, including residential, commercial, and industrial properties, as well as land. Realtors play a crucial role in this industry by facilitating transactions between buyers, sellers, landlords, and tenants.
 
-![Image](https://media.discordapp.net/attachments/838356841217916989/1165972507015262299/2023-10-23_22.08.56.png?ex=6548cb84&is=65365684&hm=aa46612acebc54b6f0634709c3fd453d8c5e77fa29ab5ce8d3b1f664d37b7041&=&width=1276&height=671)
+![Image](https://i.imgur.com/BxjKpKo.jpeg)
 
 ## What Realtors Do
 
