@@ -5,8 +5,11 @@ Make sure you've submitted your Github username in your Staff channel if you hav
 
 ## How to File an Issue
 
-1. Open our [Github Projects](https://github.com/users/MinecraftCitiesNetwork/projects/2) board.
-2. Navigate to the ``To Triage`` column, and click ``+Add Item``.
+### Step 1. Open Github Projects
+Open our [Github Projects](https://github.com/users/MinecraftCitiesNetwork/projects/2) board.
+
+### Step 2. Triaging
+Navigate to the ``To Triage`` column, and click ``+Add Item``.
 
 ![Figure 1.0](../../../static/img/staffing/filing-github-issues/figure-1.0.png)
 
@@ -15,12 +18,16 @@ Make sure you've submitted your Github username in your Staff channel if you hav
 ![Figure 1.1](../../../static/img/staffing/filing-github-issues/figure-1.1.png)
 
 *Figure 1.1: Clicking the ``+Add Item`` button.*
-3. Enter a concise title describing your issue in the box provided.
+
+### Step 2.1. Add a title to your Issue 
+Enter a concise title describing your issue in the box provided.
 
 ![Figure 1.2](../../../static/img/staffing/filing-github-issues/figure-1.2.png)
 
 *Figure 1.2: Adding your issue's title.*
-4. You will now see your issue filed in the ``To Triage`` column, open it and add a description by clicking the ``Edit`` button **under** the title.
+
+### Step 2.2. Add a description to your Issue 
+You will now see your issue filed in the ``To Triage`` column, open it and add a description by clicking the ``Edit`` button **under** the title.
 
 ![Figure 1.3](../../../static/img/staffing/filing-github-issues/figure-1.3.png)
 
@@ -33,6 +40,8 @@ Make sure you've submitted your Github username in your Staff channel if you hav
 ![Figure 1.5](../../../static/img/staffing/filing-github-issues/figure-1.5.png)
 
 *Figure 1.5: Adding a description to the example issue.*
+
+### Step 3. Turn the issue into an Issue
 5. In the same editor menu, on the right hand side you will see ``Convert to an Issue``. This is the last step you'll need to complete. Click on it, then select **Bugs**.
 
 ![Figure 1.6](../../../static/img/staffing/filing-github-issues/figure-1.6.png)
