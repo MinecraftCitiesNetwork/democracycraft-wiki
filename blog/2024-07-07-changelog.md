@@ -51,8 +51,8 @@ When we had massive amounts of items through new features. This is often to the 
   - Syntax: `/fly <reason>`
 - Staff Ticket Formating
   - Has been updated to allow for tickets to look presentable to the greater public.
-~~- Bug Tracker Updated~~
-  ~~- To indicate what items are pending a restart to ensure there is a deck of pending items awaiting to be changed.~~
+- ~~Bug Tracker Updated~~
+  - ~~To indicate what items are pending a restart to ensure there is a deck of pending items awaiting to be changed.~~
 
 
 
