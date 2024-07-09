@@ -1,6 +1,6 @@
 ---
 slug: 2024-07-07-changelog
-title: Changelog 2024-06-23
+title: Changelog 2024-07-07
 authors: Nacho
 tags: [System, Changelog, July]
 ---
@@ -41,7 +41,6 @@ When we had massive amounts of items through new features. This is often to the 
   - Following a patching being pushed improperly we reverted the changed to restore the plugin.
 - Executive `/about` menue Updated
   - To include Special Advisors
--  
 
 
 # Staff
@@ -58,3 +57,4 @@ When we had massive amounts of items through new features. This is often to the 
 
 
 # Summary
+This week's updates bring a host of exciting new features and improvements! Enjoy the new wedding rings, toggle stream mode, enhanced website functionality, and a plethora of new furniture, hats, and flowers. Government updates include a new clinic at the prison and re-enabled diseases, while staff updates improve voting registration, flying commands, and ticket formatting. Thanks for tuning in, and be sure to check back next week for more exciting changes and updates!
