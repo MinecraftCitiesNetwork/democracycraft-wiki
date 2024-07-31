@@ -123,25 +123,25 @@ I'm deeply touched for what is overly positive feedback! It's always exciting to
 - Yeah I do need to be more professional haha, I sometimes do vent a bit too far to decompress - I'll work on reigning it in. :)
 
 ### End (my other half)
-### What's going well
+#### What's going well
 - "Good" (sorry, you guys used that word a lot! So yes, good!)
 - Engagement with all aspects of the server
 
-### Areas to be improved
+#### Areas to be improved
 - Activity/engagement with the community
 - Communication
 
-#### Response
+##### Response
 I've discussed activity with End and he's mentioned it in Staff - unfortunately between work commitments and burnout End has been less active than he would like. We however discuss (almost daily!) server operations and Staffing, and in recent days you might have noticed End is trying to appear online and work with the community directly. We all miss the silly Kangaroo.
 
 ### Berry (the bingus)
 #### What's going well
 - Having fun
 - Knowledgable
-### Areas to be improved on
+#### Areas to be improved on
 - Activity
 
-#### Response 
+##### Response 
 Bingus has received less feedback compared to End and I, so it's hard to directly touch on issues. Given her Managerial role, it's expected she's been taking a more advisory role to Senior Administrators and us Owners. She's definitely aware of her drop in activity, and I'm sure that will be improved upon!
 
 ### Nacho (the whale)
@@ -153,7 +153,7 @@ Bingus has received less feedback compared to End and I, so it's hard to directl
 #### Areas to be improved on
 - Giving grace/communication
 
-### Response
+##### Response
 I've first hand seen Nacho progress over the months, picking up a lot of technical experience but also life/people skills. He's aware that he comes off a bit harsh, sometimes unintentionally - but it's something that's been worked on and continues to be. I'm sure he's also quite humbled and thrilled to see that there was an overwhelmingly positive volume of feedback for the Chip!
 
 
