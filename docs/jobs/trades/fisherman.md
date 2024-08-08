@@ -25,7 +25,4 @@ As a Fisherman, you also have the opportunity to capture certain animals followi
 
 ## Passed the Exam? What Now?
 
-After passing the exam, it's recommended that you purchase a plot and set up a store, or rent a shop to sell your catches. Alternatively, you can seek employment with companies through DC Jobs:
-[Join the DC Jobs Discord here.](https://discord.gg/Q8rNjddjjh)
-
-For more detailed information, you can refer to the Making Money Guide.
+- After passing the exam, it's recommended that you purchase a plot and set up a store, or rent a shop to sell your catches. Alternatively, you can seek employment with companies through DC #employment channel: [DC Employment](https://discord.gg/democracy)

@@ -49,5 +49,3 @@ To gather resources, you can either buy them from player shops or collect them i
 ![Wild Starting Locations](https://i.imgur.com/HGY905O.png)
 
 (Check `/map` if you're looking for a specific biome).
-
-For more information, read this guide: [Guide - Making Money](https://democracycraft.net/threads/making-money.1410/)

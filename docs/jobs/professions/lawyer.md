@@ -32,7 +32,7 @@ Commands:
 - [Introduction to the Courts](https://www.democracycraft.net/threads/introduction-to-the-courts.6629/)
 - [Courthouse Forum](https://democracycraft.net/forums/court.19/)
 - [Judicial Standards Act](https://www.democracycraft.net/threads/judicial-standards-act.5868/)
-- [Legal Board Discord (RBA)](https://discord.gg/U6gtx7Kqbh)
+- [Legal Board Discord (RBA)](https://discord.gg/u7KVfYB4Rt)
 
 ![Image](https://i.imgur.com/mRJnmC6.jpeg)
 
@@ -40,6 +40,4 @@ Commands:
 
 It's recommended that you purchase a plot and build a store or rent a shop to sell your services in. You can offer to represent players in court as a professional lawyer!
 
-For more info, read this guide! [Guide - Making Money](https://democracycraft.net/threads/making-money.1410/)
-
-You can find a firm to work for with DC Jobs: [DC Jobs](https://discord.gg/Q8rNjddjjh)
+You can find a firm to work for with the DC #employment channel: [DC Employment](https://discord.gg/democracy)

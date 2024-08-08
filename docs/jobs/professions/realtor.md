@@ -65,8 +65,6 @@ If real estate and sales are your forte, then look no further! This job is highl
 
 It's recommended that you purchase a plot and build a store, or rent a shop to sell your products in!
 
-Buy and sell property. You can list it under #realty-adverts on Discord!
+Buy and sell property. You can list it under #realestate on Discord!
 
-For more info, read this guide! [Guide - Making Money](https://democracycraft.net/threads/making-money.1410/)
-
-You can find a company to work for with DC Jobs: [DC Jobs](https://discord.gg/Q8rNjddjjh)
+- Find a player-owned company to work for with the DC #employment channel: [DC Employment](https://discord.gg/democracy)
