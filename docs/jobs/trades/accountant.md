@@ -208,4 +208,5 @@ So, gather your resources, refine your accounting skills, and set forth on this 
 ## Passed the Exam? Now What?
 It is recommended that you get the Entrepreneur guide and register a business on the Business Portal subforum or look for a company who is in need of one of the above accountant roles!
 
+- For more info, read the [Making Money Guide](https://wiki.democracycraft.net/government/money/).
 - Find a player-owned company to work for with the DC #employment channel: [DC Employment](https://discord.gg/democracy)

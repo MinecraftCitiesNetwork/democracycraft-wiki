@@ -40,4 +40,6 @@ Commands:
 
 It's recommended that you purchase a plot and build a store or rent a shop to sell your services in. You can offer to represent players in court as a professional lawyer!
 
+For more info, read this guide! [Guide - Making Money](https://wiki.democracycraft.net/government/money/)
+
 You can find a firm to work for with the DC #employment channel: [DC Employment](https://discord.gg/democracy)

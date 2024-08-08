@@ -26,6 +26,8 @@ To gather resources, you can either buy them from player shops or obtain them in
 
 (Use /map to find specific biomes).
 
+For more information, read the [Making Money Guide](https://wiki.democracycraft.net/government/money/)
+
 You can also explore job opportunities with DC #employment channel: [DC Employment](https://discord.gg/democracy)
 
 ## Crafting Recipes

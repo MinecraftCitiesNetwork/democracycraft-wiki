@@ -45,6 +45,8 @@ On joining the server, you start off with $500. While that's no small sum, you w
 - Real estate opportunities
 - Auctions
 
+You can learn more about making money by reading our guide on it [here](https://wiki.democracycraft.net/government/money/).
+
 ### Chest Shops
 
 ChestShops are where you can buy or sell materials from/to players and firms. To buy an item, right click on the sign, and to sell, left click on the sign. You can learn more about using them by reading our guide [here](https://wiki.democracycraft.net/features/chestshops/).

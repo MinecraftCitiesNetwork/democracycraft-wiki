@@ -38,4 +38,5 @@ Utilizing **DC Jobs** can be a valuable resource for both advertising your servi
 
 If you've successfully passed the exam to become a certified contractor, you might want to explore the Entrepreneur guide. This guide can help you navigate the process of registering a business on the Business Portal subforum. Alternatively, you can seek out existing companies that require your contractor skills.
 
+- For more detailed information, consider reading the [Making Money Guide](https://wiki.democracycraft.net/government/money/).
 - To discover job opportunities and connect with potential clients and employees, be sure to check out DC #employment channel: [DC Employment](https://discord.gg/democracy)

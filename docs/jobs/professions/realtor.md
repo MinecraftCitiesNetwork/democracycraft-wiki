@@ -67,4 +67,5 @@ It's recommended that you purchase a plot and build a store, or rent a shop to s
 
 Buy and sell property. You can list it under #realestate on Discord!
 
+- For more info, read this guide! [Guide - Making Money](https://wiki.democracycraft.net/government/money/)
 - Find a player-owned company to work for with the DC #employment channel: [DC Employment](https://discord.gg/democracy)
