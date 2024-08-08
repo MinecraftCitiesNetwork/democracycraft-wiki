@@ -26,17 +26,17 @@ To gather resources, you can either buy them from player shops or obtain them yo
 
 There are different ways to start earning money with your new profession:
 
-- Start your own store with chest shops using a rented store or a bought plot. You can sell firearms and ammo in a chest shop by finding their unique item id. For more information on how to set up a chest shop, check out the [Chest Shops Guide](https://www.democracycraft.net/threads/chest-shops.76/).
+- Start your own store with chest shops using a rented store or a bought plot. You can sell firearms and ammo in a chest shop by finding their unique item id. For more information on how to set up a chest shop, check out the [Chest Shops Guide](https://wiki.democracycraft.net/features/chestshops/).
 - Use the #marketplace channel to auction off your goods. You get to choose the starting price, and interested players can bid on your auctions.
-- Find a player-owned company to work for through the [DC Jobs server](https://discord.gg/Q8rNjddjjh). There may be employers hiring someone with your skills or profession!
-
-For more information, read this guide: [Guide - Making Money](https://democracycraft.net/threads/making-money.1410/).
+- Find a player-owned company to work for with the DC #employment channel: [DC Employment](https://discord.gg/democracy)
+- For more information, read this guide: [Guide - Making Money](https://wiki.democracycraft.net/government/money/).
 
 ## Recipes
 
 Here are a few armourer recipes to help you get started without the recipe book:
 
 You can find even more recipes through /ia under Guns.
+
 
 
 ![image](https://i.gyazo.com/6e50be5c71868e7c3cfc4e72f04d1c99.png)

@@ -45,11 +45,11 @@ On joining the server, you start off with $500. While that's no small sum, you w
 - Real estate opportunities
 - Auctions
 
-You can learn more about making money by reading our guide on it [here](https://democracycraft.net/threads/making-money.1410/).
+You can learn more about making money by reading our guide on it [here](https://wiki.democracycraft.net/government/money/).
 
 ### Chest Shops
 
-ChestShops are where you can buy or sell materials from/to players and firms. To buy an item, right click on the sign, and to sell, left click on the sign. You can learn more about using them by reading our guide [here](https://democracycraft.net/threads/chest-shops.76/).
+ChestShops are where you can buy or sell materials from/to players and firms. To buy an item, right click on the sign, and to sell, left click on the sign. You can learn more about using them by reading our guide [here](https://wiki.democracycraft.net/features/chestshops/).
 
 
 ## Jobs and Exams
@@ -61,7 +61,7 @@ We have **three** main categories of jobs:
 - Professions - these jobs build on trade jobs by having more advanced or special perks. This could be specialised crafting recipes or plugin features. Not all professions will provide you with pay.
 - Government - you cannot get a Government job immediately, but after around 48 hours of in-game playtime a lot of players apply for these jobs on [our forums](https://www.democracycraft.net). These jobs provide a mix between trade and professions, allowing you to work in teams to better our nation!
 
-For more detailed information, read our [guide on jobs](https://democracycraft.net/threads/jobs.711/) and check out individual job guides that interest you [here](https://democracycraft.net/forums/job-guides.50/).
+For more detailed information, Check out individual job guides that interest you [here](https://wiki.democracycraft.net/category/jobs).
 
 ## Chat
 Our server is unique, as there are three chat channels you use to talk to other players. Please **read this carefully** as you will need to use these channels quite often!
@@ -69,7 +69,7 @@ Our server is unique, as there are three chat channels you use to talk to other 
 - Local (``/l``) - this is a channel with a 50 block radius. Only people within 50 blocks can read your messages (hear you!). Please use this when you are: talking to players right in front of you, seeking treatment from a Doctor, or in an event.
 - Private Messages (``/msg <username>``) - this allows you to have a one on one conversation with anyone. Replace ``<username>`` with whomever you want to talk to!
 
-In addition to these channel commands, you may want to learn some other handy commands. We recommend you visit [this guide](https://democracycraft.net/threads/commands.1264/) sometime after you finish this one!
+In addition to these channel commands, you may want to learn some other handy commands. We recommend you visit [this guide](https://wiki.democracycraft.net/tips-and-tricks/commands) sometime after you finish this one!
 
 ## Health
 

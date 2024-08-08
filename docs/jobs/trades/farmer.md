@@ -51,7 +51,7 @@ If you've passed your Farmer exam, here are your next steps:
 
 For more detailed information on making money, you can refer to the Making Money Guide.
 
-Additionally, you can find job opportunities and connect with potential employers through DC Jobs: [Join the DC Jobs Discord here](https://discord.gg/Q8rNjddjjh).
+- Additionally, you can find job opportunities and connect with potential employers through DC #employment channel: [DC Employment](https://discord.gg/democracy)
 
 **Farmer Recipes**
 

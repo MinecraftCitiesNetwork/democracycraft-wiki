@@ -52,6 +52,5 @@ If you enjoy writing and publishing, this job is tailored for you.
 
 After passing the exam, it's recommended to find a plot for your shop, rent one, or create a Discord server to operate your journalism business. The Department of Education and Commerce wishes you the best of luck.
 
-For more information on making money, check the [Making Money Guide](https://democracycraft.net/threads/making-money.1410/).
-
-You can explore job opportunities with DC Jobs: [Join the DC Jobs Discord here](https://discord.gg/Q8rNjddjjh).
+- For more information on making money, check the [Making Money Guide](https://wiki.democracycraft.net/government/money/).
+- You can explore job opportunities with DC #employment channel: [DC Employment](https://discord.gg/democracy)

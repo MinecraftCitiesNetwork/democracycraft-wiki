@@ -50,4 +50,4 @@ To gather resources, you can either buy them from player shops or collect them i
 
 (Check `/map` if you're looking for a specific biome).
 
-For more information, read this guide: [Guide - Making Money](https://democracycraft.net/threads/making-money.1410/)
+For more information, read this guide: [Guide - Making Money](https://wiki.democracycraft.net/government/money/)

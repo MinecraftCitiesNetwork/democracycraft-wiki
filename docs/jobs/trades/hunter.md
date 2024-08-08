@@ -24,7 +24,7 @@ After passing the exam, it's recommended that Hunters set up farms to generate i
 - [Skeleton/Zombie Farm](https://www.youtube.com/watch?v=dQUwA2AikHo)
 - [Slime Farm](https://www.youtube.com/watch?v=X1mRLDpoiOk)
 
-For more information, you can refer to the [Making Money Guide](https://democracycraft.net/threads/making-money.1410/) or the [Mob Egg Capturing Guide](https://www.democracycraft.net/threads/mob-egg-capturing.9644/).
+For more information, you can refer to the [Making Money Guide](https://wiki.democracycraft.net/government/money/) or the [Mob Egg Capturing Guide](https://wiki.democracycraft.net/features/mobeggs).
 
 ## Hunter Recipes
 

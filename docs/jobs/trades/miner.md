@@ -43,6 +43,5 @@ As a Miner, your main role is to mine ores, such as coal and netherite, and sell
 </details>
 
 ## Additional Resources
-
-- To find more ways to make money, read the [Making Money Guide](https://democracycraft.net/threads/making-money.1410/).
-- You can also explore job opportunities with DC Jobs: [Join the DC Jobs Discord Server!](https://discord.gg/Q8rNjddjjh)
+- To find more ways to make money, read the [Making Money Guide](https://wiki.democracycraft.net/government/money/).
+- You can explore job opportunities with DC #employment channel: [DC Employment](https://discord.gg/democracy)

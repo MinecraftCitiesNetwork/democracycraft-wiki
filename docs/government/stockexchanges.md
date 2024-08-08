@@ -30,4 +30,4 @@ In addition, some private stock exchanges may charge fees on transferring or lim
 
 Listed and linked below are some of the Private Stock Exchanges on the server:
 
-1. [The Exchange](https://discord.gg/Ws7ke4Tjuy)
+1. [The Exchange](https://discord.gg/HufTG6Cf8m)
